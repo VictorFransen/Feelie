@@ -6,13 +6,7 @@
 5/12/2024
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
-
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image
+Leerlingen die net de stap naar het basisonderwijs maken hebben vaak nog moeilijkheden met het communiceren van hun emoties. Deze emoties zijn dan ook nog volop in ontwikkeling. Doordat de kinderen hun emoties niet kunnen verwoorden of gewoonweg bang zijn om hun emoties te uiten naar de leekracht, kan dit moeilijke situaties in de klas veroorzaken. Aan de hand van literatuuronderzoek, intervieuws en een focusgroep zijn we tot de bodem gedoken van dit probleem en hebben we de huidige situatie en producten onderzocht. Ons project, Feelie, biedt een hanige en laagdrempelige manier om de leerlingen hun emoties te communiceren naar de leerkracht toe. Aan de hand van twee fysieke interfaceses en een app kan de leerling met één druk op een knop zijn emotie efficient communiceren met de leerkracht. De leerkracht kan dan direct handelen maar ook later nog eens alles bekijken in de app. Deze interfaces en app zijn ontwikkelt en gefinetuned doormiddel van bevragingen en concept- en usertests.
 
 ## Introductie
 Max 300 woorden.
