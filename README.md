@@ -1,9 +1,9 @@
 # Feelie
-*Omschrijving van je concept in 1 zin* 
+*Feelie is een systeem dat helpt met het communiceren en ontwikkelen van de emoties van leerlingen van het 1e tot het 3e leerjaar in een klascontext.* 
 
 *Projectteam: Linde Aerssens; Victor Fransen*
 
-Datum
+5/12/2024
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
