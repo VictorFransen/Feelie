@@ -62,3 +62,20 @@ Max. 500 woorden
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
+### Discovery
+- **Literatuuronderzoek**
+  - [Protocol]([url](https://acrobat.adobe.com/id/urn:aaid:sc:EU:b8ed9e80-3bb4-42db-b298-500bad4212d1))
+  - [Rapport]([url](https://acrobat.adobe.com/id/urn:aaid:sc:EU:3ffc149d-f087-40f7-9d81-8d7ccca72b32))
+- **interview**
+  - [Protocol]([url](https://acrobat.adobe.com/id/urn:aaid:sc:EU:4b6db281-ad43-4667-8b5c-be15bfe0595c))
+  - [Rapport]([url](https://acrobat.adobe.com/id/urn:aaid:sc:EU:fff1cd1f-7df0-4306-a81d-5dae30df3dcd))
+- **Focusgroep**
+  - [Protocol]([url](https://acrobat.adobe.com/id/urn:aaid:sc:EU:233cdea7-30ad-4383-bd4e-c6e02371e6ce))
+  - [Rapport](url)
+### Definition
+- **Wave 1 gebruikerstesten**
+  - [Protocol]([url](https://acrobat.adobe.com/id/urn:aaid:sc:eu:a72d5413-d0ee-4f44-b1e1-2a1e4b68513a))
+  - [Rapport]([url](https://acrobat.adobe.com/id/urn:aaid:sc:eu:d71bb71f-ce42-4e73-b318-c8e4f45a3a2c))
+- **Wave 2 gebruikerstesten**
+  - [Protocol](url)
+  - [Rapport](url)
