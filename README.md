@@ -1,5 +1,5 @@
 # Feelie
-*Feelie is een systeem dat helpt met het communiceren en ontwikkelen van de emoties van leerlingen van het 1e tot het 3e leerjaar in een klascontext.* 
+*Feelie is een systeem dat helpt met het communiceren en ontwikkelen van de emoties van leerlingen van het 1e tot en met het 3e leerjaar in een klascontext.* 
 
 *Projectteam: Linde Aerssens; Victor Fransen*
 
@@ -9,9 +9,15 @@
 Leerlingen die net de stap naar het basisonderwijs maken hebben vaak nog moeilijkheden met het communiceren van hun emoties. Deze emoties zijn dan ook nog volop in ontwikkeling. Doordat de kinderen hun emoties niet kunnen verwoorden of gewoonweg bang zijn om hun emoties te uiten naar de leerkracht, kan dit moeilijke situaties in de klas veroorzaken. Aan de hand van literatuuronderzoek, interviews en een focusgroep zijn we tot de bodem gedoken van dit probleem en hebben we de huidige situatie en producten onderzocht. Ons project, Feelie, biedt een hanige en laagdrempelige manier om de leerlingen hun emoties te communiceren naar de leerkracht toe. Aan de hand van twee fysieke interfaces en een app kan de leerling met één druk op een knop zijn emotie efficiënt communiceren met de leerkracht. De leerkracht kan dan direct handelen maar ook later nog eens alles bekijken in de app. Deze interfaces en app zijn ontwikkelt en gefinetuned doormiddel van bevragingen en concept- en usertests. Eén van de interfaces staat op de bank van de leerling. Hierop staan zes knoppen die allemaal een verschillende emotie uitbeelden. Als er op één van de emoties wordt gedrukt zal dit doorgestuurd worden naar de interface van de leerkracht en de app. Op de interface van de leerkracht heeft ze een snel en duidelijk overzicht van de emoties van de leerlingen die ze op dat moment hebben. In de app kan ze naast de huidige emotie van de leerling tips, een weekoverzicht en een heel jaaroverzicht zien.
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
+Emoties spelen een belangrijke rol in ons dagelijks leven en hebben de laatste jaren veel aandacht gekregen vanuit de wetenschap. Bij jonge kinderen zijn deze emoties nog volop in ontwikkeling, waardoor ze vaak nog moeite hebben met het herkennen, communiceren en reguleren ervan. Deze vaardigheden zijn daarentegen wel van cruciaal belang, ze dragen niet alleen bij tot betere prestaties op school en een goede groepsdynamiek maar kunnen op lange termijn ook een positieve invloed hebben op het mentaal welzijn en zelf de gezondheid.
+
+In dit ontwerpproces werd aan de slag gegaan om leerlingen te ondersteunen bij het ontwikkelen van deze competenties door ze hun emoties te leren benoemen, wat de eerste stap is in emotieregulatie en ze te daarna naar de leerkracht toe te communiceren op een laagdrempelige manier. Zodat de leerkracht op de hoogte is van de emoties van de leerlingen en hier eventueel op kan inspelen zonder al te veel tijd te verliezen. Samengevat werd in dit proces een antwoord gezocht op de vraag: ‘Hoe kunnen emoties van kinderen op een laagdrempelige manier gecommuniceerd worden naar de leerkracht toe in een klascontext?’. Hierbij zijn de belangrijkste randvoorwaarden:
+-	Gebruiksvriendelijk
+-	Intuïtief
+-	Tijdsbesparend
+-	Laagdrempelig
+
+In dit ontwerp staat de gebruikers, waarbij de belangrijkste de leerkracht en leerlingen zijn, centraal. Het doel is om een ontwerp te maken dat in de eerste plaats aansluit bij hun behoeften. (bronvermelding nog doen)
 
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
@@ -65,7 +71,7 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:fff1cd1f-7df0-4306-a81d-5dae30df3dcd)
 - **Focusgroep**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:233cdea7-30ad-4383-bd4e-c6e02371e6ce)
-  - [Rapport](url)
+  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:01e18d2f-dbab-46d9-97d0-6a67dd119852)
 ### Definition
 - **Wave 1 gebruikerstesten**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:eu:a72d5413-d0ee-4f44-b1e1-2a1e4b68513a)
