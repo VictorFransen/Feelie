@@ -11,7 +11,7 @@ Leerlingen die net de stap naar het basisonderwijs maken hebben vaak nog moeilij
 ## Introductie
 Emoties spelen een belangrijke rol in ons dagelijks leven en hebben de laatste jaren veel aandacht gekregen vanuit de wetenschap. Bij jonge kinderen zijn deze emoties nog volop in ontwikkeling, waardoor ze vaak nog moeite hebben met het herkennen, communiceren en reguleren ervan. Deze vaardigheden zijn daarentegen wel van cruciaal belang, ze dragen niet alleen bij tot betere prestaties op school en een goede groepsdynamiek maar kunnen op lange termijn ook een positieve invloed hebben op het mentaal welzijn en zelf de gezondheid.
 
-In dit ontwerpproces werd aan de slag gegaan om leerlingen te ondersteunen bij het ontwikkelen van deze competenties door ze hun emoties te leren benoemen, wat de eerste stap is in emotieregulatie en ze te daarna naar de leerkracht toe te communiceren op een laagdrempelige manier. Zodat de leerkracht op de hoogte is van de emoties van de leerlingen en hier eventueel op kan inspelen zonder al te veel tijd te verliezen. Samengevat werd in dit proces een antwoord gezocht op de vraag: ‘Hoe kunnen emoties van kinderen op een laagdrempelige manier gecommuniceerd worden naar de leerkracht toe in een klascontext?’. Hierbij zijn de belangrijkste randvoorwaarden:
+In dit ontwerpproces werd aan de slag gegaan om leerlingen te ondersteunen bij het ontwikkelen van deze competenties door ze hun emoties te leren benoemen, wat de eerste stap is in emotieregulatie en ze te daarna naar de leerkracht toe te communiceren op een laagdrempelige manier. Op deze manier is de leerkracht op de hoogte van de emoties van de leerlingen en kan hier eventueel op inspelen zonder al te veel tijd te verliezen. Samengevat werd in dit proces een antwoord gezocht op de vraag: ‘Hoe kunnen emoties van kinderen op een laagdrempelige manier gecommuniceerd worden naar de leerkracht toe in een klascontext?’. Hierbij zijn de belangrijkste randvoorwaarden:
 -	Gebruiksvriendelijk
 -	Intuïtief
 -	Tijdsbesparend
@@ -22,29 +22,52 @@ In dit ontwerp staat de gebruikers, waarbij de belangrijkste de leerkracht en le
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
-## Discovery
-Max. 1000 woorden
-### Doestellingen
-Wat wilde je bereiken?
-### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
-### Resultaten
+## 1 Discovery
+### 1.1 Doestellingen
+Tijdens de eerste fase, de discovery, is het doel om het gestelde probleem verder te ontwerpen en ontrafelen. Op deze manier kunnen eventuele 'gaps' gevonden worden. De onderzoeksvraag hierbij is: ‘Hoe kunnen emoties bij kinderen op de lagere school beter gecommuniceerd en gereguleerd worden met behulp van slimme technologie?’
+Deze onderzoeksvraag wer onderverdeeld in de volgende deelvragen:
+
+1. Welke stakeholders zijn van belang?
+2. Waarom is het belangrijk dat kinderen hun emoties goed kunnen reguleren en communiceren in een schoolcontext? 
+3. Welke rol kan een leerkracht spelen bij de emotionele ontwikkeling van kinderen? 
+4. Welke producten of methodes bestaan er op die markt die te maken hebben met kinderen en hun emoties? 
+5. Hoe zou het emotionele welzijn en bewustzijn van kinderen nog verbeterd kunnen worden? 
+6. Wanneer worden welke emoties ervaren op school? 
+7. Welke kinderen hebben het voornamelijk moeilijk met het reguleren/communiceren van hun emoties? 
+8. Welke methodes worden er in de praktijk toegepast om de emoties van kinderen te communiceren en reguleren? 
+9. Waarom hebben kinderen moeite met het communiceren van hun emoties? 
+10. Hoe communiceren kinderen met hun klasgenoten en leerkrachten over hun emoties? 
+11. Welke emotionele/sociale uitdagingen zijn er voor kinderen in een schoolomgeving? 
+12. Hoe zouden emoties van kinderen beter gecommuniceerd kunnen worden op school? 
+### 1.2 Materiaal & methoden
+Om op de bovengenoemde vragen onderbouwde antwoorden te krijgen werd eerst aan literatuuronderzoek gedaan en daarna werd een focusgroep gehouden en interviews.
+#### 1.2.1 literatuuronderzoek
+In het literatuur onderzoek werd een antwoord gezocht op vragen 1, 2, 3, 4 en 5 die opgesteld zijn in de doelstellingen. Hierbij werd gebruik gemaakt van stakeholder mapping en de 5W/H methode. Het volledige uitgewerkte protocol van dit literatuuronderzoek is [hier](###discovery) te vinden.
+#### 1.2.2 interviews (N=3)
+Om antwoorden te krijgen op de vragen 8, 9, 10, 11 en 12 opgesteld in de doelstellingen werden interviews gehouden met twee leerkrachten (1e en 3e leerjaar) en een zorgleerkracht. Het protocol voor deze interviews is [hier](###discovery) Deze interwiews werden geanalyseerd en vervolgens werd uit de dat een user mogel en persona opgesteld.
+#### 1.2.3 focusgroeg (N=4)
+Om antwoorden te krijgen op de vragen 6, 7, 8 en 9 opgesteld in de doelstellingen werd een focusgroep gehouden. Deze werd gehouden met kinderen van 8 tot 10 jaar. Het volledige protocol van deze focusgroep is [hier](###discovery) te vinden. De focugroep is gehouden aan de hand van een spel om het leuk en kindvriendelijk te maken. 
+
+![image](https://github.com/user-attachments/assets/b1b64e21-5df7-4ba7-8a38-89dc2a2fba46)
+
+Daarna werd de analyse gedaan en een persona gemaakt.
+### 1.3 Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
-## Definition
+## 2 Definition
 Max. 1000 woorden
-### Doestellingen
+### 2.1 Doestellingen
 Wat wilde je bereiken?
-### Materiaal & methoden
+### 2.2 Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.
-### Resultaten
+### 2.3 Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
+### 2.4 Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
-## Bill of materials
+## 3 Bill of materials
 - Welk
 - Materiaal
 - Heb
@@ -55,10 +78,10 @@ Definieer de belangrijkste designbeslissingen
 - Je
 - Prototype
 
-## Kritische reflectie
+## 4 Kritische reflectie
 Max. 500 woorden
 
-## Bronnen
+## 5 Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
