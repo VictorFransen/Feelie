@@ -20,6 +20,10 @@ In dit ontwerpproces werd aan de slag gegaan om leerlingen te ondersteunen bij h
 In dit ontwerp staat de gebruikers, waarbij de belangrijkste de leerkracht en leerlingen zijn, centraal. Het doel is om een ontwerp te maken dat in de eerste plaats aansluit bij hun behoeften. (bronvermelding nog doen)
 
 ## Methodologie
+In de figuur hieronder is een tijdslijn te zien van de stappen en methodologiën die doorlopen zijn. 
+De eerste fase is de discovery fase. Hierbij werd de opdracht namelijk iets ontwerpen rond het thema 'Empathic wear' geëxploreerd. Wanneer het duidelijk was dat iets ontworpen zou worden voor kinderen in de lagere school is aan literatuuronderzoek gedaan. De 5W/H methode werd gebruikt om een houvast te vormen in de zee van informatie. Daarna werd een stakeholder analyse gemaakt om een beter zicht te krijgen op de betrokken partijen. Overlappend met dit literatuuronderzoek is een focusgroep en interviews gehouden. De focusgroep was met kinderen uit de lagere school, uit deze data werd een persona opgemaakt. Er zijn drie interviews gehouden met leerkrachten uit de lagera school, uit de analyse van deze data werd een user model en persona opgemaakt. In de les werd daarnaast tijd voorzien om een 'sprint day' te houden. Tijdens deze sprint day werd onder andere een lotusbloem en een innovatrix gemaakt en aan ideation en selectie gedaan. Verder werd er tussen deze activiteiten gebrainstormt om concepten te ontwikkelen en een selectie hiervan te maken.  
+![tijdslijn](https://github.com/user-attachments/assets/3815f89b-fea6-4697-a9fd-d8dfcd0b8ec8)
+
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
 ## 1 Discovery
