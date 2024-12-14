@@ -27,7 +27,7 @@ De tweede fase is de defenition fase. Hier is het de bedoeling om het concept ui
 ## 1 Discovery
 ### 1.1 Doestellingen
 Tijdens de eerste fase, de discovery, is het doel om het gestelde probleem verder te ontwerpen en ontrafelen. Op deze manier kunnen eventuele 'gaps' gevonden worden. De onderzoeksvraag hierbij is: ‘Hoe kunnen emoties bij kinderen op de lagere school beter gecommuniceerd en gereguleerd worden met behulp van slimme technologie?’
-Deze onderzoeksvraag wer onderverdeeld in de volgende deelvragen:
+Deze onderzoeksvraag werd onderverdeeld in de volgende deelvragen:
 
 1. Welke stakeholders zijn van belang?
 2. Waarom is het belangrijk dat kinderen hun emoties goed kunnen reguleren en communiceren in een schoolcontext? 
@@ -44,20 +44,44 @@ Deze onderzoeksvraag wer onderverdeeld in de volgende deelvragen:
 ### 1.2 Materiaal & methoden
 Om op de bovengenoemde vragen onderbouwde antwoorden te krijgen werd eerst aan literatuuronderzoek gedaan en daarna werd een focusgroep gehouden en interviews.
 #### 1.2.1 literatuuronderzoek
-In het literatuur onderzoek werd een antwoord gezocht op vragen 1, 2, 3, 4 en 5 die opgesteld zijn in de doelstellingen. Hierbij werd gebruik gemaakt van stakeholder mapping en de 5W/H methode. Het volledige uitgewerkte protocol van dit literatuuronderzoek is [hier](###discovery) te vinden.
+In het literatuur onderzoek werd een antwoord gezocht op vragen 1, 2, 3, 4 en 5 die opgesteld zijn in de doelstellingen. Hierbij werd gebruik gemaakt van stakeholder mapping en de 5W/H methode. Het volledige uitgewerkte protocol van dit literatuuronderzoek is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:c845fe7f-24a4-4b6a-a0fe-1af629438356) te vinden.
 #### 1.2.2 interviews (N=3)
-Om antwoorden te krijgen op de vragen 8, 9, 10, 11 en 12 opgesteld in de doelstellingen werden interviews gehouden met twee leerkrachten (1e en 3e leerjaar) en een zorgleerkracht. Het protocol voor deze interviews is [hier](###discovery) Deze interwiews werden geanalyseerd en vervolgens werd uit de dat een user mogel en persona opgesteld.
-#### 1.2.3 focusgroeg (N=4)
-Om antwoorden te krijgen op de vragen 6, 7, 8 en 9 opgesteld in de doelstellingen werd een focusgroep gehouden. Deze werd gehouden met kinderen van 8 tot 10 jaar. Het volledige protocol van deze focusgroep is [hier](###discovery) te vinden. De focugroep is gehouden aan de hand van een spel om het leuk en kindvriendelijk te maken. 
+Om antwoorden te krijgen op de vragen 8, 9, 10, 11 en 12 opgesteld in de doelstellingen werden interviews gehouden met twee leerkrachten (1e en 3e leerjaar) en een zorgleerkracht. Het protocol voor deze interviews is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:4b6db281-ad43-4667-8b5c-be15bfe0595c) Deze interviews werden geanalyseerd en vervolgens werd uit de dat een user model en persona opgesteld.
+#### 1.2.3 focusgroep (N=4)
+Om antwoorden te krijgen op de vragen 6, 7, 8 en 9 opgesteld in de doelstellingen werd een focusgroep gehouden. Deze werd gehouden met kinderen van 8 tot 10 jaar. Het volledige protocol van deze focusgroep is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:233cdea7-30ad-4383-bd4e-c6e02371e6ce) te vinden. De focusgroep is gehouden aan de hand van een spel om het leuk en kindvriendelijk te maken. 
 
 ![image](https://github.com/user-attachments/assets/b1b64e21-5df7-4ba7-8a38-89dc2a2fba46)
 
 Daarna werd de analyse gedaan en een persona gemaakt.
 ### 1.3 Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+#### 1.3.1 literatuurstudie
+Als eerste werden de stakeholders in kaart gebracht, het resultaat hiervan is te zien in onderstaande figuur.
+![image](https://github.com/user-attachments/assets/bbc8b0b5-4b16-4ea9-9d3f-7b9238db219e)
+Emotieregulatie en communicatie zijn essentieel in een schoolcontext. Het bevordert niet enkel de academische prestaties maar ook de samenhang van de leerlingen in de klas. Leerkrachten spelen hierin een belangrijke rol, zo kunnen ze kinderen aanmoedigen om goed met hun emoties te leren omgaan en ze een veilige en rustige plek aanbieden.  In een schoolcontext is er een behoefte van leerlingen om hun emoties op een laagdrempelige manier te communiceren of uiten zonder zich ongemakkelijk te voelen of de emoties uit te spreken. Er worden al veel methodes gebruikt in deze context. Maar deze zijn vaak passief en geven geen actieve feedback en interactie. Een voorbeeld hiervan is de emotiemeter zoals te zien in de figuur hieronder.
 
+![image](https://github.com/user-attachments/assets/df88d538-1a84-4d62-897f-a2ec23a40aca)
+
+Samengevat kon uit deze literatuurstudie geconcludeerd worden dat het communiceren en reguleren van emoties zeer belangrijk is voor leerlingen en er ruimte is om voor deze doelgroep en situatie iets nuttigs te ontwerpen.
+Het volledige rapport met de analyse en bronnen is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:cd1d0bf1-15b4-4a6f-bd34-006992754987) te vinden.
+#### 1.3.2 user interviews (N=3)
+Obstakels die leerkrachten tegenkomen op een schooldag in verband met emoties zijn als eerste de communicatievaardigheden van kinderen. Emoties die vaak aan bod kwamen waren frustratie en stress. Dit vooral omdat kinderen nood hebben en structuur en wanneer ze de structuur niet zien of deze niet krijgen ze gefrustreerd of gestresseerd geraken. Ook werd verschillende keren aangehaald dat regen in de pauze kan zorgen voor stress omdat de leerlingen dan op een kleine ruimte samenzitten. Op dit moment gebruiken leerkrachten verschillende methodes die kinderen helpen met hun emoties. Zo wordt er structuur in de dag van kinderen gebracht door de dagplanning op het bord te zetten en deze samen te overlopen. Op deze manier wordt voorspelbaarheid en rust gecreëerd. Ook gebruiken leerkrachten vaak symbolen om emoties te visualiseren. Zo kunnen kinderen die moeite hebben met het verwoorden van hun emoties dit toch doen. Ook worden rustige momenten ingelast om aan te zetten tot reflectie en communicatie.
+Als resultaat van deze user interviews kon een persona opgemaakt worden voor de leerkrachten. Deze is hieronder te zien.
+![image](https://github.com/user-attachments/assets/f904315f-3a9c-4d39-89a5-2507de9205b7)
+De volledige analyse en conclusies zijn [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:fff1cd1f-7df0-4306-a81d-5dae30df3dcd)
+#### 1.3.3 focusgroep (N=4)
+De gemiddelde leertijd van de kinderen in deze focusgroep was iets ouder namelijk tussen 8 en 10 jaar. Ze representeren dus niet heel de doelgroep namelijk kinderen tussen 5 en 12 jaar. De deelnemers konden vrij snel de emoties die op het spelbord stonden herkennen en uitleggen in welke situatie ze die emotie al hadden meegemaakt. Kinderen tussen 8 en 10 jaar kunnen dus al redelijk goed hun emoties herkennen en benoemen. Wanneer er gevraagd werd of ze iets deden wanneer ze een bepaalde emotie ervaarden werd vaak met 'nee' geantwoord. Dit wijst erop dat veel kinderen geen actie nemen om hun emoties zelf te reguleren tenzij er een volwassene bij betrokken is. In de klas worden soms hulpmiddelen gebruikt, zoals een emotiemeter die ook vermeld werd in het literatuuronderzoek, om hun emoties aan te duiden maar niet echt hulpmiddelen om hun emoties te leren reguleren. Ook werden deze hulmiddelen niet altijd frequent gebruikt wat erop wijst dat er meer structuur nodig is om ze consequent te gebruiken en hier echt de voordelen van te verkrijgen. In de focusgroep werd ook één vraag gesteld over anderstalige kinderen. Hieruit bleek dat zij een extra uitdaging hebben vanwege de taalbarrière. Er ontstaan namelijk frustraties omdat zij nog een extra barrière hebben om hun emoties te uiten.  
+Op basis van deze analyse kon een persona opgesteld worden die leerlingen uit de lagere school representeert. Deze is hieronder te zien.
+![image](https://github.com/user-attachments/assets/d2c8a45d-a431-424f-857a-b6f84a99cfc9)
+De volledige analyse van de focusgroep is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:01e18d2f-dbab-46d9-97d0-6a67dd119852) te vinden.
+### Conclusies & implicaties
+Allereerst werd na deze eerste onderzoeken beslist om de onderzoeksvraag aan te passen naar: 'Hoe kan design en technologie ervoor zorgen dat jonge kinderen (1e tot en met 3e leerjaar) hun emoties beter kunnen communiceren in een schoolcontext.' Deze aanpassing werd gedaan omdat de eerste onderzoeksvraag nogal breed was en die niet kon opgelost worden met 1 product. Er is besloten om enkel te focussen op communicatie van emoties en niet zozeer de regulatie. Omdat bleek dat vooral jonge kinderen (tot ongeveer het derde leerjaar) nood hebben aan het communiceren van hun emoties is de doelgroep hiernaar aangepast.
+Uit de discovery fase konden volgende conclusies en implicaties voor het ontwerp gehaald worden:
+1. Het ontwerp moet regelmatig gebruik stimuleren.
+2. Visuele representatie om emoties eenvoudig en intuïtief herkenbaar te maken zonder dat er taal voor nodig is.
+3. Het ontwerp moet kinderen bewust laten nadenken over hun emoties aangezien dit de eerste stap tot zelfregulatie is.
+4. Een monitoringtool voor leerkrachten om emoties van leerlingen te kunnen bijhouden en hier eventueel op in te spelen.
+5. Het ontwerp moet de structuur die in de klas gebruikt worden kunnen ondersteunen.
+Deze implicaties werden geïmplementeerd in de design requirements die uitgeschreven staan bij de defenition fase.
 ## 2 Definition
 Max. 1000 woorden
 ### 2.1 Doestellingen
@@ -89,8 +113,8 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 ## Bijlagen
 ### Discovery
 - **Literatuuronderzoek**
-  - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:b8ed9e80-3bb4-42db-b298-500bad4212d1)
-  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:3ffc149d-f087-40f7-9d81-8d7ccca72b32)
+  - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:c845fe7f-24a4-4b6a-a0fe-1af629438356)
+  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:cd1d0bf1-15b4-4a6f-bd34-006992754987)
 - **interview**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:4b6db281-ad43-4667-8b5c-be15bfe0595c)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:fff1cd1f-7df0-4306-a81d-5dae30df3dcd)
