@@ -85,26 +85,152 @@ Uit de discovery fase konden volgende conclusies en implicaties voor het ontwerp
 5. Het ontwerp moet de structuur die in de klas gebruikt worden kunnen ondersteunen.
 Deze implicaties werden geïmplementeerd in de design requirements die uitgeschreven staan bij de defenition fase.
 ## 2 Definition
-Max. 1000 woorden
 ### 2.1 Doestellingen
-Wat wilde je bereiken?
+In de eerste fase, discovery, werd het probleem onderzocht en concepten als oplossing bedacht. De tweede fase, definition, heeft als doel deze concepten te valideren en na te gaan of ze een effectieve oplossing bieden.
+
+Na de initiële discovery fase werden eerst nog enkele aanpassingen gedaan aan het toen gedefinieerde concept. Zo werd er een aan de app toegevoegd dat de leerkracht tips kan krijgen hoe er met emoties omgegaan bij de leerlingen. Ook werd er ook een extra interface voorzien voor de leerkrachten zodat zij in een oogopslag kunnen zien hoe de leerlingen zich voelen zonder hun GSM te moeten bovenhalen.
+
 ### 2.2 Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+Om het concept te valideren, werden twee rondes (‘waves’) van gebruikerstesten uitgevoerd met eenvoudige ‘quick and dirty’ prototypes. Feedback hieruit werd gebruikt om het concept verder te verbeteren.
+#### 2.2.1 Gebruikerstesten wave 1 (N=5, 2 leerkrachten, 3 leerlingen)
+Aan de hand van een storyboard (zie figuur) werden er ook een aantal onderzoeksvragen opgesteld:
+Interface leerlingen: 
+-Hoeveel interfaces zijn er nodig in een klas?
+-	Hoe moet de interface eruit zien zodat het gebruik ervan laagdrempelig en intuïtief is voor leerlingen van het 1e tot 3e leerjaar?
+Interface leerkracht: 
+- Welke vorm moet de oplossing krijgen zodat de leerkracht op een snelle en efficiënte manier een overzicht krijgt van de emoties van de leerlingen in klas?
+- Hoe moet de app eruit zien om een goed overzicht te bieden van de verschillende emoties die de leerlingen ervaarden?
+##### 2.2.1.1 Protocol gebruikerstesten wave 1
+Het volledige protocol voor de gebruikerstesten van wave 1 is te vinden via deze link. Volgende prototypes werden getest:
+
+**Interface leerlingen**
+Al deze prototypes hebben hetzelfde concept. Er wordt een emotie aangeduid en deze wordt dan gecommuniceerd naar de leerkracht. Enkel de vormgeving en toepassing in de klascontext verschilt.
+
+- Prototype 1
+
+Een bakje met twee deurtjes, geplaatst op de bank. Leerlingen kunnen emoties aangeven zonder dat anderen meekijken.
+
+- Prototype 2
+
+Een bakje dat aan de zijkant van de bank hangt, eveneens met een deurtje. Zo wordt er een minimum aan plaats ingenomen, afleiding vermeden en de privacy gewaarborgd.
+
+- Prototype 3
+
+Om een meer vertrouwd gevoel te geven aan de kinderen maakt het derde prototype gebruik van een teddybeer.
+
+- Prototype 4
+
+Bij dit prototype word er gebruik gemaakt van een slider in de vorm van een pijltje in plaats van knoppen. De leerling verschuift het pijltje naar de emotie die hij/zij voelt.
+
+**Interface leerkracht**
+- Prototype 1
+
+Een balk met namen van leerlingen en de laatst ingegeven emotie. De balk kan op het bureau van de leerkracht geplaats worden. De balk kan aangepast worden in functie van de klasgrootte.
+
+- Prototype 2
+
+Bij dit prototype zijn de emoties van elke leerlingen weergegeven volgens de klasopstelling in plaats van namen.
+
+- Prototype 3
+
+Dit prototype werkt ook volgens klasopstelling. De emoties worden weergegeven met lichtjes. Er kunnen extra rijen toegevoegd worden in functie van de hoeveelheid leerlingen.
+
+**App**
+
+Om met de app concepttesten te kunnen doen werd een prototype gemaakt met behulp van Powerpoint. De  Powerpoint is te vinden via deze [link](https://ugentbe-my.sharepoint.com/:p:/r/personal/linde_aerssens_ugent_be/Documents/semester 3/project gebruiksgericht ontwerpen/002_defenition/pwp_test.pptx?d=w1f1832b05cf0445f8539058f8e9dea3d&csf=1&web=1&e=eWel1Q).
+
+#### 2.2.2 Gebruikerstesten wave 2 (N=5, 2 leerkrachten, 3 leerlingen)
+Aan de hand van de gekregen feedback van de testen uit wave 1 werd een vernieuwd storyboard opgesteld (zie figuur). Hiermee werden nieuwe onderzoeksvragen opgesteld en nieuwe prototypes gemaakt.
+Deze onderzoeksvragen zijn als volgt:
+
+Interface leerlingen:
+-	Voelen de kinderen zich comfortabel genoeg om het in de klas te gebruiken? 
+-	Zet de vormgeving en lay-out aan tot regelmatig gebruik door de leerling? 
+-	Zijn alle knoppen duidelijk te koppelen aan emoties? 
+
+Interface leerkrachten:
+-	Word er voldoende en duidelijke informatie afgebeeld om de nodige actie te ondernemen? 
+-	Zet de vormgeving van het product aan tot regelmatig gebruik?
+
+##### 2.2.2.1 Protocol gebruikerstesten wave 2
+Voor het volledige protocol van wave 2 volg deze link.
+De geteste en bevraagde prototypes waren:
+
+**Interface leerlingen**
+- prototype 1
+
+Dit prototype voor de leerlingen is bedoeld zowel op als in de bank gezet te kunnen worden. Zowel tijdelijk als altijd. Daarom is het klepje ook afneembaar. Hierop kan de leerling zijn of haar emotie aanduiden en wordt dit rechtstreeks naar de leerkracht gecommuniceerd.
+
+**Interface leerkrachren**
+
+Dit prototype voor de leerkrachten is bedoeld om een compacte en makkelijk verplaatsbare interface voor te stellen. Hierbij kan de leerkracht op een makkelijke en overzichtelijke manier zien welke leerling welke emotie heeft.
+
+**App**
+Er is ook een verbeterde versie van de app uitgewerkt in Figma. De app biedt een duidelijk overzicht van emoties, met week- en jaaroverzichten en tips voor het omgaan met emoties. Zie deze [link](https://embed.figma.com/proto/xjk2GZR6GmpDlgrpEQ6WCS/Untitled?node-id=1-2&starting-point-node-id=1%3A2&embed-host=share)
+
 ### 2.3 Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+Doorheen de discovery en definition fase zijn aan de hand van onderzoek, interviews, focusgroepen en gebruikerstesten een aantal designrequirements opgesteld:
+
+|Nummer|Criteria|Bron|Datum|
+|---|---|---|---|
+|0.1|Het ontwerp moet de structuur die in de klas word gebruikt ondersteunen|Interviews|12/11/2024|
+|0.2|Het ksotenplaatje is zo laag mogelijk|Concepttesten wave 1|30/11/24|
+|Interface leerlingen|
+|1.1 Algemeen|
+|1.1.1|Leerlingen leren actief nadenken over welke emoties ze voelen|Literatuuronderzoek|14/11/2024|
+|1.1.2|Het ontwerp moet regelmatig gebruik stimuleren|Literatuuronderzoek, concepttesten wave 1|14/11/2024|
+|1.1.3|De interface leidt niet af van de les|Interview,literatuuronderzoek|14/11/2024|
+|1.1.4|De interface is compact|Concepttesten wave 1|28/11/2024|
+|1.1.5|Robuust genoeg|Concepttesten wave 1|28/11/2024|
+|1.1.6|De leerlingen kunnen discreet hun emotie aanduiden|Concepttesten wave 1|28/11/2024|
+|1.1.7|Het product maakt geen storend geluid|Concepttesten wave 1|28/11/2024|
+|1.1.8|Makkelijk verplaatsbaar|Concepttesten wave 1|28/11/2024|
+|1.1.9|Het product is geschikt voor verschillende soorten schoolbanken|Concepttesten wave 2|12/12/2024|
+|1.2 Learnability|
+|1.2.1|De leerling kan de correcte emotie aan de knoppen koppelen|Literatuuronderzoek|14/11/2024|
+|1.2.2|De interface is toegankelijk voor leerlingen van het 1e tot het 3e leerjaar|Interview|14/11/2024|
+|1.3 Gebruiksgemak|
+|1.3.1|De interface is makkelijk te bedienen|Literatuuronderzoek|14/11/2024|
+|1.3.2|Er word geen taal gebruikt om emoties te communiceren|Interview|14/11/2024|
+|2 Leerkrachten fysieke interface|
+|2.1 Algemeen|
+|2.1.1|Het van de eerste keer duidelijk hoe het product werkt|Concepttesten wave 1|30/11/2024|
+|2.1.2|De interface nodigt uit om het frequent te blijven gebruiken|Focusgroep|14/11/2024|
+|2.1.3|De interface kan (makkelijk) verplaatst worden|Concepttesten wave 1|28/11/2024|
+|2.1.4|Aanpasbaar aan de hoeveelheid leerlingen|Literatuuronderzoek|14/11/2024|
+|2.2 Visualisatie|
+|2.2.1|De leerkracht kan snel zien welke emoties de kinderen ervaren|Interview|14/11/2024|
+|2.2.2|De leerkrachten kunnen op hun gemak bekijken welke emoties de kinderen de afgelope tijd ervaarden|Interview|14/11/2024|
+|3 Leerkrachten app|
+|3.1 Algemeen|
+|3.1.1|Er is advies beschikbaar over hoe ze met een bepaalde emotie kunnen omgaan|Literatuuronderzoek|14/11/2024|
+|3.1.2|De leerkracht kan op een rustig moment bekijken welke emoties de leerlingen ervaarden|Interview|14/11/2024|
+|3.1.3|De app is overzichtelijk en simpel|Concepttesten wave 2|28/11/2024|
+|3.2 Visualistatie|
+|3.2.1|Duidelijke weergave van wie wanneer welke emotie ervaarde|Concepttesten wave 128/11/2024|
+|3.2.2|Er is een overzicht per leerling|Concepttesten wave 1|28/11/2024|
+|3.2.3|Er is een weekoverzicht beschikbaar|Interview|14/11/2024|
+|3.2.4|De leerkrachten kunnen de gegevens tot op een jaar terugkijken|Concepttesten wave 1|28/11/2024|
+
+
+Momenteel bestaat het gevalideerde concept uit een bakje op de bank van de leerling. Het bakje heeft knoppen waarmee de leerling emoties kan aangeven. Deze emoties worden doorgegeven aan de interface van de leerkracht en een app. Met de interface kan de leerkracht direct ingrijpen in de klas. De app toont ook week- en jaaroverzichten en biedt tips voor emotioneel management. Hierdoor kan de leerkracht ook op zijn/haar gemak kijken naar de emoties van de leerlingen.
+
+Voor een gedetailleerde analyse en rapport van de gebruikerstesten zie: [rapport wave 1](https://acrobat.adobe.com/id/urn:aaid:sc:eu:d71bb71f-ce42-4e73-b318-c8e4f45a3a2c) en [rapport wave 2]()
+
 ### 2.4 Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Uit deze twee waves van conceptesten hebben we duidelijk vastgesteld dat alle vier de leerkrachten zeer enthousiast zijn over het concept. Ze gaven ons aan dat dit een grote impact kan hebben in de klas en de werkdruk kan verlagen. Ook de leerlingen gaven aan dat ze nood hebben aan een laagdrempelige manier om hun emoties te communiceren.  Het is dus duidelijk dat het bedachte concept wel een effectieve en goede oplossing is voor het probleem. Ook werden nog andere belangrijke conclusies en implicaties getrokken uit deze testen:
+-	Product moet de veiligheid en privacy van de leerling waarborgen.
+-	Het product mag niet afleiden tijdens de les.
+-	Het product moet ‘kindproof’ zijn. (robuust, duidelijk,…)
+-	De app moet genoeg informatie bevatten maar ook niet te veel.
+Voor meer conclusies en implicaties zie de tabel onder 2.3 en/of de rapporten van wave 1 en wave 2.
+
 
 ## 3 Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+- karton
+- papier
+- Powerpoint
+- Figma
 
 ## 4 Kritische reflectie
 Max. 500 woorden
