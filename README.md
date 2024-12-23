@@ -120,7 +120,7 @@ Een bakje dat aan de zijkant van de bank hangt, eveneens met een deurtje. Zo wor
 
 - Prototype 3
 <p align="center">
-  <img src="" width="200" /><img src="" width="200" /><img src="" width="200" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_1.3.jpeg?raw=true" width="200" /><img src="" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/knuffel+interface.jpeg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/teddy%20beer+interface.png?raw=true" width="200" />
 </p>
 Om een meer vertrouwd gevoel te geven aan de kinderen maakt het derde prototype gebruik van een teddybeer.
 
@@ -133,13 +133,23 @@ Bij dit prototype word er gebruik gemaakt van een slider in de vorm van een pijl
 **Interface leerkracht**
 - Prototype 1
 
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_leerkrachten1.jpg?raw=true" width="300" />
+</p>
+
 Een balk met namen van leerlingen en de laatst ingegeven emotie. De balk kan op het bureau van de leerkracht geplaats worden. De balk kan aangepast worden in functie van de klasgrootte.
 
 - Prototype 2
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_leerkrachten2.1.jpg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_leerkrachten2.2.jpg?raw=true" width="200" />
+</p>
 
 Bij dit prototype zijn de emoties van elke leerlingen weergegeven volgens de klasopstelling in plaats van namen.
 
 - Prototype 3
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave_1leerkrachten3.jpg?raw=true" width="200" />
+</p>
 
 Dit prototype werkt ook volgens klasopstelling. De emoties worden weergegeven met lichtjes. Er kunnen extra rijen toegevoegd worden in functie van de hoeveelheid leerlingen.
 
@@ -149,6 +159,10 @@ Om met de app concepttesten te kunnen doen werd een prototype gemaakt met behulp
 
 #### 2.2.2 Gebruikerstesten wave 2 (N=5, 2 leerkrachten, 3 leerlingen)
 Aan de hand van de gekregen feedback van de testen uit wave 1 werd een vernieuwd storyboard opgesteld (zie figuur). Hiermee werden nieuwe onderzoeksvragen opgesteld en nieuwe prototypes gemaakt.
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/moodboard_wave2.png?raw=true" width="500" />
+</p>
+
 Deze onderzoeksvragen zijn als volgt:
 
 Interface leerlingen:
@@ -165,13 +179,15 @@ Voor het volledige protocol van wave 2 volg deze link.
 De geteste en bevraagde prototypes waren:
 
 **Interface leerlingen**
-- prototype 1
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_1.jpeg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_2.jpeg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_3.jpeg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_4.jpeg?raw=true" width="200" />
 </p>
 Dit prototype voor de leerlingen is bedoeld zowel op als in de bank gezet te kunnen worden. Zowel tijdelijk als altijd. Daarom is het klepje ook afneembaar. Hierop kan de leerling zijn of haar emotie aanduiden en wordt dit rechtstreeks naar de leerkracht gecommuniceerd.
 
 **Interface leerkrachren**
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_leerkracht.jpg?raw=true" width="300" />
+</p>
 
 Dit prototype voor de leerkrachten is bedoeld om een compacte en makkelijk verplaatsbare interface voor te stellen. Hierbij kan de leerkracht op een makkelijke en overzichtelijke manier zien welke leerling welke emotie heeft.
 
