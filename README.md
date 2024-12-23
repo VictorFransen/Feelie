@@ -193,7 +193,11 @@ Dit prototype voor de leerlingen is bedoeld zowel op als in de bank gezet te kun
 Dit prototype voor de leerkrachten is bedoeld om een compacte en makkelijk verplaatsbare interface voor te stellen. Hierbij kan de leerkracht op een makkelijke en overzichtelijke manier zien welke leerling welke emotie heeft.
 
 **App**
+
 Er is ook een verbeterde versie van de app uitgewerkt in Figma. De app biedt een duidelijk overzicht van emoties, met week- en jaaroverzichten en tips voor het omgaan met emoties. Zie deze [link](https://embed.figma.com/proto/xjk2GZR6GmpDlgrpEQ6WCS/Untitled?node-id=1-2&starting-point-node-id=1%3A2&embed-host=share)
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schermafbeelding%202024-12-23%20151828.png?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schermafbeelding%202024-12-23%20151846.png?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schermafbeelding%202024-12-23%20151902.png?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schermafbeelding%202024-12-23%20151908.png?raw=true" width="200" />
+</p>
 
 ### 2.3 Resultaten
 Doorheen de discovery en definition fase zijn aan de hand van onderzoek, interviews, focusgroepen en gebruikerstesten een aantal designrequirements opgesteld:
