@@ -267,7 +267,21 @@ Voor meer conclusies en implicaties zie de tabel onder 2.3 en/of de rapporten va
 - Figma
 
 ## 4 Kritische reflectie
-Max. 500 woorden
+Na één semester te hebben gewerkt aan Feelie, zijn er ook zaken die ons zijn opgevallen en bijgebleven die we in de toekomst anders zouden doen of juist niet anders zouden doen.
+
+Wat al snel duidelijk werd uit interviews en gebruikerstesten is dat het onderwerp en doel van dit project zeer relevant en nodig is. Door het lerarentekort worden klassen steeds groter en krijgen leerkrachten een hoge werklast. Een tool om deze werklast te verlagen was dus welgekomen.
+
+Naar ons gevoel hebben we dit semester het project goed aangepakt. We hadden voor onszelf een planning opgesteld en ons ook effectief aan de planning gehouden. Ook het werk werd steeds gelijk verdeeld waardoor niemand opmerkelijk meer werk moest doen dan de andere.
+
+Bij het uitvoeren van de gebruikerstesten hebben we geen foto- of videodocumentatie. Op vraag van de leerkrachten en scholen was het niet de bedoeling dat er leerlingen op beeld werden gebracht. Hierdoor zou het trekken van foto’s weinig meerwaarde hebben. Dit is enigszins jammer voor de documentatie van het project.
+
+Ook moet er zeker kritisch gekeken worden naar de resultaten uit de gebruikerstesten van de leerlingen uit wave 2 (1e leerjaar). Wat tijdens deze testen opviel was dat de leerlingen moeilijk vanzelf antwoorden gaven en dat we ze in een bepaalde richting moest sturen om te antwoorden. Hierdoor kwamen vaak de antwoorden naar boven die wij aanhaalden en die zij dan als ‘juist’ opvatte.
+
+Wat wel een goede zaak was, is dat we naar twee verschillende scholen zijn gegaan voor de twee waves van gebruikerstesten. Het was zeer duidelijk dat er nog een groot verschil zat in doelpubliek van de beide scholen. De eerste school was redelijk kleinschalig en had bijna uitsluitend autochtone leerlingen. In Tegenstelling van de tweede school, die veel groter was en een grotere mix van nationaliteiten en culturen had. Dit heeft ook voor interessante inzichten gezorgd.
+
+Wat ons wel jammer lijkt, is dat we geen echte lampjes, schermpjes of echte knopjes hebben geïntegreerd in onze prototypes. Hiermee konden we het concept misschien meer verduidelijken voor de leerlingen. De leerkrachten konden vaak wel een goed idee scheppen over het concept. Dit was soms nog moeilijk voor de leerlingen, zeker voor die van het 1e leerjaar.
+
+Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We hebben ook veel bijgeleerd. We zijn ook blij dat vooral de leerkrachten heel enthousiast reageren en aangeven dat het project een effectieve meerwaarde kan vormen in de klas.
 
 ## 5 Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
