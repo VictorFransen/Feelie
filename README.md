@@ -101,7 +101,8 @@ Interface leerkracht:
 - Welke vorm moet de oplossing krijgen zodat de leerkracht op een snelle en efficiënte manier een overzicht krijgt van de emoties van de leerlingen in klas?
 - Hoe moet de app eruit zien om een goed overzicht te bieden van de verschillende emoties die de leerlingen ervaarden?
 ##### 2.2.1.1 Protocol gebruikerstesten wave 1
-Het volledige protocol voor de gebruikerstesten van wave 1 is te vinden via deze link. Volgende prototypes werden getest:
+Het volledige protocol voor de gebruikerstesten van wave 1 is te vinden via deze [link](https://acrobat.adobe.com/id/urn:aaid:sc:eu:a72d5413-d0ee-4f44-b1e1-2a1e4b68513a).
+Volgende prototypes werden getest:
 
 **Interface leerlingen**
 Al deze prototypes hebben hetzelfde concept. Er wordt een emotie aangeduid en deze wordt dan gecommuniceerd naar de leerkracht. Enkel de vormgeving en toepassing in de klascontext verschilt.
@@ -155,7 +156,7 @@ Dit prototype werkt ook volgens klasopstelling. De emoties worden weergegeven me
 
 **App**
 
-Om met de app concepttesten te kunnen doen werd een prototype gemaakt met behulp van Powerpoint. De  Powerpoint is te vinden via deze [link](https://ugentbe-my.sharepoint.com/:p:/r/personal/linde_aerssens_ugent_be/Documents/semester 3/project gebruiksgericht ontwerpen/002_defenition/pwp_test.pptx?d=w1f1832b05cf0445f8539058f8e9dea3d&csf=1&web=1&e=eWel1Q).
+Om met de app concepttesten te kunnen doen werd een prototype gemaakt met behulp van Powerpoint. De  Powerpoint is te vinden via deze [link](https://ugentbe-my.sharepoint.com/:p:/r/personal/linde_aerssens_ugent_be/Documents/semester%203/project%20gebruiksgericht%20ontwerpen/002_defenition/pwp_test.pptx?d=w1f1832b05cf0445f8539058f8e9dea3d&csf=1&web=1&e=eWel1Q).
 
 #### 2.2.2 Gebruikerstesten wave 2 (N=5, 2 leerkrachten, 3 leerlingen)
 Aan de hand van de gekregen feedback van de testen uit wave 1 werd een vernieuwd storyboard opgesteld (zie figuur). Hiermee werden nieuwe onderzoeksvragen opgesteld en nieuwe prototypes gemaakt.
@@ -175,7 +176,7 @@ Interface leerkrachten:
 -	Zet de vormgeving van het product aan tot regelmatig gebruik?
 
 ##### 2.2.2.1 Protocol gebruikerstesten wave 2
-Voor het volledige protocol van wave 2 volg deze link.
+Voor het volledige protocol van wave 2 volg deze [link](https://acrobat.adobe.com/id/urn:aaid:sc:EU:90d25d05-af82-4730-8d17-69c00fb9f6cb).
 De geteste en bevraagde prototypes waren:
 
 **Interface leerlingen**
@@ -241,7 +242,7 @@ Doorheen de discovery en definition fase zijn aan de hand van onderzoek, intervi
 
 Momenteel bestaat het gevalideerde concept uit een bakje op de bank van de leerling. Het bakje heeft knoppen waarmee de leerling emoties kan aangeven. Deze emoties worden doorgegeven aan de interface van de leerkracht en een app. Met de interface kan de leerkracht direct ingrijpen in de klas. De app toont ook week- en jaaroverzichten en biedt tips voor emotioneel management. Hierdoor kan de leerkracht ook op zijn/haar gemak kijken naar de emoties van de leerlingen.
 
-Voor een gedetailleerde analyse en rapport van de gebruikerstesten zie: [rapport wave 1](https://acrobat.adobe.com/id/urn:aaid:sc:eu:d71bb71f-ce42-4e73-b318-c8e4f45a3a2c) en [rapport wave 2]()
+Voor een gedetailleerde analyse en rapport van de gebruikerstesten zie: [rapport wave 1](https://acrobat.adobe.com/id/urn:aaid:sc:eu:d71bb71f-ce42-4e73-b318-c8e4f45a3a2c) en [rapport wave 2](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f661a435-779b-4238-9a97-c5f221a0e30b)
 
 ### 2.4 Conclusies & implicaties
 Uit deze twee waves van conceptesten hebben we duidelijk vastgesteld dat alle vier de leerkrachten zeer enthousiast zijn over het concept. Ze gaven ons aan dat dit een grote impact kan hebben in de klas en de werkdruk kan verlagen. Ook de leerlingen gaven aan dat ze nood hebben aan een laagdrempelige manier om hun emoties te communiceren.  Het is dus duidelijk dat het bedachte concept wel een effectieve en goede oplossing is voor het probleem. Ook werden nog andere belangrijke conclusies en implicaties getrokken uit deze testen:
@@ -280,5 +281,5 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:eu:a72d5413-d0ee-4f44-b1e1-2a1e4b68513a)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:eu:d71bb71f-ce42-4e73-b318-c8e4f45a3a2c)
 - **Wave 2 gebruikerstesten**
-  - [Protocol](url)
-  - [Rapport](url)
+  - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:90d25d05-af82-4730-8d17-69c00fb9f6cb)
+  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f661a435-779b-4238-9a97-c5f221a0e30b)
