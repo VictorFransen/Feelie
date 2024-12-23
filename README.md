@@ -107,7 +107,7 @@ Het volledige protocol voor de gebruikerstesten van wave 1 is te vinden via deze
 Al deze prototypes hebben hetzelfde concept. Er wordt een emotie aangeduid en deze wordt dan gecommuniceerd naar de leerkracht. Enkel de vormgeving en toepassing in de klascontext verschilt.
 
 - Prototype 1
-
+![foto1_prototype1](wave1_1.1.jpeg)
 Een bakje met twee deurtjes, geplaatst op de bank. Leerlingen kunnen emoties aangeven zonder dat anderen meekijken.
 
 - Prototype 2
