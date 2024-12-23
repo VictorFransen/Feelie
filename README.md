@@ -107,19 +107,27 @@ Het volledige protocol voor de gebruikerstesten van wave 1 is te vinden via deze
 Al deze prototypes hebben hetzelfde concept. Er wordt een emotie aangeduid en deze wordt dan gecommuniceerd naar de leerkracht. Enkel de vormgeving en toepassing in de klascontext verschilt.
 
 - Prototype 1
-<img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_1.1.jpeg?raw=true" width="200" />
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_1.4.jpeg?raw=true" width="200" /> <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_1.1.jpeg?raw=true" width="200" /> <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_1.2.jpeg?raw=true" width="200" />
+</p>
 Een bakje met twee deurtjes, geplaatst op de bank. Leerlingen kunnen emoties aangeven zonder dat anderen meekijken.
 
 - Prototype 2
-
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_2.1.jpeg?raw=true" width="200" /> <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_2.3.jpeg?raw=true" width="200" /> <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_2.2.jpeg?raw=true" width="200" />
+</p>
 Een bakje dat aan de zijkant van de bank hangt, eveneens met een deurtje. Zo wordt er een minimum aan plaats ingenomen, afleiding vermeden en de privacy gewaarborgd.
 
 - Prototype 3
-
+<p align="center">
+  <img src="" width="200" /><img src="" width="200" /><img src="" width="200" />
+</p>
 Om een meer vertrouwd gevoel te geven aan de kinderen maakt het derde prototype gebruik van een teddybeer.
 
 - Prototype 4
-
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_4.2.jpeg?raw=true" width="300" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_4.1.jpeg?raw=true" width="300" />
+</p>
 Bij dit prototype word er gebruik gemaakt van een slider in de vorm van een pijltje in plaats van knoppen. De leerling verschuift het pijltje naar de emotie die hij/zij voelt.
 
 **Interface leerkracht**
@@ -158,7 +166,9 @@ De geteste en bevraagde prototypes waren:
 
 **Interface leerlingen**
 - prototype 1
-
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_1.jpeg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_2.jpeg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_3.jpeg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_4.jpeg?raw=true" width="200" />
+</p>
 Dit prototype voor de leerlingen is bedoeld zowel op als in de bank gezet te kunnen worden. Zowel tijdelijk als altijd. Daarom is het klepje ook afneembaar. Hierop kan de leerling zijn of haar emotie aanduiden en wordt dit rechtstreeks naar de leerkracht gecommuniceerd.
 
 **Interface leerkrachren**
