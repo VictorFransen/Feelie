@@ -29,7 +29,6 @@ De tweede fase is de defenition fase. Hier is het de bedoeling om het concept ui
 <p align="center">
   <img screen ="https://github.com/VictorFransen/Feelie/blob/main/foto's/tijdslijn.png" width = "200">
 </p>
-![tijdslijn](https://github.com/user-attachments/assets/3815f89b-fea6-4697-a9fd-d8dfcd0b8ec8)
 ## 1 Discovery
 ### 1.1 Doestellingen
 Tijdens de eerste fase, de discovery, is het doel om het gestelde probleem verder te ontwerpen en ontrafelen. Op deze manier kunnen eventuele 'gaps' gevonden worden. De onderzoeksvraag hierbij is: ‘Hoe kunnen emoties bij kinderen op de lagere school beter gecommuniceerd en gereguleerd worden met behulp van slimme technologie?’
