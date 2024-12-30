@@ -56,32 +56,32 @@ Inteviews met twee leerkrachten en een zorgleerkracht beantwoordden deelvragen 8
 #### 1.2.3 focusgroep (N=4)
 Aan de hand van een focusgroep met kinderen van 8-10 jaar werden deelvragen 6 t.e.m. 9 onderzocht. Het volledige protocol van deze focusgroep is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:233cdea7-30ad-4383-bd4e-c6e02371e6ce) te vinden. De focusgroep is gehouden aan de hand van een spelbord zoals hieronder te zien om het leuk en kindvriendelijk te maken. 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/spelbord_focusgroep.jpg" width="80%" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/spelbord_focusgroep.jpg" width="70%" />
 </p>
 Daarna werd de analyse gedaan en een persona gemaakt.
 ### 1.3 Resultaten
 #### 1.3.1 literatuurstudie
 Als eerste werden de stakeholders in kaart gebracht, het resultaat hiervan is te zien in onderstaande figuur.
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/stakeholder_analyse.png" width="80%" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/stakeholder_analyse1.png" width="50%" />
 </p>
 Emotieregulatie en communicatie zijn essentieel in een schoolcontext. Het bevordert zowel academische prestaties als de samenhang in de klas. Leerlingen hebben behoefte aan een laagdrempelige manier om emoties te uiten, zonder ongemak of woorden. Bestaande methodes, zoals de emotiemeter (zie onderstaande figuur), zijn vaak passief en missen actieve interactie.
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/emotiethermometer_2.jpg" width="80%" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/emotiethermometer_2.jpg" width="50%" />
 </p>
 Samengevat kon uit deze literatuurstudie geconcludeerd worden dat het communiceren en reguleren van emoties zeer belangrijk is voor leerlingen en er ruimte is om voor deze doelgroep en situatie iets nuttigs te ontwerpen.
 Het volledige rapport met de analyse en bronnen is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:cd1d0bf1-15b4-4a6f-bd34-006992754987) te vinden.
 #### 1.3.2 user interviews (N=3)
 Leerkrachten ervaren dat kinderen moeite hebben met het communiceren van hun emoties. Ze gebruiken verschillende methodes zoals een dagplanning die ze samen overlopen voor structuur en rust, visuele symbolen en emoties te verduidelijken en lassen rustige momenten in voor reflectie en communicatie. Op basis van deze interviews werd een persona voor de leerkrachten opgesteld die te zien is in de figuur hieronder.
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Persona%20leerkracht.png" width="80%" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Persona%20leerkracht.png" width="70%" />
 </p>
 De volledige analyse en conclusies zijn [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:fff1cd1f-7df0-4306-a81d-5dae30df3dcd)
 #### 1.3.3 focusgroep (N=4)
 De focusgroep werd gehouden men kinderen van 8-10 jaar, wat jammergenoeg niet de volledige doelgroep vertegenwoordigd. De kinderen herkenden de emoties vanop het spelbord goed en konden situaties beschijven waarin ze die ervaarden. Zelfregulatie bleek echter nog moeilijk zonder hulp van volwassenen. Hulpmiddelen zoals een emotiemeter werden soms gebruikt, maar niet frequent genoeg om effectief te zijn. Er is dus meer structuur nodig om de voordelen van deze methodes te verkrijgen. Anderstalige kinderen ondervinden extra uitdagingen door taalbarrières, wat frustraties veroorzaakt bij het uiten van emoties. Op basis van deze analyse werd een persona opgesteld voor leerlingen (zie onderstaande figuur).
 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/persona_leerling.png" width="80%" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/persona_leerling.png" width="70%" />
 </p>
 De volledige analyse van de focusgroep is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:01e18d2f-dbab-46d9-97d0-6a67dd119852) te vinden.
 ### Conclusies & implicaties
