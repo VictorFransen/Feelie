@@ -52,7 +52,7 @@ Om op de bovengenoemde vragen onderbouwde antwoorden te krijgen werd eerst aan l
 #### 1.2.1 literatuuronderzoek
 In het literatuuronderzoek werden deelvragen 1 t.e.m. 5 onderzocht via stakeholdermapping en de 5W/H methode.  Het volledige uitgewerkte protocol van dit literatuuronderzoek is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:c845fe7f-24a4-4b6a-a0fe-1af629438356) te vinden.
 #### 1.2.2 interviews (N=3)
-Inteviews met twee leerkrachten en een zorgleerkracht beantwoordden deelvragen 8 t.e.m. 12 uit de doelstellingen. Het protocol voor deze interviews is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:4b6db281-ad43-4667-8b5c-be15bfe0595c) Deze interviews werden geanalyseerd en vervolgens werd uit de dat een user model en persona opgesteld.
+Inteviews met twee leerkrachten en een zorgleerkracht beantwoordden deelvragen 8 t.e.m. 12 uit de doelstellingen. Het protocol voor deze interviews is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:4b6db281-ad43-4667-8b5c-be15bfe0595c) te vinden. Deze interviews werden geanalyseerd en vervolgens werd een user model en persona opgesteld.
 #### 1.2.3 focusgroep (N=4)
 Aan de hand van een focusgroep met kinderen van 8-10 jaar werden deelvragen 6 t.e.m. 9 onderzocht. Het volledige protocol van deze focusgroep is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:233cdea7-30ad-4383-bd4e-c6e02371e6ce) te vinden. De focusgroep is gehouden aan de hand van een spelbord zoals hieronder te zien om het leuk en kindvriendelijk te maken. 
 <p align="center">
@@ -67,7 +67,7 @@ Als eerste werden de stakeholders in kaart gebracht, het resultaat hiervan is te
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/stakeholder_analyse1.png" width="50%" />
 </p>
-Emotieregulatie en communicatie zijn essentieel in een schoolcontext. Het bevordert zowel academische prestaties als de samenhang in de klas. Leerlingen hebben behoefte aan een laagdrempelige manier om emoties te uiten, zonder ongemak of woorden. Bestaande methodes, zoals de emotiemeter (zie onderstaande figuur), zijn vaak passief en missen actieve interactie.
+Uit verder onderzoek werd duidelijk dat emotieregulatie en communicatie essentieel zijn in een schoolcontext. Het bevordert zowel academische prestaties als de samenhang in de klas. Leerlingen hebben behoefte aan een laagdrempelige manier om emoties te uiten, zonder ongemak of woorden. Bestaande methodes, zoals de emotiemeter (zie onderstaande figuur), zijn vaak passief en missen actieve interactie.
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/emotiethermometer_2.jpg" width="50%" />
 </p>
@@ -79,7 +79,7 @@ Leerkrachten ervaren dat kinderen moeite hebben met het communiceren van hun emo
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Persona%20leerkracht.png" width="70%" />
 </p>
-De volledige analyse en conclusies zijn [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:fff1cd1f-7df0-4306-a81d-5dae30df3dcd)
+De volledige analyse en conclusies zijn [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:fff1cd1f-7df0-4306-a81d-5dae30df3dcd) te vinden.
 
 #### 1.3.3 focusgroep (N=4)
 De focusgroep werd gehouden men kinderen van 8-10 jaar, wat jammergenoeg niet de volledige doelgroep vertegenwoordigd. De kinderen herkenden de emoties vanop het spelbord goed en konden situaties beschijven waarin ze die ervaarden. Zelfregulatie bleek echter nog moeilijk zonder hulp van volwassenen. Hulpmiddelen zoals een emotiemeter werden soms gebruikt, maar niet frequent genoeg om effectief te zijn. Er is dus meer structuur nodig om de voordelen van deze methodes te verkrijgen. Anderstalige kinderen ondervinden extra uitdagingen door taalbarrières, wat frustraties veroorzaakt bij het uiten van emoties. Op basis van deze analyse werd een persona opgesteld voor leerlingen (zie onderstaande figuur).
@@ -143,7 +143,7 @@ Om een meer vertrouwd gevoel te geven aan de kinderen maakt het derde prototype 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_4.2.jpeg?raw=true" width="300" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_4.1.jpeg?raw=true" width="300" />
 </p>
-Bij dit prototype word er gebruik gemaakt van een slider in de vorm van een pijltje in plaats van knoppen. De leerling verschuift het pijltje naar de emotie die hij/zij voelt.
+Bij dit prototype wordt er gebruik gemaakt van een slider in de vorm van een pijltje in plaats van knoppen. De leerling verschuift het pijltje naar de emotie die hij/zij voelt.
 
 **Interface leerkracht**
 - Prototype 1
@@ -186,7 +186,7 @@ Interface leerlingen:
 -	Zijn alle knoppen duidelijk te koppelen aan emoties? 
 
 Interface leerkrachten:
--	Word er voldoende en duidelijke informatie afgebeeld om de nodige actie te ondernemen? 
+-	Wordt er voldoende en duidelijke informatie afgebeeld om de nodige actie te ondernemen? 
 -	Zet de vormgeving van het product aan tot regelmatig gebruik?
 
 ##### 2.2.2.1 Protocol gebruikerstesten wave 2
@@ -294,12 +294,6 @@ Wat ons wel jammer lijkt, is dat we geen echte lampjes, schermpjes of echte knop
 
 Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We hebben ook veel bijgeleerd. We zijn ook blij dat vooral de leerkrachten heel enthousiast reageren en aangeven dat het project een effectieve meerwaarde kan vormen in de klas.
 
-## 5 Bronnen
-[^1]: Cassano, M., Perry-Parrish, C., Stegall, S., Zeman, J. (April 2006). Emotion Regulation in Children and Adolescents. University of Maine.
-[^2]: Brackett, M., Simmons, D. (oktober 2015). Emotions Matter. Guilford Press.
-[^3]: Kwon, K., Hanrahan, A. R., and Kupzyk, K. A. (2017). Emotional expressivity and emotion regulation: Relation to academic functioning among elementary school children. School Psychol.
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
-
 ## Bijlagen
 ### Discovery
 - **Literatuuronderzoek**
@@ -315,6 +309,12 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 - **Wave 1 gebruikerstesten**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:eu:a72d5413-d0ee-4f44-b1e1-2a1e4b68513a)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:eu:d71bb71f-ce42-4e73-b318-c8e4f45a3a2c)
+  - [app](https://ugentbe-my.sharepoint.com/:p:/r/personal/linde_aerssens_ugent_be/Documents/semester%203/project%20gebruiksgericht%20ontwerpen/002_defenition/pwp_test.pptx?d=w1f1832b05cf0445f8539058f8e9dea3d&csf=1&web=1&e=eWel1Q)
 - **Wave 2 gebruikerstesten**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:90d25d05-af82-4730-8d17-69c00fb9f6cb)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f661a435-779b-4238-9a97-c5f221a0e30b)
+  - [app](https://embed.figma.com/proto/xjk2GZR6GmpDlgrpEQ6WCS/Untitled?node-id=1-2&starting-point-node-id=1%3A2&embed-host=share)
+## 5 Bronnen
+[^1]: Cassano, M., Perry-Parrish, C., Stegall, S., Zeman, J. (April 2006). Emotion Regulation in Children and Adolescents. University of Maine.
+[^2]: Brackett, M., Simmons, D. (oktober 2015). Emotions Matter. Guilford Press.
+[^3]: Kwon, K., Hanrahan, A. R., and Kupzyk, K. A. (2017). Emotional expressivity and emotion regulation: Relation to academic functioning among elementary school children. School Psychol.
