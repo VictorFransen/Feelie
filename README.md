@@ -220,7 +220,7 @@ Doorheen de discovery en definition fase zijn aan de hand van onderzoek, intervi
 |---|---|---|---|
 |0.1|Het ontwerp moet de structuur die in de klas word gebruikt ondersteunen|Interviews|12/11/2024|
 |0.2|Het ksotenplaatje is zo laag mogelijk|Concepttesten wave 1|30/11/24|
-|Interface leerlingen|
+|1 Interface leerlingen|
 |1.1 Algemeen|
 |1.1.1|Leerlingen leren actief nadenken over welke emoties ze voelen|Literatuuronderzoek|14/11/2024|
 |1.1.2|Het ontwerp moet regelmatig gebruik stimuleren|Literatuuronderzoek, concepttesten wave 1|14/11/2024|
