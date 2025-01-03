@@ -48,7 +48,7 @@ Deze onderzoeksvraag werd onderverdeeld in de volgende deelvragen:
 11. Welke emotionele/sociale uitdagingen zijn er voor kinderen in een schoolomgeving? 
 12. Hoe zouden emoties van kinderen beter gecommuniceerd kunnen worden op school? 
 ### 1.2 Materiaal & methoden
-Om op de bovengenoemde vragen onderbouwde antwoorden te krijgen werd eerst aan literatuuronderzoek gedaan, daarna werd een focusgroep en interviews gehouden.
+Om op de bovengenoemde vragen onderbouwde antwoorden te krijgen werd eerst aan literatuuronderzoek gedaan, daarna werd een focusgroep en interviews uitgevoerd.
 #### 1.2.1 literatuuronderzoek
 In het literatuuronderzoek werden deelvragen 1 t.e.m. 5 onderzocht via stakeholdermapping en de 5W/H methode.  Het volledige uitgewerkte protocol van dit literatuuronderzoek is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:c845fe7f-24a4-4b6a-a0fe-1af629438356) te vinden.
 #### 1.2.2 interviews (N=3)
@@ -90,7 +90,7 @@ De focusgroep werd gehouden men kinderen van 8-10 jaar, wat jammergenoeg niet de
 De volledige analyse van de focusgroep is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:01e18d2f-dbab-46d9-97d0-6a67dd119852) te vinden.
 
 ### Conclusies & implicaties
-Allereerst werd na deze eerste onderzoeken beslist om de onderzoeksvraag aan te passen naar: 'Hoe kan design en technologie ervoor zorgen dat jonge kinderen (1e tot en met 3e leerjaar) hun emoties beter kunnen communiceren in een schoolcontext.' Deze aanpassing werd gedaan omdat de eerste onderzoeksvraag nogal breed was en die niet kon opgelost worden met 1 product. Er is besloten om enkel te focussen op communicatie van emoties en niet zozeer de regulatie. Omdat bleek dat vooral jonge kinderen (tot ongeveer het derde leerjaar) nood hebben aan het communiceren van hun emoties is de doelgroep hiernaar aangepast.
+Allereerst werd na deze eerste onderzoeken beslist om de onderzoeksvraag aan te passen naar: 'Hoe kan design en technologie ervoor zorgen dat jonge kinderen (1e tot en met 3e leerjaar) hun emoties beter kunnen communiceren in een schoolcontext?' Deze aanpassing werd gedaan omdat de eerste onderzoeksvraag nogal breed was en die niet kon opgelost worden met 1 product. Er is besloten om enkel te focussen op communicatie van emoties en niet zozeer de regulatie. Omdat bleek dat vooral jonge kinderen (tot ongeveer het derde leerjaar) nood hebben aan het communiceren van hun emoties is de doelgroep hiernaar aangepast.
 Uit de discovery fase konden volgende conclusies en implicaties voor het ontwerp gehaald worden:
 1. Het ontwerp moet regelmatig gebruik stimuleren.
 2. Visuele representatie om emoties eenvoudig en intuïtief herkenbaar te maken zonder dat er taal voor nodig is.
