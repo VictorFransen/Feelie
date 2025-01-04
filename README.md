@@ -102,14 +102,14 @@ Deze implicaties werden geïmplementeerd in de design requirements die uitgeschr
 ### 2.1 Doestellingen
 In de eerste fase, discovery, werd het probleem onderzocht en concepten als oplossing bedacht. De tweede fase, definition, heeft als doel deze concepten te valideren en na te gaan of ze een effectieve oplossing bieden.
 
-Na de initiële discovery fase werden eerst nog enkele aanpassingen gedaan aan het toen gedefinieerde concept. Zo werd er een aan de app toegevoegd dat de leerkracht tips kan krijgen hoe er met emoties omgegaan bij de leerlingen. Ook werd er ook een extra interface voorzien voor de leerkrachten zodat zij in een oogopslag kunnen zien hoe de leerlingen zich voelen zonder hun GSM te moeten bovenhalen.
+Na de initiële discovery fase werden eerst nog enkele aanpassingen gedaan aan het toen gedefinieerde concept. Zo werd er een aan de app toegevoegd dat de leerkracht tips kan krijgen over hoe er met emoties kan worden omgegaan bij de leerlingen. Ook werd er ook een extra interface voorzien voor de leerkrachten zodat zij in een oogopslag kunnen zien hoe de leerlingen zich voelen zonder hun GSM te moeten bovenhalen.
 
 ### 2.2 Materiaal & methoden
 Om het concept te valideren, werden twee rondes (‘waves’) van gebruikerstesten uitgevoerd met eenvoudige ‘quick and dirty’ prototypes. Feedback hieruit werd gebruikt om het concept verder te verbeteren.
 #### 2.2.1 Gebruikerstesten wave 1 (N=5, 2 leerkrachten, 3 leerlingen)
-Aan de hand van een storyboard (zie figuur) werden er ook een aantal onderzoeksvragen opgesteld:
+Aan de hand van een storyboard (zie figuur) werden er een aantal onderzoeksvragen opgesteld:
 Interface leerlingen: 
--Hoeveel interfaces zijn er nodig in een klas?
+- Hoeveel interfaces zijn er nodig in een klas?
 -	Hoe moet de interface eruit zien zodat het gebruik ervan laagdrempelig en intuïtief is voor leerlingen van het 1e tot 3e leerjaar?
 Interface leerkracht: 
 - Welke vorm moet de oplossing krijgen zodat de leerkracht op een snelle en efficiënte manier een overzicht krijgt van de emoties van de leerlingen in klas?
@@ -119,6 +119,7 @@ Het volledige protocol voor de gebruikerstesten van wave 1 is te vinden via deze
 Volgende prototypes werden getest:
 
 **Interface leerlingen**
+
 Al deze prototypes hebben hetzelfde concept. Er wordt een emotie aangeduid en deze wordt dan gecommuniceerd naar de leerkracht. Enkel de vormgeving en toepassing in de klascontext verschilt.
 
 - Prototype 1
@@ -199,7 +200,7 @@ De geteste en bevraagde prototypes waren:
 </p>
 Dit prototype voor de leerlingen is bedoeld zowel op als in de bank gezet te kunnen worden. Zowel tijdelijk als altijd. Daarom is het klepje ook afneembaar. Hierop kan de leerling zijn of haar emotie aanduiden en wordt dit rechtstreeks naar de leerkracht gecommuniceerd.
 
-**Interface leerkrachren**
+**Interface leerkracht**
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_leerkracht.jpg?raw=true" width="300" />
 </p>
@@ -219,8 +220,8 @@ Doorheen de discovery en definition fase zijn aan de hand van onderzoek, intervi
 |Nummer|Criteria|Bron|Datum|
 |---|---|---|---|
 |0.1|Het ontwerp moet de structuur die in de klas word gebruikt ondersteunen|Interviews|12/11/2024|
-|0.2|Het ksotenplaatje is zo laag mogelijk|Concepttesten wave 1|30/11/24|
-|1 Interface leerlingen|
+|0.2|Het kostenplaatje is zo laag mogelijk|Concepttesten wave 1|30/11/24|
+|**1 Interface leerlingen**|
 |1.1 Algemeen|
 |1.1.1|Leerlingen leren actief nadenken over welke emoties ze voelen|Literatuuronderzoek|14/11/2024|
 |1.1.2|Het ontwerp moet regelmatig gebruik stimuleren|Literatuuronderzoek, concepttesten wave 1|14/11/2024|
@@ -233,11 +234,11 @@ Doorheen de discovery en definition fase zijn aan de hand van onderzoek, intervi
 |1.1.9|Het product is geschikt voor verschillende soorten schoolbanken|Concepttesten wave 2|12/12/2024|
 |1.2 Learnability|
 |1.2.1|De leerling kan de correcte emotie aan de knoppen koppelen|Literatuuronderzoek|14/11/2024|
-|1.2.2|De interface is toegankelijk voor leerlingen van het 1e tot het 3e leerjaar|Interview|14/11/2024|
+|1.2.2|De interface is toegankelijk voor leerlingen van het 1e tot en met het 3e leerjaar|Interview|14/11/2024|
 |1.3 Gebruiksgemak|
 |1.3.1|De interface is makkelijk te bedienen|Literatuuronderzoek|14/11/2024|
 |1.3.2|Er word geen taal gebruikt om emoties te communiceren|Interview|14/11/2024|
-|2 Leerkrachten fysieke interface|
+|**2 Leerkrachten fysieke interface**|
 |2.1 Algemeen|
 |2.1.1|Het van de eerste keer duidelijk hoe het product werkt|Concepttesten wave 1|30/11/2024|
 |2.1.2|De interface nodigt uit om het frequent te blijven gebruiken|Focusgroep|14/11/2024|
@@ -246,7 +247,7 @@ Doorheen de discovery en definition fase zijn aan de hand van onderzoek, intervi
 |2.2 Visualisatie|
 |2.2.1|De leerkracht kan snel zien welke emoties de kinderen ervaren|Interview|14/11/2024|
 |2.2.2|De leerkrachten kunnen op hun gemak bekijken welke emoties de kinderen de afgelope tijd ervaarden|Interview|14/11/2024|
-|3 Leerkrachten app|
+|**3 Leerkrachten app**|
 |3.1 Algemeen|
 |3.1.1|Er is advies beschikbaar over hoe ze met een bepaalde emotie kunnen omgaan|Literatuuronderzoek|14/11/2024|
 |3.1.2|De leerkracht kan op een rustig moment bekijken welke emoties de leerlingen ervaarden|Interview|14/11/2024|
@@ -263,11 +264,12 @@ Momenteel bestaat het gevalideerde concept uit een bakje op de bank van de leerl
 Voor een gedetailleerde analyse en rapport van de gebruikerstesten zie: [rapport wave 1](https://acrobat.adobe.com/id/urn:aaid:sc:eu:d71bb71f-ce42-4e73-b318-c8e4f45a3a2c) en [rapport wave 2](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f661a435-779b-4238-9a97-c5f221a0e30b)
 
 ### 2.4 Conclusies & implicaties
-Uit deze twee waves van conceptesten hebben we duidelijk vastgesteld dat alle vier de leerkrachten zeer enthousiast zijn over het concept. Ze gaven ons aan dat dit een grote impact kan hebben in de klas en de werkdruk kan verlagen. Ook de leerlingen gaven aan dat ze nood hebben aan een laagdrempelige manier om hun emoties te communiceren.  Het is dus duidelijk dat het bedachte concept wel een effectieve en goede oplossing is voor het probleem. Ook werden nog andere belangrijke conclusies en implicaties getrokken uit deze testen:
+Uit deze twee waves van conceptesten werd duidelijk vastgesteld dat alle vier de leerkrachten zeer enthousiast zijn over het concept. Ze gaven aan dat dit een grote impact kan hebben in de klas en de werkdruk kan verlagen. Ook de leerlingen gaven aan dat ze nood hebben aan een laagdrempelige manier om hun emoties te communiceren.  Het is dus duidelijk dat het bedachte concept wel een effectieve en goede oplossing is voor het probleem. Ook werden nog andere belangrijke conclusies en implicaties getrokken uit deze testen:
 -	Product moet de veiligheid en privacy van de leerling waarborgen.
 -	Het product mag niet afleiden tijdens de les.
 -	Het product moet ‘kindproof’ zijn. (robuust, duidelijk,…)
 -	De app moet genoeg informatie bevatten maar ook niet te veel.
+
 Voor meer conclusies en implicaties zie de tabel onder 2.3 en/of de rapporten van wave 1 en wave 2.
 
 
