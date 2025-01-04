@@ -108,12 +108,18 @@ Na de initiële discovery fase werden eerst nog enkele aanpassingen gedaan aan h
 Om het concept te valideren, werden twee rondes (‘waves’) van gebruikerstesten uitgevoerd met eenvoudige ‘quick and dirty’ prototypes. Feedback hieruit werd gebruikt om het concept verder te verbeteren.
 #### 2.2.1 Gebruikerstesten wave 1 (N=5, 2 leerkrachten, 3 leerlingen)
 Aan de hand van een storyboard (zie figuur) werden er een aantal onderzoeksvragen opgesteld:
+
 Interface leerlingen: 
 - Hoeveel interfaces zijn er nodig in een klas?
 -	Hoe moet de interface eruit zien zodat het gebruik ervan laagdrempelig en intuïtief is voor leerlingen van het 1e tot 3e leerjaar?
+
 Interface leerkracht: 
 - Welke vorm moet de oplossing krijgen zodat de leerkracht op een snelle en efficiënte manier een overzicht krijgt van de emoties van de leerlingen in klas?
 - Hoe moet de app eruit zien om een goed overzicht te bieden van de verschillende emoties die de leerlingen ervaarden?
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/storyboard.jpg" width="50%" />
+</p>
+
 ##### 2.2.1.1 Protocol gebruikerstesten wave 1
 Het volledige protocol voor de gebruikerstesten van wave 1 is te vinden via deze [link](https://acrobat.adobe.com/id/urn:aaid:sc:eu:a72d5413-d0ee-4f44-b1e1-2a1e4b68513a).
 Volgende prototypes werden getest:
