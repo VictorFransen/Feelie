@@ -13,6 +13,7 @@ De interface staat op de bank van de leerling en bevat zes knoppen die emoties w
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schets%20leerkracht.jpg?raw=true" width="300" /> <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/schets%20leerling.jpg?raw=true" width="320" />
 </p>
+
 ## Introductie
 Emoties spelen een belangrijke rol in ons dagelijks leven en hebben de laatste jaren veel aandacht gekregen vanuit de wetenschap.[^1] Bij jonge kinderen zijn deze emoties nog volop in ontwikkeling, waardoor ze vaak nog moeite hebben met het herkennen, communiceren en reguleren ervan. Deze vaardigheden zijn daarentegen wel van cruciaal belang. Ze dragen niet alleen bij tot betere prestaties op school en een goede groepsdynamiek, maar kunnen op lange termijn ook een positieve invloed hebben op het mentaal welzijn en zelfs de gezondheid.[^2][^3]
 
