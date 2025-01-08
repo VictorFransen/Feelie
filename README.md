@@ -298,6 +298,7 @@ Willen gebruiken in semester 2:
   - Filament
 - Lasercutter
   - MDF/multiplex
+- Raspberry Pi
 
 ## 4 Kritische reflectie
 Na één semester te hebben gewerkt aan Feelie, zijn er zaken die ons zijn opgevallen en bijgebleven die we in de toekomst anders zouden doen of juist niet anders zouden doen.
