@@ -11,7 +11,7 @@ Op basis van literatuuronderzoek, interviews, een focusgroep en gebruikerstesten
 De interface staat op de bank van de leerling en bevat zes knoppen die emoties weergeven. Bij een druk op een knop wordt de emotie doorgestuurd naar de interface van de leerkracht en de app. Op de interface van de leerkracht is een overzicht zichtbaar van de emoties in de klas. In de app kan de leerkracht tips, een weekoverzicht en een jaaroverzicht raadplegen. Deze oplossingen zijn ontwikkeld en verfijnd door middel van bevragingen en gebruikerstesten.
 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schets%20leerkracht.jpg?raw=true" width="300" /> <img src="" width="300" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schets%20leerkracht.jpg?raw=true" width="300" /> <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/schets%20leerling.jpg?raw=true" width="320" />
 </p>
 ## Introductie
 Emoties spelen een belangrijke rol in ons dagelijks leven en hebben de laatste jaren veel aandacht gekregen vanuit de wetenschap.[^1] Bij jonge kinderen zijn deze emoties nog volop in ontwikkeling, waardoor ze vaak nog moeite hebben met het herkennen, communiceren en reguleren ervan. Deze vaardigheden zijn daarentegen wel van cruciaal belang. Ze dragen niet alleen bij tot betere prestaties op school en een goede groepsdynamiek, maar kunnen op lange termijn ook een positieve invloed hebben op het mentaal welzijn en zelfs de gezondheid.[^2][^3]
@@ -268,6 +268,10 @@ Doorheen de discovery en definition fase zijn aan de hand van onderzoek, intervi
 
 
 Momenteel bestaat het gevalideerde concept uit een bakje op de bank van de leerling. Het bakje heeft knoppen waarmee de leerling emoties kan aangeven. Deze emoties worden doorgegeven aan de interface van de leerkracht en een app. Met de interface kan de leerkracht direct ingrijpen in de klas. De app toont ook week- en jaaroverzichten en biedt tips voor emotioneel management. Hierdoor kan de leerkracht ook op zijn/haar gemak kijken naar de emoties van de leerlingen.
+
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schets%20leerkracht.jpg?raw=true" width="300" /> <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/schets%20leerling.jpg?raw=true" width="320" />
+</p>
 
 Voor een gedetailleerde analyse en rapport van de gebruikerstesten zie: [rapport wave 1](https://acrobat.adobe.com/id/urn:aaid:sc:eu:d71bb71f-ce42-4e73-b318-c8e4f45a3a2c) en [rapport wave 2](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f661a435-779b-4238-9a97-c5f221a0e30b)
 
