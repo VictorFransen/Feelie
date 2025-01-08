@@ -280,10 +280,23 @@ Voor meer conclusies en implicaties zie de tabel onder 2.3 en/of de rapporten va
 
 
 ## 3 Bill of materials
+Gebruikt semester 1:
 - karton
 - papier
 - Powerpoint
 - Figma
+
+Willen gebruiken in semester 2:
+- Arduino
+  - Knoppen
+  - Jumper wires
+  - weerstanden
+  - Bluetooth/WiFi-module
+- Scherm/tablet
+- 3D printer
+  - Filament
+- Lasercutter
+  - MDF/multiplex
 
 ## 4 Kritische reflectie
 Na één semester te hebben gewerkt aan Feelie, zijn er zaken die ons zijn opgevallen en bijgebleven die we in de toekomst anders zouden doen of juist niet anders zouden doen.
