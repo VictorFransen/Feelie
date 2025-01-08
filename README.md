@@ -292,6 +292,7 @@ Willen gebruiken in semester 2:
   - Jumper wires
   - weerstanden
   - Bluetooth/WiFi-module
+  - LEDs
 - Scherm/tablet
 - 3D printer
   - Filament
