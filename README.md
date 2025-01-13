@@ -262,7 +262,7 @@ Doorheen de discovery en definition fase zijn aan de hand van onderzoek, intervi
 |3.1.2|De leerkracht kan op een rustig moment bekijken welke emoties de leerlingen ervaarden|Interview|14/11/2024|
 |3.1.3|De app is overzichtelijk en simpel|Concepttesten wave 2|28/11/2024|
 |3.2 Visualistatie|
-|3.2.1|Duidelijke weergave van wie wanneer welke emotie ervaarde|Concepttesten wave 128/11/2024|
+|3.2.1|Duidelijke weergave van wie wanneer welke emotie ervaarde|Concepttesten wave 1|28/11/2024|
 |3.2.2|Er is een overzicht per leerling|Concepttesten wave 1|28/11/2024|
 |3.2.3|Er is een weekoverzicht beschikbaar|Interview|14/11/2024|
 |3.2.4|De leerkrachten kunnen de gegevens tot op een jaar terugkijken|Concepttesten wave 1|28/11/2024|
