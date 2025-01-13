@@ -280,6 +280,7 @@ Voor een gedetailleerde analyse en rapport van de gebruikerstesten zie: [rapport
 Uit deze twee waves van conceptesten werd duidelijk vastgesteld dat alle vier de leerkrachten zeer enthousiast zijn over het concept. Ze gaven aan dat dit een grote impact kan hebben in de klas en de werkdruk kan verlagen. Ook de leerlingen gaven aan dat ze nood hebben aan een laagdrempelige manier om hun emoties te communiceren.  Het is dus duidelijk dat het bedachte concept wel een effectieve en goede oplossing is voor het probleem. Ook werden nog andere belangrijke conclusies en implicaties getrokken uit deze testen:
 -	Product moet de veiligheid en privacy van de leerling waarborgen.
 -	Het product mag niet afleiden tijdens de les.
+-	Zowel de interface van de leerkracht als die van de leerling moeten makkelijk verplaatsbaar zijn.
 -	Het product moet ‘kindproof’ zijn. (robuust, duidelijk,…)
 -	De app moet genoeg informatie bevatten maar ook niet te veel.
 
