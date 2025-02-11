@@ -226,8 +226,8 @@ Er is ook een verbeterde versie van de app uitgewerkt in Figma. De app biedt een
 ### 2.3 Resultaten
 Doorheen de discovery en definition fase zijn aan de hand van onderzoek, interviews, focusgroepen en gebruikerstesten een aantal designrequirements opgesteld:
 
-|Nummer|Criteria|Bron|Datum|
-|---|---|---|---|
+|Nummer|Criteria|Bron|Datum|Toestand|
+|---|---|---|---|---|
 |0.1|Het ontwerp moet de structuur die in de klas word gebruikt ondersteunen|Interviews|12/11/2024|
 |0.2|Het kostenplaatje is zo laag mogelijk|Concepttesten wave 1|30/11/24|
 |**1 Interface leerlingen**|
