@@ -23,7 +23,7 @@ In dit ontwerpproces werd aan de slag gegaan om leerlingen te ondersteunen bij h
 -	Tijdsbesparend
 -	Laagdrempelig
 
-In dit ontwerp staat de gebruikers, waarbij de belangrijkste de leerkracht en leerlingen zijn, centraal. Het doel is om een ontwerp te maken dat in de eerste plaats aansluit bij hun behoeften. (bronvermelding nog doen)
+In dit ontwerp staat de gebruikers, waarbij de belangrijkste de leerkracht en leerlingen zijn, centraal. Het doel is om een ontwerp te maken dat in de eerste plaats aansluit bij hun behoeften.
 
 ## Methodologie
 In de figuur hieronder is een tijdslijn te zien van de stappen en methodologiën die doorlopen zijn. 
