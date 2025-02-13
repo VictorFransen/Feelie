@@ -81,6 +81,7 @@ Uit verder onderzoek werd duidelijk dat emotieregulatie en communicatie essentie
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/emotiethermometer_2.jpg" width="50%" />
 </p>
 Samengevat kon uit deze literatuurstudie geconcludeerd worden dat het communiceren en reguleren van emoties zeer belangrijk is voor leerlingen en er ruimte is om voor deze doelgroep en situatie iets nuttigs te ontwerpen.
+
 Het volledige rapport met de analyse en bronnen is te vinden in de bijlagen.
 
 #### 1.3.2 user interviews (N=3)
@@ -141,7 +142,7 @@ Al deze prototypes hebben hetzelfde concept. Er wordt een emotie aangeduid en de
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_1.4.jpeg?raw=true" width="200" /> <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_1.1.jpeg?raw=true" width="200" /> <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_1.2.jpeg?raw=true" width="200" />
 </p>
-Een bakje met twee deurtjes, geplaatst op de bank. Leerlingen kunnen emoties aangeven zonder dat anderen meekijken.
+Een bakje met twee deurtjes, geplaatst op de bank. Leerlingen kunnen emoties aangeven zonder dat anderen meekijken. 
 
 - Prototype 2
 <p align="center">
@@ -160,6 +161,15 @@ Om een meer vertrouwd gevoel te geven aan de kinderen maakt het derde prototype 
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_4.2.jpeg?raw=true" width="300" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_4.1.jpeg?raw=true" width="300" />
 </p>
 Bij dit prototype wordt er gebruik gemaakt van een slider in de vorm van een pijltje in plaats van knoppen. De leerling verschuift het pijltje naar de emotie die hij/zij voelt.
+
+Door met deze prototypes te werken kon getest worden of voldaan werd aan volgende design requirements:
+- 1.1.1: leerlingen leren actief nadenken over welke emotie ze voelen
+- 1.1.2: Het ontwerp moet regelmatig gebruik stimuleren
+- 1.1.3: De interface leidt niet af tijdens de les
+- 1.2.1: De leerling kan de correcte emoties aan de symbolen koppelen
+- 1.2.2: De interface is toegankelijk voor kinderen van het 1e tot en met 3e leerjaar
+- 1.3.2: Er wordt geen taal gebruikt om emoties te communiceren
+
 
 **Interface leerkracht**
 - Prototype 1
@@ -183,11 +193,18 @@ Bij dit prototype zijn de emoties van elke leerlingen weergegeven volgens de kla
 </p>
 
 Dit prototype werkt ook volgens klasopstelling. De emoties worden weergegeven met lichtjes. Er kunnen extra rijen toegevoegd worden in functie van de hoeveelheid leerlingen.
+Door met deze drie prototypes te werken werd getest of aan de volgende design requirements voldaan werd.
+- 2.1.2: De interface nodigt uit om frequent te blijven gebruiken
+- 2.1.4: De interface is aanpasbaar aan de hoeveelheid leerlingen
+- 2.2.1: De leerkracht kan snel zien welke emoties de kinderen ervaren
 
 **App**
 
 Om met de app concepttesten te kunnen doen werd een prototype gemaakt met behulp van Powerpoint. De  Powerpoint is te vinden via deze [link](https://ugentbe-my.sharepoint.com/:p:/r/personal/linde_aerssens_ugent_be/Documents/semester%203/project%20gebruiksgericht%20ontwerpen/002_defenition/pwp_test.pptx?d=w1f1832b05cf0445f8539058f8e9dea3d&csf=1&web=1&e=eWel1Q).
-
+Door dit prototype kon gevalideerd worden of aan de volgende design requirements voldaan werd:
+- 3.1.1: Er is advies beschikbaar over hoe leerkrachten met een bepaalde emoties kunnen omgaan
+- 3.1.2: De leerkracht kan op een rustig moment bekijken welke emoties de leerlingen ervaarden
+- 3.2.2: Er is een weekoverzicht beschikbaar
 #### 2.2.2 Gebruikerstesten wave 2 (N=5, 2 leerkrachten, 3 leerlingen)
 Aan de hand van de gekregen feedback van de testen uit wave 1 werd een vernieuwd storyboard opgesteld (zie figuur). Hiermee werden nieuwe onderzoeksvragen opgesteld en nieuwe prototypes gemaakt.
 <p align="center">
@@ -214,6 +231,11 @@ De geteste en bevraagde prototypes waren:
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_1.jpeg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_2.jpeg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_3.jpeg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_4.jpeg?raw=true" width="200" />
 </p>
 Dit prototype voor de leerlingen is bedoeld zowel op als in de bank gezet te kunnen worden. Zowel tijdelijk als altijd. Daarom is het klepje ook afneembaar. Hierop kan de leerling zijn of haar emotie aanduiden en wordt dit rechtstreeks naar de leerkracht gecommuniceerd.
+Met dit prototype werd getest of aan volgende design requirements die vloeidoen uit de concepttesten van wave 1 voldaan werd:
+- 1.1.4: De interface is compact
+- 1.1.6: De leerlingen kunnen discreet hun emotie aanduiden
+- 1.8.8: Het prosuct is makkelijk verplaatsbaar
+- 1.1.9: Het product is geschikt voor verschillende schoolbanken
 
 **Interface leerkracht**
 <p align="center">
@@ -221,6 +243,9 @@ Dit prototype voor de leerlingen is bedoeld zowel op als in de bank gezet te kun
 </p>
 
 Dit prototype voor de leerkrachten is bedoeld om een compacte en makkelijk verplaatsbare interface voor te stellen. Hierbij kan de leerkracht op een makkelijke en overzichtelijke manier zien welke leerling welke emotie heeft.
+Door dit prototype werd getest of aan de volgende design requirements die verkregen werden uit wave 1 voldaan werd:
+- 2.1.1: Het is van de eerste keer duidelijk hoe het product werkt
+- 2.1.3: De interface kan makkelijk verplaatst worden
 
 **App**
 
@@ -228,6 +253,10 @@ Er is ook een verbeterde versie van de app uitgewerkt in Figma. De app biedt een
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schermafbeelding%202024-12-23%20151828.png?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schermafbeelding%202024-12-23%20151846.png?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schermafbeelding%202024-12-23%20151902.png?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schermafbeelding%202024-12-23%20151908.png?raw=true" width="200" />
 </p>
+Door dit prototype kon getest worden of aan de volgende design requirements uit wave 1 voldaan werd:
+- 3.2.1: Er is een duidelijke weergave van wie wanneer welke emotie ervaarde
+- 3.2.2: Er is een overzicht per leerling beschikbaar
+- 3.2.4: De leerkrachten kunnen de gegevens tot op een jaar terugkijken
 
 ### 2.3 Resultaten
 Doorheen de discovery en definition fase zijn aan de hand van onderzoek, interviews, focusgroepen en gebruikerstesten een aantal designrequirements opgesteld:
@@ -238,9 +267,9 @@ Doorheen de discovery en definition fase zijn aan de hand van onderzoek, intervi
 |0.2|Het kostenplaatje is zo laag mogelijk|Concepttesten wave 1|30/11/24|
 |**1 Interface leerlingen**|
 |1.1 Algemeen|
-|1.1.1|Leerlingen leren actief nadenken over welke emoties ze voelen|Literatuuronderzoek|14/11/2024|
+|1.1.1|Leerlingen leren actief nadenken over welke emoties ze ervaren|Literatuuronderzoek|14/11/2024|
 |1.1.2|Het ontwerp moet regelmatig gebruik stimuleren|Literatuuronderzoek, concepttesten wave 1|14/11/2024|
-|1.1.3|De interface leidt niet af van de les|Interview,literatuuronderzoek|14/11/2024|
+|1.1.3|De interface leidt niet af van de les|Interview|14/11/2024|
 |1.1.4|De interface is compact|Concepttesten wave 1|28/11/2024|
 |1.1.5|Robuust genoeg|Concepttesten wave 1|28/11/2024|
 |1.1.6|De leerlingen kunnen discreet hun emotie aanduiden|Concepttesten wave 1|28/11/2024|
@@ -248,7 +277,7 @@ Doorheen de discovery en definition fase zijn aan de hand van onderzoek, intervi
 |1.1.8|Makkelijk verplaatsbaar|Concepttesten wave 1|28/11/2024|
 |1.1.9|Het product is geschikt voor verschillende soorten schoolbanken|Concepttesten wave 2|12/12/2024|
 |1.2 Learnability|
-|1.2.1|De leerling kan de correcte emotie aan de knoppen koppelen|Literatuuronderzoek|14/11/2024|
+|1.2.1|De leerling kan de correcte emotie aan de symbolen koppelen|Literatuuronderzoek|14/11/2024|
 |1.2.2|De interface is toegankelijk voor leerlingen van het 1e tot en met het 3e leerjaar|Interview|14/11/2024|
 |1.3 Gebruiksgemak|
 |1.3.1|De interface is makkelijk te bedienen|Literatuuronderzoek|14/11/2024|
@@ -264,7 +293,7 @@ Doorheen de discovery en definition fase zijn aan de hand van onderzoek, intervi
 |2.2.2|De leerkrachten kunnen op hun gemak bekijken welke emoties de kinderen de afgelope tijd ervaarden|Interview|14/11/2024|
 |**3 Leerkrachten app**|
 |3.1 Algemeen|
-|3.1.1|Er is advies beschikbaar over hoe ze met een bepaalde emotie kunnen omgaan|Literatuuronderzoek|14/11/2024|
+|3.1.1|Er is advies beschikbaar over hoe de leerkrachten met een bepaalde emotie kunnen omgaan|Literatuuronderzoek|14/11/2024|
 |3.1.2|De leerkracht kan op een rustig moment bekijken welke emoties de leerlingen ervaarden|Interview|14/11/2024|
 |3.1.3|De app is overzichtelijk en simpel|Concepttesten wave 2|28/11/2024|
 |3.2 Visualistatie|
