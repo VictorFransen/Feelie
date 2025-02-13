@@ -263,44 +263,44 @@ Doorheen de discovery en definition fase zijn aan de hand van onderzoek, intervi
 
 |Nummer|Criteria|Bron|Datum|Toestand|
 |---|---|---|---|---|
-|0.1|Het ontwerp moet de structuur die in de klas word gebruikt ondersteunen|Interviews|12/11/2024|
-|0.2|Het kostenplaatje is zo laag mogelijk|Concepttesten wave 1|30/11/24|
+|0.1|Het ontwerp moet de structuur die in de klas word gebruikt ondersteunen|Interviews|12/11/2024|OK|
+|0.2|Het kostenplaatje is zo laag mogelijk|Concepttesten wave 1|30/11/24|NIET OK|
 |**1 Interface leerlingen**|
 |1.1 Algemeen|
-|1.1.1|Leerlingen leren actief nadenken over welke emoties ze ervaren|Literatuuronderzoek|14/11/2024|
-|1.1.2|Het ontwerp moet regelmatig gebruik stimuleren|Literatuuronderzoek, concepttesten wave 1|14/11/2024|
-|1.1.3|De interface leidt niet af van de les|Interview|14/11/2024|
-|1.1.4|De interface is compact|Concepttesten wave 1|28/11/2024|
-|1.1.5|Robuust genoeg|Concepttesten wave 1|28/11/2024|
-|1.1.6|De leerlingen kunnen discreet hun emotie aanduiden|Concepttesten wave 1|28/11/2024|
-|1.1.7|Het product maakt geen storend geluid|Concepttesten wave 1|28/11/2024|
-|1.1.8|Makkelijk verplaatsbaar|Concepttesten wave 1|28/11/2024|
-|1.1.9|Het product is geschikt voor verschillende soorten schoolbanken|Concepttesten wave 2|12/12/2024|
+|1.1.1|Leerlingen leren actief nadenken over welke emoties ze ervaren|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes (zowel wave 1 als wave 2) door de leerlingen zelf hun emoties te laten aanduiden.</details>|
+|1.1.2|Het ontwerp moet regelmatig gebruik stimuleren|Literatuuronderzoek, concepttesten wave 1|14/11/2024|NIET OK|
+|1.1.3|De interface leidt niet af van de les|Interview|14/11/2024|In progress|
+|1.1.4|De interface is compact|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in de prototypes van wave 1 en wave 2 door de prototypes klein te houden.</details>|
+|1.1.5|Robuust genoeg|Concepttesten wave 1|28/11/2024|NIET OK|
+|1.1.6|De leerlingen kunnen discreet hun emotie aanduiden|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in prototypes 1 en 2 van wave 1 en het prototype van wave 2 door een klepje toe te voegen. Hierdoor kunnen anderen moeilijker meekijken met wat de leerling aanduid.</details>|
+|1.1.7|Het product maakt geen storend geluid|Concepttesten wave 1|28/11/2024|NIET OK|
+|1.1.8|Makkelijk verplaatsbaar|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes door ze compact en draadloos te houden.</details>|
+|1.1.9|Het product is geschikt voor verschillende soorten schoolbanken|Concepttesten wave 2|12/12/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in het prototype van wave 2. Deze werd zo gevormd dat hij voor verschillende banken geschikt is. Door het afneembaar klepje kan deze zowel in als op de bank gebruikt worden.</details>|
 |1.2 Learnability|
-|1.2.1|De leerling kan de correcte emotie aan de symbolen koppelen|Literatuuronderzoek|14/11/2024|
-|1.2.2|De interface is toegankelijk voor leerlingen van het 1e tot en met het 3e leerjaar|Interview|14/11/2024|
+|1.2.1|De leerling kan de correcte emotie aan de symbolen koppelen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Dit werd getest tijdens wave 1 waarbij de leerlingen bevraagd werden over welke emoties de verschillende emoties de knoppen afbeeldde. Dit werd nogmaals gevalideerd in wave 2.</details>|
+|1.2.2|De interface is toegankelijk voor leerlingen van het 1e tot en met het 3e leerjaar|Interview|14/11/2024|<details><summary>OK</summary><br>Dit werd getest tijdens wave 1 en wave 2 waarbij testen werden gedaan bij leerlingen van het 1e en het 3e leerjaar. Hierbij werd vastgesteld dat zowel de leerlingen van het 1e als die van het 3e leerjaar het concept en gebruik begrepen.</details>|
 |1.3 Gebruiksgemak|
-|1.3.1|De interface is makkelijk te bedienen|Literatuuronderzoek|14/11/2024|
-|1.3.2|Er word geen taal gebruikt om emoties te communiceren|Interview|14/11/2024|
+|1.3.1|De interface is makkelijk te bedienen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Door minimale handelingen met de interface werd in wave 1 en 2 vastgesteld dat de interface makkelijk te gebruiken is.</details>|
+|1.3.2|Er word geen taal gebruikt om emoties te communiceren|Interview|14/11/2024|<details><summary>OK</summary><br>In alle prototypes worden enkel iconen gebruikt om emoties af te beelden. Er wordt geen taal gebruikt.</details>|
 |**2 Leerkrachten fysieke interface**|
 |2.1 Algemeen|
-|2.1.1|Het van de eerste keer duidelijk hoe het product werkt|Concepttesten wave 1|30/11/2024|
-|2.1.2|De interface nodigt uit om het frequent te blijven gebruiken|Focusgroep|14/11/2024|
-|2.1.3|De interface kan (makkelijk) verplaatst worden|Concepttesten wave 1|28/11/2024|
-|2.1.4|Aanpasbaar aan de hoeveelheid leerlingen|Literatuuronderzoek|14/11/2024|
+|2.1.1|Het is van de eerste keer duidelijk hoe het product werkt|Concepttesten wave 1|30/11/2024|NIET OK|
+|2.1.2|De interface nodigt uit om het frequent te blijven gebruiken|Focusgroep|14/11/2024|NIET OK|
+|2.1.3|De interface kan (makkelijk) verplaatst worden|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes (wave 1 en wave 2) door ze compact en draadloos te houden.</details>|
+|2.1.4|Aanpasbaar aan de hoeveelheid leerlingen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Wordt geïmplementeerd in prototypes 1 en 3 van wave 1 door extra stukken toe te voegen aan de interface en in het prototype van wave 2 door te werken met een scherm waar verschaald kan worden om zo meer of minder leerlingen af te beelden.</details>|
 |2.2 Visualisatie|
-|2.2.1|De leerkracht kan snel zien welke emoties de kinderen ervaren|Interview|14/11/2024|
-|2.2.2|De leerkrachten kunnen op hun gemak bekijken welke emoties de kinderen de afgelope tijd ervaarden|Interview|14/11/2024|
+|2.2.1|De leerkracht kan snel zien welke emoties de kinderen ervaren|Interview|14/11/2024|<details><summary>OK</summary><br> Wordt geïmplementeerd in prototype 2 van wave 1 en het prototype van wave 2 door een overzichtelijk overzicht te geven mat namen.</details>|
+|2.2.2|De leerkrachten kunnen op hun gemak bekijken welke emoties de kinderen de afgelope tijd ervaarden|Interview|14/11/2024|OK|
 |**3 Leerkrachten app**|
 |3.1 Algemeen|
-|3.1.1|Er is advies beschikbaar over hoe de leerkrachten met een bepaalde emotie kunnen omgaan|Literatuuronderzoek|14/11/2024|
-|3.1.2|De leerkracht kan op een rustig moment bekijken welke emoties de leerlingen ervaarden|Interview|14/11/2024|
-|3.1.3|De app is overzichtelijk en simpel|Concepttesten wave 2|28/11/2024|
+|3.1.1|Er is advies beschikbaar over hoe de leerkrachten met een bepaalde emotie kunnen omgaan|Literatuuronderzoek|14/11/2024|In progress|
+|3.1.2|De leerkracht kan op een rustig moment bekijken welke emoties de leerlingen ervaarden|Interview|14/11/2024|<details><summary>OK</summary><br> Dit wordt geïmplementeerd in de app van wave 1 en wave 2 door een overzicht te geven van welke emoties welke leerling heeft. Hierdoor kan de leerkracht vanop haar GSM kijken wie welke emotie ervaart.</details>|
+|3.1.3|De app is overzichtelijk en simpel|Concepttesten wave 2|28/11/2024|<details><summary>OK</summary><br> Dit werd gevalideerd in wave 2 door het genoeg maar niet te veel informatie af te beelden.</details>|
 |3.2 Visualistatie|
-|3.2.1|Duidelijke weergave van wie wanneer welke emotie ervaarde|Concepttesten wave 1|28/11/2024|
-|3.2.2|Er is een overzicht per leerling|Concepttesten wave 1|28/11/2024|
-|3.2.3|Er is een weekoverzicht beschikbaar|Interview|14/11/2024|
-|3.2.4|De leerkrachten kunnen de gegevens tot op een jaar terugkijken|Concepttesten wave 1|28/11/2024|
+|3.2.1|Duidelijke weergave van wie wanneer welke emotie ervaarde|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een dropdown te voorzien die laat zien op welke tijden van de dag de leerling een bepaalde emotie aanduidde.</details>|
+|3.2.2|Er is een overzicht per leerling|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een overzicht per leerling toe te voegen aan de app.</details>|
+|3.2.3|Er is een weekoverzicht beschikbaar|Interview|14/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een weekoverzicht toe te voegen aan de app.</details>|
+|3.2.4|De leerkrachten kunnen de gegevens tot op een jaar terugkijken|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door de mogelijkheid te geven om gegevens van het jaar op te vragen in de app.</details>|
 
 
 Momenteel bestaat het gevalideerde concept uit een bakje op de bank van de leerling. Het bakje heeft knoppen waarmee de leerling emoties kan aangeven. Deze emoties worden doorgegeven aan de interface van de leerkracht en een app. Met de interface kan de leerkracht direct ingrijpen in de klas. De app toont ook week- en jaaroverzichten en biedt tips voor emotioneel management. Hierdoor kan de leerkracht ook op zijn/haar gemak kijken naar de emoties van de leerlingen.
