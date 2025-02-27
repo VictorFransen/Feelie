@@ -323,8 +323,17 @@ Voor meer conclusies en implicaties zie de tabel onder 2.3 en/of de rapporten va
 
 ## 3 Develop 1
 ### 3.1 Vooronderzoek & doelstelling
+Tijdens de defenition fase werd een oplossing, Feelie, bedacht voor het vooropgestelde probleem. Het doel van de deze eerste develop fase is om de oplossing te verfijnen en de ergonomie te optimaliseren.
+Om de belangrijkste design challanges van het product te definiëren werd geburiuk gemaakt van Nir Eyel's Hook model. Uit deze analyse kwamen twee belangrijke ontwerpvraagstukken:
+- Hoe kan ervoor gezorgd worden dat de leerkracht zo rap mogelijk actie onderneemt wanneer een leerling een bepaalde emotie ervaart? 
+- Hoe kan ervoor gezorgd worden dat de leerlingen het bakje blijven gebruiken? 
+- Wat zijn de prioritaire functies van de app? 
 ### 3.2 Materiaal & methoden
+#### 3.2.1 ESM: bakje leerlingen
+#### 3.2.2 Performance measurment: interface leerkracht + MoSCoW rewiew app
 ### 3.3 resultatien
+#### 3.3.1 ESM: bakje leerlingen
+#### 3.3.2 Performance measurment: interface leerkracht + MoSCoW review app
 
 ## 4 Bill of materials
 Gebruikt semester 1:
