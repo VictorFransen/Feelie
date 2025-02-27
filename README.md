@@ -321,8 +321,12 @@ Uit deze twee waves van conceptesten werd duidelijk vastgesteld dat alle vier de
 
 Voor meer conclusies en implicaties zie de tabel onder 2.3 en/of de rapporten van wave 1 en wave 2.
 
+## 3 Develop 1
+### 3.1 Vooronderzoek & doelstelling
+### 3.2 Materiaal & methoden
+### 3.3 resultatien
 
-## 3 Bill of materials
+## 4 Bill of materials
 Gebruikt semester 1:
 - karton
 - papier
@@ -343,7 +347,8 @@ Willen gebruiken in semester 2:
   - MDF/multiplex
 - Raspberry Pi
 
-## 4 Kritische reflectie
+
+## 5 Kritische reflectie
 Na één semester te hebben gewerkt aan Feelie, zijn er zaken die ons zijn opgevallen en bijgebleven die we in de toekomst anders zouden doen of juist niet anders zouden doen.
 
 Wat al snel duidelijk werd uit interviews en gebruikerstesten is dat het onderwerp en doel van dit project zeer relevant en nodig is. Door het lerarentekort worden klassen steeds groter en krijgen leerkrachten een hoge werklast. Een tool om deze werklast te verlagen was dus welgekomen.
