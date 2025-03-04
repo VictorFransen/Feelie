@@ -329,8 +329,10 @@ Om de belangrijkste design challanges van het product te definiëren werd geburi
 - Hoe kan ervoor gezorgd worden dat de leerlingen het bakje blijven gebruiken? 
 - Wat zijn de prioritaire functies van de app? 
 ### 3.2 Materiaal & methoden
+Het volledige protocol van de eerste develop fase is te vinden via deze link.
 #### 3.2.1 ESM: bakje leerlingen
 #### 3.2.2 Performance measurment: interface leerkracht + MoSCoW rewiew app
+Het prototype dat zal gebruikt tijdens dit onderziek is te zien in onderstaande figuur
 ### 3.3 resultatien
 #### 3.3.1 ESM: bakje leerlingen
 #### 3.3.2 Performance measurment: interface leerkracht + MoSCoW review app
