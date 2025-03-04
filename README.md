@@ -28,13 +28,17 @@ In dit ontwerp staat de gebruikers, waarbij de belangrijkste de leerkracht en le
 ## Methodologie
 In de figuur hieronder is een tijdslijn te zien van de stappen en methodologiën die doorlopen zijn. 
 
-**Discovery fase**
+**Discovery**
 
 De eerste fase is de discovery fase. Hierbij werd de opdracht, namelijk iets ontwerpen rond het thema 'Empathic wear' geëxploreerd. Wanneer het duidelijk was dat iets ontworpen zou worden voor kinderen in de lagere school is er aan *literatuuronderzoek* gedaan. De *5W/H methode* werd gebruikt om een houvast te vormen in de zee van informatie. Daarna werd een *stakeholder analyse* gemaakt om een beter zicht te krijgen op de betrokken partijen. Overlappend met dit literatuuronderzoek is een *focusgroep* en *interviews* gehouden. De focusgroep was met kinderen uit de lagere school, uit deze data werd een *persona* opgemaakt. Er zijn drie interviews gehouden met leerkrachten uit de lagera school, uit de analyse van deze data werd een *user model* en *persona* opgemaakt. In de les werd daarnaast tijd voorzien om een 'sprint day' te houden. Tijdens deze sprint day werd onder andere een *lotusbloem* en een *innovatrix* gemaakt en aan ideation en selectie gedaan. Verder werd er tussen deze activiteiten gebrainstormt om concepten te ontwikkelen en een selectie hiervan te maken. Ook werden de eerste *design requirements* opgesteld. 
 
-**Defenition fase**
+**Defenition**
 
 De tweede fase is de defenition fase. Hier is het de bedoeling om het concept uit te werken en testen te doen met gebruikers om te weten te komen of het concept wel een goed concept is en feedback te krijgen. Deze fase begon met een tweede sprint day. Op deze dag werd aan *quick and dirty prototyping* gedaan om een visueel beeld te krijgen van het concept. In wave 1 werd eerst gebruik gemaakt van *storyboarding* om problemen en vragen op te stellen waar een antwoord op gezocht zal worden aan de hand van *concepttesten*. Om deze concepttesten te doen zijn verschillende *prototypes* gemaakt en deze werden aan de gebruikers (leerkrachten en leerlingen) voorgesteld. Uit deze concepttesten konden de design requirements verder aangevuld worden. Ondertussen werden ook al wat voorbereiding voor wave 2 gedaan waarbij nog prototypes gamaakt zijn waarbij rekening gehouden werd met de feedback en evaluatie uit wave 1. Deze prototypes werden opnieuw zoals in wave 1 afgetoets met de eindgebruiker. Hierna werden de design requirements nogmaals verder aangepast en kon het concept gefinaliseerd worden.
+
+**Develop 1**
+
+In het tweede semester werd gestart met de eerste develop fase. Hierbij is het de bedoeling om Feelie verder uit te werken, te verfijnen en de ergonomie te optimaliseren. Deze fase begon een reflectie van semester 1. Daarna werd *Nir Eyel's hook model* overlopen om na te gaan waar verbeteringen en verder onderzoek in het product nodig waren. Aan de hand van *e-prototypes* werd een *ESM* test bij de leerlingen uitgevoerd, een *performance measurment* *MoSCoW review* bij de leerkacht uitgevoerd.
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/tijdslijn.png" width="80%" />
 </p>
@@ -331,8 +335,26 @@ Om de belangrijkste design challanges van het product te definiëren werd geburi
 ### 3.2 Materiaal & methoden
 Het volledige protocol van de eerste develop fase is te vinden via deze link.
 #### 3.2.1 ESM: bakje leerlingen
-#### 3.2.2 Performance measurment: interface leerkracht + MoSCoW rewiew app
-Het prototype dat zal gebruikt tijdens dit onderziek is te zien in onderstaande figuur
+#### 3.2.2 Performance measurment: interface leerkracht + MoSCoW rewiew app (N=1)
+Het prototype dat zal gebruikt tijdens dit onderziek is te zien in onderstaande figuur.
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/foto_prototype_develop1.jpg" width="500" />
+</p>
+Het scherm is op afstand bestuurbaar, waardoor de interface kan aangepast worden alsof de leerling een andere emotie heeft aangeduid. Het prototype bevat een arduino waarmee via Bleutooth een lichtje kan aangezet en een geluidje kan afgespeelt worden. De code hiervoor staat in de map [Tests](https://github.com/VictorFransen/Feelie/blob/main/Tests/Code_prototype_interface_leerkracht)
+ en in het protocol.
+Met dit prototype wordt onderzocht hoe snel een leerkracht een emotieverandering van een leerling opmerkt. Hiervoor worden verschillende hulpmiddelen gebruikt:
+- kadertje rond de emoties
+- geluidje speelt af
+- lichtje gaat aan
+- combinaties
+Tijdens de test zal de tijd gemeten worden die de leerkracht nodig heeft om de verandering op te merken en zal gekeken worden naar gezichtsuitdrukkingen en lichaamstaal. Op deze manier kan onderzocht worden welke verandering het beste werkt. 
+Tijdens het tweede deel van de test (MoSCoW review van de app) zal aan de leerkracht gevraagd worden om de verschillende functies van de app te rangschikken in volgorde van belangrijkheid en zal gevraagd worden welke functies eventueel overbodig zijn.
+functies app:
+-	Weekoverzicht van de emoties van de leerlingen
+-	Overzicht per leerling
+-	Exporteren van een jaaroverzicht
+-	Tips om met de emoties om te gaan
+
 ### 3.3 resultatien
 #### 3.3.1 ESM: bakje leerlingen
 #### 3.3.2 Performance measurment: interface leerkracht + MoSCoW review app
