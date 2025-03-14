@@ -336,6 +336,12 @@ Om de belangrijkste design challanges van het product te definiëren werd geburi
 Het volledige protocol van de eerste develop fase is te vinden via deze link.
 #### 3.2.1 ESM: bakje leerlingen
 Het prototypes die getest gaan worden zijn te zien in onderstaande figuur.
+
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Prototype%20leerlingen%20develop%201.jpeg?raw=true" width="500" />
+</p>
+
+
 Het doel van deze gebruikerstesten bij de leerlingen is om te zien welke vorm van feedback de leerlingen aanstuurt om regelmatig hun emoties aan te duiden. Daarom zijn er drie verschillende prototypes gemaakt die een verschillende soort feedback geven wanneer er op een knopje wordt gedrukt. Deze drie soorten feedback zijn:
 - Geen feedback
 - Lampjes
@@ -352,33 +358,35 @@ Deze prototypes zullen gedurende 3 dagen in de klas gezet worden, elke dag bij e
 - Hoe vaak wordt er een emotie aangeduid?
 - Hoeveel tijd zit er tussen de aangeduide emoties?
 
+De data gecapteerd tijdens deze drie dagen wordt opgeslagen in het EEPROM geheugen van de Arduino en achteraf uitgelezen.
+
 De prototypes zijn gemaakt met gelasercutte MDF en er wordt gebruik gemaakt van Arduino Nano en bijhrende componenten (LEDs, rilmotoren, knoppen, weerstanden). De schakelingen voor de 3 prototypes zijn de volgende:
 
 **Prototype lampjes:**
 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/foto_prototype_develop1.jpg" width="500" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schakeling_LED.png?raw=true" width="500" />
 </p>
 
-De code evoor dit prototype: [code lampjes](url)
+De code evoor dit prototype: [code lampjes](https://github.com/VictorFransen/Feelie/tree/main/Code/Prototype_leerlingen_develop1_nano)
 
 **Prototype trilmotoren:**
 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/foto_prototype_develop1.jpg" width="500" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schakeling_trilmotoren.png?raw=true" width="500" />
 </p>
 
-De code evoor dit prototype: [code trilmotoren](url)
+De code evoor dit prototype: [code trilmotoren](https://github.com/VictorFransen/Feelie/tree/main/Code/Prototype_leerlingen_develop1_tril)
 
 **Prototype geen feedback:**
 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/foto_prototype_develop1.jpg" width="500" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schakeling_Geen%20feedback.png?raw=true" width="500" />
 </p>
 
-De code evoor dit prototype: [code geen feedback](url)
+De code evoor dit prototype: [code geen feedback](https://github.com/VictorFransen/Feelie/tree/main/Code/Prototype_leerlingen_develop1_zonder_feedback)
 
-Code voor data ophalen: [Code Data]()
+Code voor data ophalen: [Code Data](https://github.com/VictorFransen/Feelie/tree/main/Code/data_ophalen)
 Voor het volledige protocol zie [link](https://acrobat.adobe.com/id/urn:aaid:sc:EU:a118c31f-9d20-4e50-8656-408384e52897).
 
 #### 3.2.2 Performance measurment: interface leerkracht + MoSCoW rewiew app (N=1)
