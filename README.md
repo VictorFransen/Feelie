@@ -335,8 +335,53 @@ Om de belangrijkste design challanges van het product te definiëren werd geburi
 ### 3.2 Materiaal & methoden
 Het volledige protocol van de eerste develop fase is te vinden via deze link.
 #### 3.2.1 ESM: bakje leerlingen
+Het prototypes die getest gaan worden zijn te zien in onderstaande figuur.
+Het doel van deze gebruikerstesten bij de leerlingen is om te zien welke vorm van feedback de leerlingen aanstuurt om regelmatig hun emoties aan te duiden. Daarom zijn er drie verschillende prototypes gemaakt die een verschillende soort feedback geven wanneer er op een knopje wordt gedrukt. Deze drie soorten feedback zijn:
+- Geen feedback
+- Lampjes
+- Trilling
+
+Deze prototypes zullen gedurende 3 dagen in de klas gezet worden, elke dag bij een andere leerling. Hierbij wordt data gecapteerd. Dit omvat zowel kwantitatieve als qualitatieve data. Deze zijn:
+
+**Kwalitatief:**
+- Welke emotie wordt er aangeduid?
+- Op welk moment van de dag wordt deze emotie aangeduid?
+- Op welk Prototype wordt dit aangeduid?
+
+**Kwantitatief:**
+- Hoe vaak wordt er een emotie aangeduid?
+- Hoeveel tijd zit er tussen de aangeduide emoties?
+
+De prototypes zijn gemaakt met gelasercutte MDF en er wordt gebruik gemaakt van Arduino Nano en bijhrende componenten (LEDs, rilmotoren, knoppen, weerstanden). De schakelingen voor de 3 prototypes zijn de volgende:
+
+**Prototype lampjes:**
+
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/foto_prototype_develop1.jpg" width="500" />
+</p>
+
+De code evoor dit prototype: [code lampjes](url)
+
+**Prototype trilmotoren:**
+
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/foto_prototype_develop1.jpg" width="500" />
+</p>
+
+De code evoor dit prototype: [code trilmotoren](url)
+
+**Prototype geen feedback:**
+
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/foto_prototype_develop1.jpg" width="500" />
+</p>
+
+De code evoor dit prototype: [code geen feedback](url)
+
+Voor het volledige protocol zie [link](url).
+
 #### 3.2.2 Performance measurment: interface leerkracht + MoSCoW rewiew app (N=1)
-Het prototype dat zal gebruikt tijdens dit onderziek is te zien in onderstaande figuur.
+Het prototype dat zal gebruikt tijdens dit onderzoek is te zien in onderstaande figuur.
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/foto_prototype_develop1.jpg" width="500" />
 </p>
@@ -355,7 +400,7 @@ functies app:
 -	Exporteren van een jaaroverzicht
 -	Tips om met de emoties om te gaan
 
-### 3.3 resultatien
+### 3.3 resultaten
 #### 3.3.1 ESM: bakje leerlingen
 #### 3.3.2 Performance measurment: interface leerkracht + MoSCoW review app
 
@@ -418,6 +463,9 @@ Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We heb
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:90d25d05-af82-4730-8d17-69c00fb9f6cb)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f661a435-779b-4238-9a97-c5f221a0e30b)
   - [app](https://embed.figma.com/proto/xjk2GZR6GmpDlgrpEQ6WCS/Untitled?node-id=1-2&starting-point-node-id=1%3A2&embed-host=share)
+###Develop
+- **Develop 1**
+  - [Protocol](url)
 ## 5 Bronnen
 [^1]: Cassano, M., Perry-Parrish, C., Stegall, S., Zeman, J. (April 2006). Emotion Regulation in Children and Adolescents. University of Maine.
 [^2]: Brackett, M., Simmons, D. (oktober 2015). Emotions Matter. Guilford Press.
