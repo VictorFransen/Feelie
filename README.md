@@ -414,25 +414,32 @@ functies app:
 #### 3.3.2 Performance measurment: interface leerkracht + MoSCoW review app
 
 ## 4 Bill of materials
-Gebruikt semester 1:
+### Gebruikt semester 1:
 - karton
 - papier
 - Powerpoint
 - Figma
 
-Willen gebruiken in semester 2:
-- Arduino
-  - Knoppen
-  - Jumper wires
+### Semester 2:
+**Develop 1:**
+-Interface leerlingen:
+  - **Arduino NANO** -> data opslagen in EEPROM geheugen en aansturen van componenten
+  - Drukknoppen -> emoties aanduiden
+  - Jumper wires -> connecties tussen verschillende componenten
+  - Breadboards -> Connectie + opstelling van componenten
   - weerstanden
-  - Bluetooth/WiFi-module
-  - LEDs
-- Scherm/tablet
-- 3D printer
-  - Filament
-- Lasercutter
-  - MDF/multiplex
-- Raspberry Pi
+  - powerbank -> draadloze stroomvoorziening van prototypes
+  - LEDs -> Feedback naar leerling
+  - Vibratiemotoren -> Feedback naar leerlingen
+  - Gelasercut MDF -> Behuizing prototype
+
+- Interface leerkrachten:
+  - Arduino NANO 33 IOT -> draadloze aanturing via bluetooth van componenten met GSM
+  - LED -> Feedback naar leerkrachten
+  - Buzzer -> Feedback naar leerkrachten
+  - Tablet -> Visualisatie van interface
+  - 
+  - Fotokader -> stand voor interface
 
 
 ## 5 Kritische reflectie
