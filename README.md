@@ -346,7 +346,7 @@ De code evoor dit prototype: [code geen feedback](https://github.com/VictorFrans
 Code voor data ophalen: [Code Data](https://github.com/VictorFransen/Feelie/tree/main/Code/data_ophalen)
 Voor het volledige protocol zie [link](https://acrobat.adobe.com/id/urn:aaid:sc:EU:a118c31f-9d20-4e50-8656-408384e52897).
 
-#### 3.2.2 Usability test: interface leerkracht + MoSCoW rewiew app (N=1)
+#### 3.2.2 Usability test: interface leerkracht + MoSCoW rewiew app (N=2)
 Het prototype dat zal gebruikt tijdens dit onderzoek is te zien in onderstaande figuur.
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/foto_prototype_develop1.jpg" width="500" />
@@ -359,7 +359,11 @@ Met dit prototype wordt onderzocht hoe snel een leerkracht een emotieverandering
 - geluidje speelt af
 - lichtje gaat aan
 - combinaties
+
 Tijdens de test zal de tijd gemeten worden die de leerkracht nodig heeft om de verandering op te merken en zal gekeken worden naar gezichtsuitdrukkingen en lichaamstaal. Op deze manier kan onderzocht worden welke verandering het beste werkt. 
+> [!IMPORTANT]
+> Hiermee word Design requirement 2.1.2: 'De interface nodigt uit om frequent te blijven gebruiken' verder onderzocht
+
 Tijdens het tweede deel van de test (MoSCoW review van de app) zal aan de leerkracht gevraagd worden om de verschillende functies van de app te rangschikken in volgorde van belangrijkheid en zal gevraagd worden welke functies eventueel overbodig zijn.
 functies app:
 -	Weekoverzicht van de emoties van de leerlingen
@@ -370,9 +374,20 @@ functies app:
 ### 3.3 resultaten
 #### 3.3.1 ESM: bakje leerlingen
 #### 3.3.2 Usability test: interface leerkracht + MoSCoW review app
-Uit deze usability test bleek dat de verandering van de emotie de snelste manier is om de aandacht van de leerkracht te trekken en de les niet te verstoren. Dit kom doordat de gehele emoticon uit één kleur bestaat en het ook van veraf goed zichtbaar is als de emotie veranderd. Omdat door de leerkrachten vooral gekeken werd naar de 'niet blije' emoties zou overwogen kunnen worden om enkel de 'niet blije' emoties weer te geven op het scherm. Daarnaast werd duidelijk dat de leerkrachten vooral op rustige momenten naar de interface zullen kijken, zoals na de speeltijd of tijdens een rustige les. Het zal daaorm belangrijk zijn om na te gaan hoe op juist deze momenten de leerkracht gestimuleerd kan worden om naar de interface te kijken. Als laatste is het belangrijk dat de leerlingen niet worden afgeleid door de interface van de leerkracht of deze niet kapot maken. 
+conclusie usability-test:
+- Kleurverandering als meest effectieve notificatie
+  - De verandering van emotie trekt het snelst de aandacht van de leerkracht zonder de les te       verstoren. Dit komt doordat de emoticon volledig uit één kleur bestaat en daardoor van          veraf goed zichtbaar is.
+- Focus op 'niet blije' emoties
+  - Leerkrachten letten voornamelijk op de negatieve emoties van leerlingen. Het kan daarom         overwogen worden om enkel de 'niet blije' emoties op het scherm weer te geven.
+- Gebruiksmomenten van de interface
+  - Leerkrachten kijken vooral op rustige momenten naar de interface zoals na de speeltijd of tijdens rustige lessen. Daarom is het belangrijk om te onderzoeken hoe de leerkrachten op deze moementen gestimuleerd kunnen worden om naar de interface te kijken.
+- Beperken van afleiding en fysieke bescherming
+    - De interface van de leerkracht mag de leerlingen niet afleiden tijdens de les en mogen deze niet kapot kunnen maken
 
-Uit de korte MoSCoW review van de app bleek dat de functies 'weekoverzicht van de emoties van de leerlingen' en 'overzicht per leerling' kunnen samengevoegd worden. De andere functies kunnen wel behouden blijven.
+Uit de korte MoSCoW review van de app bleek:
+- De functies 'weekoverzicht van de emoties vand e leerlingen' en 'overzicht per leerling' kunnen samengevoegd worden.
+- De andere functies kunnen wel behouden blijven.
+
 ## 4 Design requirements
 |Nummer|Criteria|Bron|Datum|Toestand|
 |---|---|---|---|---|
