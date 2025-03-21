@@ -378,7 +378,9 @@ Uit de data verkregen uit de prototypes kunnen enkele zaken geconcludeerd worden
 
   Het prototype met de lampjes stimuleerde het gebruik van de interface. Dit is te zien uit het feit dat het prototype gedurende de hele dag regelmatig word gebruikt. Ook zorgt de integratie van de lampjes ervoor dat de leerlingen weten dat hun emotie is doorgestuurd naar de leerkracht. Dit wordt getoond in onderstaande figuur waarbij het duidelijk is dat de keren dat er maar 1 keer op een knop gedrukt wordt veel groter is dan wanneer er meerdere keren op de knopjes wordt gedrukt.
 
-  **foto**
+  <p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Grafiek1.png?raw=true" width="500" />
+</p>
 
 - **Trilmotoren**
   nog geen data
@@ -387,13 +389,17 @@ Uit de data verkregen uit de prototypes kunnen enkele zaken geconcludeerd worden
 
   Uit de data gehaald uit het prototype zonder feedback is te zien dat het gebruik niet echt gestimuleerd wordt. Dit kan geconcludeerd worden door het feit dat er enkel in het begin van de dag gebruik gemaakt werd van het prototype. Ook was het voor de leerlingen niet altijd duidelijk dat hun emotie werd gecommuniceerd met de leerkracht. Dit kan geconcludeerd worden uit de data hieronder waarbij er heel vaak meerdere keren op een knopje werd geduwd net na elkaar.
 
-  **foto**
+  <p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Grafiek2.png?raw=true" width="500" />
+</p>
 
 ##### 3.3.1.1 Vergelijking
 
 Als we de resultaten van de drie prototypes naast elkaar leggen, kan geconcludeerd worden dat het prototype met de lampjes de beste feedback geeft. Dit wordt getoond op onderstaande figuur, waarbij het duidelijk is dat er minder vaak direct na elkaar gedrukt wordt op een knop. Dit geeft aan dat het gebruik deze visuele feedback een betere besvestiging geeft aan de leerlingen.
 
-**foto**
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/grafiek%20vgln.png?raw=true" width="500" />
+</p>
 
 Ook kan er gesteld worden dat het prototype met de lampjes het beste regelmatig gebruik stimmuleerd. Dit omdat het gebruik meer gespreid over de dagen.
 
