@@ -373,6 +373,36 @@ functies app:
 
 ### 3.3 resultaten
 #### 3.3.1 ESM: bakje leerlingen
+Uit de data verkregen uit de prototypes kunnen enkele zaken geconcludeerd worden.
+- **Lampjes**
+
+  Het prototype met de lampjes stimuleerde het gebruik van de interface. Dit is te zien uit het feit dat het prototype gedurende de hele dag regelmatig word gebruikt. Ook zorgt de integratie van de lampjes ervoor dat de leerlingen weten dat hun emotie is doorgestuurd naar de leerkracht. Dit wordt getoond in onderstaande figuur waarbij het duidelijk is dat de keren dat er maar 1 keer op een knop gedrukt wordt veel groter is dan wanneer er meerdere keren op de knopjes wordt gedrukt.
+
+  **foto**
+
+- **Trilmotoren**
+  nog geen data
+
+- **Geen feedback**
+
+  Uit de data gehaald uit het prototype zonder feedback is te zien dat het gebruik niet echt gestimuleerd wordt. Dit kan geconcludeerd worden door het feit dat er enkel in het begin van de dag gebruik gemaakt werd van het prototype. Ook was het voor de leerlingen niet altijd duidelijk dat hun emotie werd gecommuniceerd met de leerkracht. Dit kan geconcludeerd worden uit de data hieronder waarbij er heel vaak meerdere keren op een knopje werd geduwd net na elkaar.
+
+  **foto**
+
+##### 3.3.1.1 Vergelijking
+
+Als we de resultaten van de drie prototypes naast elkaar leggen, kan geconcludeerd worden dat het prototype met de lampjes de beste feedback geeft. Dit wordt getoond op onderstaande figuur, waarbij het duidelijk is dat er minder vaak direct na elkaar gedrukt wordt op een knop. Dit geeft aan dat het gebruik deze visuele feedback een betere besvestiging geeft aan de leerlingen.
+
+**foto**
+
+Ook kan er gesteld worden dat het prototype met de lampjes het beste regelmatig gebruik stimmuleerd. Dit omdat het gebruik meer gespreid over de dagen.
+
+##### 3.3.1.2 Keuze
+
+Door de verkregen data met elkaar te vergelijken is de keuze van feedback voor de interface van de leerlingen het gebruik van lichtjes.
+
+Voor een uigebeider raport en alle data zie: [rapport](url).
+
 #### 3.3.2 Usability test: interface leerkracht + MoSCoW review app
 conclusie usability-test:
 - Kleurverandering als meest effectieve notificatie
@@ -382,7 +412,7 @@ conclusie usability-test:
 - Gebruiksmomenten van de interface
   - Leerkrachten kijken vooral op rustige momenten naar de interface zoals na de speeltijd of tijdens rustige lessen. Daarom is het belangrijk om te onderzoeken hoe de leerkrachten op deze moementen gestimuleerd kunnen worden om naar de interface te kijken.
 - Beperken van afleiding en fysieke bescherming
-    - De interface van de leerkracht mag de leerlingen niet afleiden tijdens de les en mogen deze niet kapot kunnen maken
+    - e interface van de leerkracht mag de leerlingen niet afleiden tijdens de les en mogen deze niet kapot kunnen maken
 
 Uit de korte MoSCoW review van de app bleek:
 - De functies 'weekoverzicht van de emoties vand e leerlingen' en 'overzicht per leerling' kunnen samengevoegd worden.
@@ -405,7 +435,7 @@ Uit de korte MoSCoW review van de app bleek:
 |1.1.8|Makkelijk verplaatsbaar|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes door ze compact en draadloos te houden.</details>|
 |1.1.9|Het product is geschikt voor verschillende soorten schoolbanken|Concepttesten wave 2|12/12/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in het prototype van wave 2. Deze werd zo gevormd dat hij voor verschillende banken geschikt is. Door het afneembaar klepje kan deze zowel in als op de bank gebruikt worden.</details>|
 |1.2 Learnability|
-|1.2.1|De leerling kan de correcte emotie aan de symbolen koppelen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Dit werd getest tijdens wave 1 waarbij de leerlingen bevraagd werden over welke emoties de verschillende emoties de knoppen afbeeldde. Dit werd nogmaals gevalideerd in wave 2.</details>|
+|1.2.1De leerling kan de correcte emotie aan de symbolen koppelen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Dit werd getest tijdens wave 1 waarbij de leerlingen bevraagd werden over welke emoties de verschillende emoties de knoppen afbeeldde. Dit werd nogmaals gevalideerd in wave 2.</details>|
 |1.2.2|De interface is toegankelijk voor leerlingen van het 1e tot en met het 3e leerjaar|Interview|14/11/2024|<details><summary>OK</summary><br>Dit werd getest tijdens wave 1 en wave 2 waarbij testen werden gedaan bij leerlingen van het 1e en het 3e leerjaar. Hierbij werd vastgesteld dat zowel de leerlingen van het 1e als die van het 3e leerjaar het concept en gebruik begrepen.</details>|
 |1.3 Gebruiksgemak|
 |1.3.1|De interface is makkelijk te bedienen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Door minimale handelingen met de interface werd in wave 1 en 2 vastgesteld dat de interface makkelijk te gebruiken is.</details>|
