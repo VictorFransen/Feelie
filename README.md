@@ -284,6 +284,11 @@ Voor meer conclusies en implicaties zie de tabel onder 2.3 en/of de rapporten va
 
 ## 3 Develop 1
 ### 3.1 Vooronderzoek & doelstelling
+Wegens copyright redenen werden de gezichtjes die tot nu toe gebruikt werden veranderd naar de gezichtjes te zien in de figuur hieronder. De vormen en kleuren blijven wel gelijkaardig.
+
+  <p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/nieuwe_gezichtjes.png" width="500" />
+  
 Tijdens de defenition fase werd een oplossing, Feelie, bedacht voor het vooropgestelde probleem. Het doel van de deze eerste develop fase is om de oplossing te verfijnen en de ergonomie te optimaliseren.
 Om de belangrijkste design challanges van het product te definiëren werd geburiuk gemaakt van Nir Eyel's Hook model. Uit deze analyse kwamen twee belangrijke ontwerpvraagstukken:
 - Hoe kan ervoor gezorgd worden dat de leerkracht zo rap mogelijk actie onderneemt wanneer een leerling een bepaalde emotie ervaart? 
@@ -295,7 +300,7 @@ Het volledige protocol van de eerste develop fase is te vinden via deze link.
 Het prototypes die getest gaan worden zijn te zien in onderstaande figuur.
 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Prototype%20leerlingen%20develop%201.jpeg?raw=true" width="500" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/nieuwe_gezichtjes1.png" width="500" />
 </p>
 
 
