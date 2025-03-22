@@ -296,7 +296,7 @@ Om de belangrijkste design challanges van het product te definiëren werd geburi
 - Wat zijn de prioritaire functies van de app? 
 ### 3.2 Materiaal & methoden
 Het volledige protocol van de eerste develop fase is te vinden via deze link.
-#### 3.2.1 ESM: bakje leerlingen
+#### 3.2.1 ESM: bakje leerlingen (N=15)
 Het prototypes die getest gaan worden zijn te zien in onderstaande figuur.
 
 <p align="center">
