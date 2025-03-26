@@ -301,10 +301,10 @@ Om de belangrijkste design challanges van het product te definiëren werd geburi
 ### 3.2 Materiaal & methoden
 Het volledige protocol van de eerste develop fase is te vinden via deze link.
 #### 3.2.1 ESM: bakje leerlingen (N=15)
-Het prototypes die getest gaan worden zijn te zien in onderstaande figuur.
+De prototypes die getest zullen worden zijn te zien in onderstaande figuur.
 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/nieuwe_gezichtjes1.png" width="500" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Prototype%20leerlingen%20develop%201.jpeg" width="500" />
 </p>
 
 
