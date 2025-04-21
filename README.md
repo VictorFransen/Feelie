@@ -286,7 +286,7 @@ Uit deze twee waves van conceptesten werd duidelijk vastgesteld dat alle vier de
 
 Voor meer conclusies en implicaties zie de tabel onder 2.3 en/of de rapporten van wave 1 en wave 2.
 
-## 3 Develop 1
+## 3 Develop 1 (N=17)
 ### 3.1 Vooronderzoek & doelstelling
 Wegens copyright redenen werden de gezichtjes die tot nu toe gebruikt werden veranderd naar de gezichtjes te zien in de figuur hieronder. De vormen en kleuren blijven wel gelijkaardig.
 
@@ -421,19 +421,79 @@ Voor een uigebeider raport en alle data zie: [rapport](https://acrobat.adobe.com
 #### 3.3.2 Usability test: interface leerkracht + MoSCoW review app
 conclusie usability-test:
 - Kleurverandering als meest effectieve notificatie
-  - De verandering van emotie trekt het snelst de aandacht van de leerkracht zonder de les te       verstoren. Dit komt doordat de emoticon volledig uit één kleur bestaat en daardoor van          veraf goed zichtbaar is.
+  - De verandering van emotie trekt het snelst de aandacht van de leerkracht zonder de les te verstoren. Dit komt doordat de emoticon volledig uit één kleur bestaat en daardoor van veraf goed zichtbaar is.
 - Focus op 'niet blije' emoties
-  - Leerkrachten letten voornamelijk op de negatieve emoties van leerlingen. Het kan daarom         overwogen worden om enkel de 'niet blije' emoties op het scherm weer te geven.
+  - Leerkrachten letten voornamelijk op de negatieve emoties van leerlingen. Het kan daarom overwogen worden om enkel de 'niet blije' emoties op het scherm weer te geven.
 - Gebruiksmomenten van de interface
   - Leerkrachten kijken vooral op rustige momenten naar de interface zoals na de speeltijd of tijdens rustige lessen. Daarom is het belangrijk om te onderzoeken hoe de leerkrachten op deze moementen gestimuleerd kunnen worden om naar de interface te kijken.
 - Beperken van afleiding en fysieke bescherming
-    - e interface van de leerkracht mag de leerlingen niet afleiden tijdens de les en mogen deze niet kapot kunnen maken
+    - De interface van de leerkracht mag de leerlingen niet afleiden tijdens de les en mogen deze niet kapot kunnen maken
 
 Uit de korte MoSCoW review van de app bleek:
 - De functies 'weekoverzicht van de emoties vand e leerlingen' en 'overzicht per leerling' kunnen samengevoegd worden.
 - De andere functies kunnen wel behouden blijven.
 
-## 4 Design requirements
+## 4 Develop 2 (N=5)
+### 4.1 Vooronderzoek & doelstelling
+Uit de vorige , develop 1, fase bleek dat de app meer belangrijker is dan oorspronkelijk gedacht. Dit omdat werd aangegeven dat de leerkrachten voornamelijk op de rustige momenten de emoties van hun leerlingen zouden bekijken en de app hiervoor het ideale medium is. 
+Daarom is de onderzoeksvraag van deze fase: 'Hoe moet de app eruit zien en welke interacties zijn nodig om een goede usability te garanderen?'
+Deze hoofdvraag werd onderverdeeld in verschillende deelvragen:
+- Welke weg nemen gebruikers om een bepaalde taak uit te voeren?
+- Hoeveel keer moeten gebruikers klikken om een taak uit te voeren?
+- Welke obstakels zijn er om een taak uit te voeren?
+- Hoe vaak hebben gebruikers hulp nodig om een taak uit te voeren?
+  
+Tijdens dit onderzoek zal gefocusd worden op volgende zaken:
+- Effectiviteit
+- Efficiëntie
+- Leerbaarheid
+- Herinnerbaarheid
+Effectiviteit en leerbaarheid zijn hierbij de belangrijkste aangezien leerkrachten vaak beperkt zijn in tijd.
+### 4.2 Materiaal & methoden
+Om een antwoord te vinden op de vragen zal een vergelijkende usability test uitgevoerd worden. Hierbij zullen 2 apps gemaakt worden met de zelfde inhoud maar met een andere indeling. De 2 apps worden vervolgens aan 5 leerkrachten voorgesteld. Hierbij zal een context gespecifieerd en taken gegeven worden. Terwijl de taken worden uitgevoerd zal een schermopname gemaakt worden en notities worden genomen. Hiermee wordt volgende date gecapteerd:
+
+**kwantitatief**
+-	Tijd om taak uit te voeren
+-	Aantal keer klikken om taak uit te voeren
+-	Aantal keer om hulp vragen
+  
+**Kwalitatief**
+-	Commentaren leerkrachten
+-	Gezichtsuitdrukkingen/ lichaamsexpressie leerkracht
+-	Moeilijkheden
+Achteraf zal voor elke app gevraagd worden om een SUS (system usability scale) in te vullen. Daarna volgt nog een korte nabespreking. De volledige discussiegids, contexten, taken en bijlagen zijn te vinden in [dit protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:5daf253b-b7fe-4d91-a227-10ec8d04dac7).
+
+> [!IMPORTANT]
+> Hiermee word Design requirements:
+> 3.1.3: 'De app is overzichtelijk en simpel'
+> 3.2.1: 'Duidelijke weergave van wie wanneer welke emotie ervaarde' verder onderzocht
+> De tips die in de app beschikbaar zijn over hoe een leerkracht met bepaalde emoties van leerlingen kunnnen omgaan zijn gegenereerd door AI en dus niet letterlijk te nemen. Deze tips zullen in dit project ook   > niet verder onderzocht worden omdat wij hier niet de juiste achtergrond voor hebben.
+
+
+**App 1**
+
+De eerste app is te zien in onderstaande afbeeldingen. De volledige app is te vinden via [deze link](https://www.figma.com/design/wEshOaTTDDkKxwav1qaNoc/App-defenition-2?node-id=0-1&t=VsmjA3XAYgujL0lr-1). De reden waarom bepaalde keuzes zijn gemaakt zijn te vinden in [het protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:5daf253b-b7fe-4d91-a227-10ec8d04dac7). Deze app is ook uitgewerkt is een [laptop](https://www.figma.com/proto/mmPpQbuJKQSJKLFPVjRFJD/Untitled?node-id=1-2&starting-point-node-id=1%3A2&t=xJIWV6uHKxSTCTM1-1) variant.
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/App1_weekoverzicht.png" width="150" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app1_2.png" width="150" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app1_3.png" width="150" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app1_4.png" width="150" />
+</p>
+
+**App 2**
+
+De tweede app is te zien in onderstaande afbeeldingen. De volledige app is te vinden via [deze link](https://www.figma.com/proto/1NmKLkYI1ie7w2FXsoln4x/Untitled?node-id=1-28&p=f&t=80uLAq00ATcLO2Bi-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1). Wederom is de beschrijving van de app te vinden in [het protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:5daf253b-b7fe-4d91-a227-10ec8d04dac7).
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app2_1.png" width="150" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app2_2.png" width="150" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app2_3.png" width="150" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app2_4.png" width="150" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app2_5.png" width="165" />
+</p>
+
+### 4.3 Resultaten
+
+## 5 Design requirements
 |Nummer|Criteria|Bron|Datum|Toestand|
 |---|---|---|---|---|
 |0.1|Het ontwerp moet de structuur die in de klas word gebruikt ondersteunen|Interviews|12/11/2024|OK|
@@ -545,6 +605,8 @@ Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We heb
 - **Develop 1**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:27749957-422c-4fde-a683-435ee0bebc75)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:9ffba220-fb4e-417d-829d-598ba44d496a)
+- **Develop 2**
+  - [protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:5daf253b-b7fe-4d91-a227-10ec8d04dac7)
 ## 5 Bronnen
 [^1]: Cassano, M., Perry-Parrish, C., Stegall, S., Zeman, J. (April 2006). Emotion Regulation in Children and Adolescents. University of Maine.
 [^2]: Brackett, M., Simmons, D. (oktober 2015). Emotions Matter. Guilford Press.
