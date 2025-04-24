@@ -435,7 +435,7 @@ conclusie usability-test:
     - De interface van de leerkracht mag de leerlingen niet afleiden tijdens de les en mogen deze niet kapot kunnen maken
 
 Uit de korte MoSCoW review van de app bleek:
-- De functies 'weekoverzicht van de emoties vand e leerlingen' en 'overzicht per leerling' kunnen samengevoegd worden.
+- De functies 'weekoverzicht van de emoties van de leerlingen' en 'overzicht per leerling' kunnen samengevoegd worden.
 - De andere functies kunnen wel behouden blijven.
 
 ## 4 Develop 2 (N=5)
@@ -497,6 +497,42 @@ De tweede app is te zien in onderstaande afbeeldingen. De volledige app is te vi
 </p>
 
 ### 4.3 Resultaten
+#### 4.3.1 vergelijking
+**tijd**
+Uit de metingen van de tijd is te zien dat in de meeste gevallen de leerkrachten minder of evenveel tijd nodig heeft om een bepaalde taak uit te voeren met app 1 dan met app 2. Echter, zijn er ook gevallen waar dit niet zo is.
+
+<p align="center">
+  
+</p>
+
+**clicks**
+De leerkrachten gaven allemaal aan dat het hamburgermenu van app 2 overbodig was, aangezien het menu maar drie items bevatte. Dit zorgde voor onnodig veel stappen bij het navigeren doorheen da app. Dit was zeer duidelijk te zien wanneer het aantal clicks voor een taak van app 1 en app 2 vergeleken werden. Hierbij was duidelijk te zien dat in het overgrote meerderheid van de gevallen de hoeveelheid clicks bij app 1 lager ligt dan bij app2.
+
+<p align="center">
+  
+</p>
+
+**SUS**
+Gebruik makend van de _System Usability Scale (SUS)_ gaven de leerkrachten hun mening over 10 uitspraken omtrent de usability van de apps. Deze liepen over het algemeen redelijk gelijk. Toch was er een voorkeur te zien voor app 1. Dit gaven de leerkrachten tijdens de gebruikerstesten ook vaak aan. Voor een uitgebreid overzicht van de antwoorden op de SUS, zie [rapport develop 2](url).
+
+**Overzicht en esthetiek**
+Over het algemeen waren de leekrachten een grotere fan van app 1. Het grote overzicht op de startpagina vonden ze beter dan deze van app 2. Ze gaven aan dat deze overzichtelijker was en dat je in één oogopslag alle emoties van de leerlingen kon zien. Eén leerkracht gaf wel aan dat het overzicht per leerling ook een meerwaarde was. Ook de tijd bij deze overzichten kon handig van pas komen. Wat de leerkrachten het vaakste aanhaalde was dat het menu van app 1 beter was dan dat van app 2. Het hamburgermenu van app 2 zorgde voor onnodige stappen tijdens het navigeren doorheen da app. Dit maakte het minder handig in gebruik.
+
+Ook de esthetiek van da app is zeer belangrijk. De leerkrachten geven de voorkeur aan een frisse uitstraling met lichte en frisse kleuren (zoals in app 1). Wel geven de leerkrachten aan dat app 2 meer rust uitstraalt door het gebruik van zachte randen, afgeronde hoeken en het vermeiden van de zwarte kleur.
+
+#### 4.3.2 conclusies
+Uit zowel de commentaren van de leerkrachten als de SUS is duidelijk af te leiden dat de leerkrachten liever werken met app 1. Echter, uit de clicks en tijd per taak is niet altijd te herleiden dat app 1 ook effectief bij alle leerkrachten sneller werkt. Er zal dus een afweging gemaakt moeten worden tussen elementen uit app 1 en app 2. Over het algemeen navigeren de leerkrachten wel een beetje vlotter door app 1.
+Beide apps waren handig en de leerkrachten zouden deze ook frequent gebruiken. Er wordt dus bevestigd dat de app een effectieve meerwaarde biedt.
+Wat zeer duidelijk was uit de commentaar van de leerkrachten was dat ze app 1 vooral verkozen wordt boven app 2 omdat het gebruik van een hamburgermenu met weinig menuopties een beetje omslachtig is.
+Er moet ook gelet worden op het consistente gebruik van vormelementen, zachte randen en frisse kleuren. 
+
+**Implicaties voor het design:**
+- Menu onderaan het scherm om overbodige stappen te vermeiden. (zoals app1, Instagram,…)
+- Overzicht per leerling om een duidelijk overzicht te geven.
+- Frisse kleuren gebruiken om de app aantrekkelijk te maken.
+- Zachte randen en afgeronde hoeken gebruiken voor een rustgevender gevoel.
+- Minder zwart gebruiken in combinatie met lichte kleuren want dit kan chaotisch overkomen.
+- Duidelijk overzicht op startscherm om in één oogopslag een goed zicht te krijgen op de emoties van de leerlingen.
 
 ## 5 Design requirements
 |Nummer|Criteria|Bron|Datum|Toestand|
@@ -515,7 +551,7 @@ De tweede app is te zien in onderstaande afbeeldingen. De volledige app is te vi
 |1.1.8|Makkelijk verplaatsbaar|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes door ze compact en draadloos te houden.</details>|
 |1.1.9|Het product is geschikt voor verschillende soorten schoolbanken|Concepttesten wave 2|12/12/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in het prototype van wave 2. Deze werd zo gevormd dat hij voor verschillende banken geschikt is. Door het afneembaar klepje kan deze zowel in als op de bank gebruikt worden.</details>|
 |1.2 Learnability|
-|1.2.1De leerling kan de correcte emotie aan de symbolen koppelen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Dit werd getest tijdens wave 1 waarbij de leerlingen bevraagd werden over welke emoties de verschillende emoties de knoppen afbeeldde. Dit werd nogmaals gevalideerd in wave 2.</details>|
+|1.2.1|De leerling kan de correcte emotie aan de symbolen koppelen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Dit werd getest tijdens wave 1 waarbij de leerlingen bevraagd werden over welke emoties de verschillende emoties de knoppen afbeeldde. Dit werd nogmaals gevalideerd in wave 2.</details>|
 |1.2.2|De interface is toegankelijk voor leerlingen van het 1e tot en met het 3e leerjaar|Interview|14/11/2024|<details><summary>OK</summary><br>Dit werd getest tijdens wave 1 en wave 2 waarbij testen werden gedaan bij leerlingen van het 1e en het 3e leerjaar. Hierbij werd vastgesteld dat zowel de leerlingen van het 1e als die van het 3e leerjaar het concept en gebruik begrepen.</details>|
 |1.3 Gebruiksgemak|
 |1.3.1|De interface is makkelijk te bedienen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Door minimale handelingen met de interface werd in wave 1 en 2 vastgesteld dat de interface makkelijk te gebruiken is.</details>|
