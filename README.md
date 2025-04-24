@@ -606,7 +606,8 @@ Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We heb
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:27749957-422c-4fde-a683-435ee0bebc75)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:9ffba220-fb4e-417d-829d-598ba44d496a)
 - **Develop 2**
-  - [protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:5daf253b-b7fe-4d91-a227-10ec8d04dac7)
+  - [protocol](https://acrobat.adobe.com/id/urn:aaid:sc:eu:bcde5dee-3763-41f2-9f21-139e2496a5be)
+  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:19f5c2d1-b222-4ddf-8707-3148f139a3ad)
 ## 5 Bronnen
 [^1]: Cassano, M., Perry-Parrish, C., Stegall, S., Zeman, J. (April 2006). Emotion Regulation in Children and Adolescents. University of Maine.
 [^2]: Brackett, M., Simmons, D. (oktober 2015). Emotions Matter. Guilford Press.
