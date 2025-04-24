@@ -43,9 +43,14 @@ De tweede fase is de defenition fase. Hier is het de bedoeling om het concept ui
 **Develop 1**
 
 In het tweede semester werd gestart met de eerste develop fase. Hierbij is het de bedoeling om Feelie verder uit te werken, te verfijnen en de ergonomie te optimaliseren. Deze fase begon een reflectie van semester 1. Daarna werd *Nir Eyel's hook model* overlopen om na te gaan waar verbeteringen en verder onderzoek in het product nodig waren. Aan de hand van *e-prototypes* werd een *ESM* test bij de leerlingen uitgevoerd, een *performance measurment* *MoSCoW review* bij de leerkacht uitgevoerd.
+
+**Develop 2**
+Na de 'develop 1' fase bleek dat de app belankrijker is dan initieel gedacht. Daarom werd in de 'develop 2' fase de gebruiksvriendelijkheid van de app geoptimaliseerd. Aan de hand van verschillende ontwerprichtlijnen zoals *'law of common region'*, *'figure ground'*, *'Miller's law'* werden twee verschillende apps gemaakt. Deze werden beiden getest tijdens een *vergelijkende usability test* met 5 verschillende leerkrachten. Achteraf hebben de leerkrachten voor elke app een *system usability scale* ingevuld. Aan de hand van deze testen kon een finale versie van de app geprototyped worden.
+
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/tijdslijn.png" width="80%" />
 </p>
+
 
 ## 1 Discovery
 ### 1.1 Doestellingen
