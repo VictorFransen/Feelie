@@ -499,23 +499,32 @@ De tweede app is te zien in onderstaande afbeeldingen. De volledige app is te vi
 ### 4.3 Resultaten
 #### 4.3.1 vergelijking
 **tijd**
+
 Uit de metingen van de tijd is te zien dat in de meeste gevallen de leerkrachten minder of evenveel tijd nodig heeft om een bepaalde taak uit te voeren met app 1 dan met app 2. Echter, zijn er ook gevallen waar dit niet zo is.
 
 <p align="center">
-  
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Tijd%20per%20taak%201+2.png?raw=true" width="230" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Tijd%20per%20taak%203.png?raw=true" width="230" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Tijd%20per%20taak%204.png?raw=true" width="230" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Tijd%20per%20taak%205.png?raw=true" width="230" />
 </p>
 
 **clicks**
+
 De leerkrachten gaven allemaal aan dat het hamburgermenu van app 2 overbodig was, aangezien het menu maar drie items bevatte. Dit zorgde voor onnodig veel stappen bij het navigeren doorheen da app. Dit was zeer duidelijk te zien wanneer het aantal clicks voor een taak van app 1 en app 2 vergeleken werden. Hierbij was duidelijk te zien dat in het overgrote meerderheid van de gevallen de hoeveelheid clicks bij app 1 lager ligt dan bij app2.
 
 <p align="center">
-  
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/clicks%20per%20taak%201+2.png?raw=true" width="275" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/clicks%20per%20taak%203.png?raw=true" width="275" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/clicks%20per%20taak%205.png?raw=true" width="275" />
 </p>
 
 **SUS**
-Gebruik makend van de _System Usability Scale (SUS)_ gaven de leerkrachten hun mening over 10 uitspraken omtrent de usability van de apps. Deze liepen over het algemeen redelijk gelijk. Toch was er een voorkeur te zien voor app 1. Dit gaven de leerkrachten tijdens de gebruikerstesten ook vaak aan. Voor een uitgebreid overzicht van de antwoorden op de SUS, zie [rapport develop 2](url).
+
+Gebruik makend van de _System Usability Scale (SUS)_ gaven de leerkrachten hun mening over 10 uitspraken omtrent de usability van de apps. Deze liepen over het algemeen redelijk gelijk. Toch was er een voorkeur te zien voor app 1. Dit gaven de leerkrachten tijdens de gebruikerstesten ook vaak aan. Voor een uitgebreid overzicht van de antwoorden op de SUS, zie [rapport develop 2](https://acrobat.adobe.com/id/urn:aaid:sc:EU:19f5c2d1-b222-4ddf-8707-3148f139a3ad).
 
 **Overzicht en esthetiek**
+
 Over het algemeen waren de leekrachten een grotere fan van app 1. Het grote overzicht op de startpagina vonden ze beter dan deze van app 2. Ze gaven aan dat deze overzichtelijker was en dat je in één oogopslag alle emoties van de leerlingen kon zien. Eén leerkracht gaf wel aan dat het overzicht per leerling ook een meerwaarde was. Ook de tijd bij deze overzichten kon handig van pas komen. Wat de leerkrachten het vaakste aanhaalde was dat het menu van app 1 beter was dan dat van app 2. Het hamburgermenu van app 2 zorgde voor onnodige stappen tijdens het navigeren doorheen da app. Dit maakte het minder handig in gebruik.
 
 Ook de esthetiek van da app is zeer belangrijk. De leerkrachten geven de voorkeur aan een frisse uitstraling met lichte en frisse kleuren (zoals in app 1). Wel geven de leerkrachten aan dat app 2 meer rust uitstraalt door het gebruik van zachte randen, afgeronde hoeken en het vermeiden van de zwarte kleur.
