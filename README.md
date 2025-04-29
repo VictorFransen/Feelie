@@ -593,7 +593,8 @@ Er moet ook gelet worden op het consistente gebruik van vormelementen, zachte ra
 
 ### Semester 2:
 **Develop 1:**
--Interface leerlingen:
+
+- Interface leerlingen:
   - **Arduino NANO** -> data opslagen in EEPROM geheugen en aansturen van componenten
   - Drukknoppen -> emoties aanduiden
   - Jumper wires -> connecties tussen verschillende componenten
@@ -603,6 +604,8 @@ Er moet ook gelet worden op het consistente gebruik van vormelementen, zachte ra
   - LEDs -> Feedback naar leerling
   - Vibratiemotoren -> Feedback naar leerlingen
   - Gelasercut MDF -> Behuizing prototype
+
+
 
 - Interface leerkrachten:
   - Arduino NANO 33 IOT -> draadloze aanturing via bluetooth van componenten met GSM
