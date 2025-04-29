@@ -100,7 +100,7 @@ Het volledige rapport met de analyse en bronnen is te vinden in de bijlagen.
 #### 1.3.2 user interviews (N=3)
 Leerkrachten ervaren dat kinderen moeite hebben met het communiceren van hun emoties. Ze gebruiken verschillende methodes zoals een dagplanning die ze samen overlopen voor structuur en rust, visuele symbolen en emoties te verduidelijken en lassen rustige momenten in voor reflectie en communicatie. Op basis van deze interviews werd een persona voor de leerkrachten opgesteld die te zien is in de figuur hieronder.
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Persona%20leerkracht.png" width="70%" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/persona_leerkracht_update.png" width="70%" />
 </p>
 De volledige analyse en conclusies zijn te vinden in de bijlagen.
 
@@ -108,7 +108,7 @@ De volledige analyse en conclusies zijn te vinden in de bijlagen.
 De focusgroep werd gehouden men kinderen van 8-10 jaar, wat jammergenoeg niet de volledige doelgroep vertegenwoordigd. De kinderen herkenden de emoties vanop het spelbord goed en konden situaties beschijven waarin ze die ervaarden. Zelfregulatie bleek echter nog moeilijk zonder hulp van volwassenen. Hulpmiddelen zoals een emotiemeter werden soms gebruikt, maar niet frequent genoeg om effectief te zijn. Er is dus meer structuur nodig om de voordelen van deze methodes te verkrijgen. Anderstalige kinderen ondervinden extra uitdagingen door taalbarrières, wat frustraties veroorzaakt bij het uiten van emoties. Op basis van deze analyse werd een persona opgesteld voor leerlingen (zie onderstaande figuur).
 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/persona_leerling.png" width="70%" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/persona_leerling_update.png" width="70%" />
 </p>
 De volledige analyse van de focusgroep is te vinden in de bijlagen.
 
