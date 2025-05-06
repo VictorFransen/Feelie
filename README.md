@@ -543,6 +543,30 @@ Er moet ook gelet worden op het consistente gebruik van vormelementen, zachte ra
 - Minder zwart gebruiken in combinatie met lichte kleuren want dit kan chaotisch overkomen.
 - Duidelijk overzicht op startscherm om in één oogopslag een goed zicht te krijgen op de emoties van de leerlingen.
 
+## Develop 3
+### Vooronderzoek en doelstelling
+In deze laatste develop fase, develop 3, wordt de user experience (UX) op punt gesteld. De afgelope twee develop fasen is er gefocust op de app en het regelmatig gebruik van de interface. Deze fase zal er gefocust worden op de emoties die de leerlingen voelen voor tijdens en na het gebruik. Volgende onderzoeksvraag is de overkoepelende vraag voor deze develop fase: “Hoe kan de user experience verbeterd worden?”
+Deze vraag is zeer breed en kan opgedeeld worden in specifiekere onderzoeksvragen voor dit project:
+
+-	Welke micro interacties kunnen toegevoegd worden om de UX te verbeteren?
+-	Verbeterd Feelie de les- of schoolervaring van de leerling/leerkracht?
+-	Welke emoties lokt het gebruik van Feelie uit bij de leerlingen en leerkrachten?
+-	Voelen de leerlingen zich opgelucht na het aanduiden van een emotie?
+
+Ook zal er bevraagd worden naar het uiteindelijke ontwerp van Feelie. Hierbij worden verschillende visuele aspecten van de interfaces in vraag gesteld. Er zal gepeild worden naar:
+
+-	Vorm
+-	Kleur
+-	Compositie
+-	Materiaal
+-	Afwerking
+-	Textuur
+
+## Materiaal en Methode
+Aan de hand van een 'fly-on-the-wall' observatie zal een nulmeting gedaan worden. Daarna zullen bepaalde leerlingen een interface krijgen, waarbij elke interface een andere vorm van microinteraction heeft. Achteraf zal elke leerling een aantal vragen beantwoorden als ook een 'self assessment manikin' invullen om na te gaan hoe de leerlingen het gebruik van Feelie ervaarden en welke emoties dit meebracht.
+
+Ook zal aan de hand van een korte bevraging de finale look van Feelie op punt gesteld worden. De participanten kiezen één van de 4 ontwerpen en mogen deze inkleuren. Aan de hand van een korte bevraging zal ook hier nagegegaan worden wat de negatieve en positieve punten van het ontwerp zijn. Achteraf zal er ook een bord met verschillende materialen voorgelegd worden om ook hier een keuze in te kunnen maken voor het finale ontwerp.
+
 ## 5 Design requirements
 |Nummer|Criteria|Bron|Datum|Toestand|
 |---|---|---|---|---|
@@ -596,14 +620,17 @@ Er moet ook gelet worden op het consistente gebruik van vormelementen, zachte ra
 
 - Interface leerlingen:
   - **Arduino NANO** -> data opslagen in EEPROM geheugen en aansturen van componenten
-  - Drukknoppen -> emoties aanduiden
+  - [Drukknoppen](https://www.amazon.com.be/-/en/gp/product/B09MBQSM44/ref=ox_sc_rp_title_rp_1?smid=&pf_rd_p=b55bbefb-5c9d-4b5d-a5fe-64db492837ac&pd_rd_wg=o51W5&pd_rd_i=B09MBQSM44&pd_rd_w=NQzDL&content-id=amzn1.sym.b55bbefb-5c9d-4b5d-a5fe-64db492837ac&pd_rd_r=DSDC5RVTKADAYFY6SFTN&th=1) -> emoties aanduiden
   - Jumper wires -> connecties tussen verschillende componenten
   - Breadboards -> Connectie + opstelling van componenten
   - weerstanden
   - powerbank -> draadloze stroomvoorziening van prototypes
-  - LEDs -> Feedback naar leerling
+  - LEDs -> Feedback naar leerling (RGB, wit, groen)
   - Vibratiemotoren -> Feedback naar leerlingen
   - Gelasercut MDF -> Behuizing prototype
+  - Verf -> kleur geven aan prototype en knoppen
+  - Battery pack -> draadloos poweren van prototype
+  - Ultrasone sensor -> afstand meten voor activeren microinteraction
 
 
 
@@ -661,6 +688,9 @@ Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We heb
 - **Develop 2**
   - [protocol](https://acrobat.adobe.com/id/urn:aaid:sc:eu:bcde5dee-3763-41f2-9f21-139e2496a5be)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:19f5c2d1-b222-4ddf-8707-3148f139a3ad)
+- **Develop 3**
+  - [Protocol](url)
+  - [Rapport](url)
 ## 5 Bronnen
 [^1]: Cassano, M., Perry-Parrish, C., Stegall, S., Zeman, J. (April 2006). Emotion Regulation in Children and Adolescents. University of Maine.
 [^2]: Brackett, M., Simmons, D. (oktober 2015). Emotions Matter. Guilford Press.
