@@ -567,10 +567,48 @@ Ook zal er bevraagd worden naar het uiteindelijke ontwerp van Feelie. Hierbij wo
 -	Afwerking
 -	Textuur
 
-## Materiaal en Methode
+### Materiaal en Methode
 Aan de hand van een 'fly-on-the-wall' observatie zal een nulmeting gedaan worden. Daarna zullen bepaalde leerlingen een interface krijgen, waarbij elke interface een andere vorm van microinteraction heeft. Achteraf zal elke leerling een aantal vragen beantwoorden als ook een 'self assessment manikin' invullen om na te gaan hoe de leerlingen het gebruik van Feelie ervaarden en welke emoties dit meebracht.
 
 Ook zal aan de hand van een korte bevraging de finale look van Feelie op punt gesteld worden. De participanten kiezen één van de 4 ontwerpen en mogen deze inkleuren. Aan de hand van een korte bevraging zal ook hier nagegegaan worden wat de negatieve en positieve punten van het ontwerp zijn. Achteraf zal er ook een bord met verschillende materialen voorgelegd worden om ook hier een keuze in te kunnen maken voor het finale ontwerp.
+
+### Prototypes
+
+Aan de hand van volgende vier prototypes zullen verschillende microinteractions getest worden.
+
+- **Geen microinteractions**
+Tijdens deze gebruikerstesten wordt ook een soort nulmeting gedaan. Hierbij gaan we kijken of er effectief een verschil zit tussen het gebruik met en zonder microinteractions. Hiervoor hebben we ook een prototype voorizien zonder microinteractions. Dit prototype is vergelijkbaar met het prototype met lampjes van develop 1.
+
+<p align="center">
+  <img src="" width="500" />
+  <img src="" width="500" />
+</p>
+
+
+- **RGB LED**
+  Dit prototype is vergelijkbaar met het eerste prototype. Hier branden de LEDs de kleur van de emotie dei ze hebben ingedrukt.
+
+<p align="center">
+  <img src="" width="500" />
+  <img src="" width="500" />
+</p>
+
+
+- **'ademende' LEDs**
+Deze microinteraction bestaat uit LEDs aan de voorkant van het prototype. De LEDs gaan aan en uit aan een kalm ritme die ademen moet imiteren. Hiermee willen we laten weten aan de gebruiker dat het prototype _'(a)live'_ is en dat ze deze dus kunnen gebruiken. Hiermee wordt geprobeerd interactie te stimuleren en de user experience te vebeteren.
+
+<p align="center">
+  <img src="" width="500" />
+  <img src="" width="500" />
+</p>
+
+- **Afstand gestuurde LEDs**
+Dit prototype is vergelijkbaar met het prototype met de ademende leds. Bij dit prototype zullen ook led aan de voorkant van het protoype zijn. Deze zullen aangaan wanneer de leerling in de buurt van het prototype komt met zijn/haar hand. Ook hiermee willen wordt aangegeven dat de leerling een emotie kan aanduiden en wordt geprobeerd gebruik te stimuleren en UX te verbeteren.
+
+<p align="center">
+  <img src="" width="500" />
+  <img src="" width="500" />
+</p>
 
 ## 5 Design requirements
 |Nummer|Criteria|Bron|Datum|Toestand|
