@@ -336,7 +336,7 @@ De prototypes zijn gemaakt met gelasercutte MDF en er wordt gebruik gemaakt van 
 **Prototype lampjes:**
 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schakeling_LED.png?raw=true" width="500" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/schakeling%20gif.gif?raw=true" width="500" />
 </p>
 
 De code evoor dit prototype: [code lampjes](https://github.com/VictorFransen/Feelie/tree/main/Code/Prototype_leerlingen_develop1_nano)
@@ -344,7 +344,7 @@ De code evoor dit prototype: [code lampjes](https://github.com/VictorFransen/Fee
 **Prototype trilmotoren:**
 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schakeling_trilmotoren.png?raw=true" width="500" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/tril%20GIF.gif?raw=true" width="500" />
 </p>
 
 De code evoor dit prototype: [code trilmotoren](https://github.com/VictorFransen/Feelie/tree/main/Code/Prototype_leerlingen_develop1_tril)
@@ -397,7 +397,12 @@ Uit de data verkregen uit de prototypes kunnen enkele zaken geconcludeerd worden
 </p>
 
 - **Trilmotoren**
-  nog geen data
+
+  De data verkregen uit het prototype met trilmotoren is sterk vergelijkbaar met de data van de lampjes. Hiier kan ook vastgesteld worden dat er vaak één keer wordt gedrukt op een knopje binnen één minuut. Uit de opgehaalde data is ook te zien dat het drukken mooi verspreid is over de hele dag. Het prototype werd dus met regelmaat gebruikt doorheen de dag. in onderstaande figuur is dit duidelijk te zien.
+
+  <p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/grafiek%20tril.png?raw=true" width="500" />
+</p>
 
 - **Geen feedback**
 
@@ -412,10 +417,10 @@ Uit de data verkregen uit de prototypes kunnen enkele zaken geconcludeerd worden
 Als we de resultaten van de drie prototypes naast elkaar leggen, kan geconcludeerd worden dat het prototype met de lampjes de beste feedback geeft. Dit wordt getoond op onderstaande figuur, waarbij het duidelijk is dat er minder vaak direct na elkaar gedrukt wordt op een knop. Dit geeft aan dat het gebruik deze visuele feedback een betere besvestiging geeft aan de leerlingen.
 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/grafiek%20vgln.png?raw=true" width="500" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/vergelijking.png?raw=true" width="500" />
 </p>
 
-Ook kan er gesteld worden dat het prototype met de lampjes het beste regelmatig gebruik stimmuleerd. Dit omdat het gebruik meer gespreid over de dagen.
+Ook kan er gesteld worden dat het prototype met de lampjes het beste regelmatig gebruik stimmuleerd. Dit omdat het gebruik meer gespreid over de dagen. Ondanks dat het prototype met de trilmotoren vergelijkbare resultaten vertoont, maken trilmotoren geluid tijdens het gebruik. Dit is niet handig in de situatie van Feelie.
 
 ##### 3.3.1.2 Keuze
 
