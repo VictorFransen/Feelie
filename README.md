@@ -53,7 +53,7 @@ Na de 'develop 1' fase bleek dat de app belankrijker is dan initieel gedacht. Da
 
 **Develop 3**
 
-In de develop 3 fase werd de *user experience* van Feelie geoptimaliseerd met een focus op de bakjes van de leerlingen. Deze laatste testen werden uigevoerd aan de hand van een *fly on the wall observatie*. Eerst werd een nulobservatie (ongeveer een uur) gedaan in de klas om te valideren of Feelie daadwerkelijk meerwaarde biedt. Vervolgens kregen 4 leerlingen een bakje, waarvan één zonder micro-interactie en de overige drie met verschillende micro-interacties. Op deze manier kon goed goed vastgesteld worden welk effect de micro-interacties hadden. De bakjes van de leerlingen zijn verbonden met de interface van de leerkracht. 
+In de develop 3 fase werd de *user experience* van Feelie op punt gesteld met een focus op de bakjes van de leerlingen. Deze laatste testen werden uigevoerd aan de hand van een *fly on the wall observatie*. Eerst werd een nulobservatie (ongeveer een uur) gedaan in de klas om te valideren of Feelie daadwerkelijk meerwaarde biedt. Vervolgens kregen 4 leerlingen een bakje, waarvan één zonder micro-interactie en de overige drie met verschillende micro-interacties. Op deze manier kon goed goed vastgesteld worden welk effect de micro-interacties hadden. De bakjes van de leerlingen zijn verbonden met de interface van de leerkracht. 
 Na afloop werd zowel bij de leerlingen als leerkrachten een bevraging gedaan. De leerlingen vulden daarnaast Self Assessment Manikins in voor de verschillende micro-interacties. De leerkrachten werden bevraagd en vulden aan een BERT-test in. Tot slot werd bij beide groepen ook feedback verzameld over de vorm, het materiaal en de kleurkeuze van de bakjes.
 
 
