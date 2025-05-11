@@ -31,7 +31,9 @@ In dit ontwerp staat de gebruikers, waarbij de belangrijkste de leerkracht en le
 
 ## Methodologie
 In de figuur hieronder is een tijdslijn te zien van de stappen en methodologiën die doorlopen zijn. 
-
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/tijdslijn.png" width="100%" />
+</p>
 
 **Discovery**
 
