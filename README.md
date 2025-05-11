@@ -48,9 +48,13 @@ De tweede fase is de defenition fase. Hier is het de bedoeling om het concept ui
 In het tweede semester werd gestart met de eerste develop fase. Hierbij is het de bedoeling om Feelie verder uit te werken, te verfijnen en de ergonomie te optimaliseren. Deze fase begon een reflectie van semester 1. Daarna werd *Nir Eyel's hook model* overlopen om na te gaan waar verbeteringen en verder onderzoek in het product nodig waren. Aan de hand van *e-prototypes* werd een *ESM* test bij de leerlingen uitgevoerd, een *performance measurment* *MoSCoW review* bij de leerkacht uitgevoerd.
 
 **Develop 2**
+
 Na de 'develop 1' fase bleek dat de app belankrijker is dan initieel gedacht. Daarom werd in de 'develop 2' fase de gebruiksvriendelijkheid van de app geoptimaliseerd. Aan de hand van verschillende ontwerprichtlijnen zoals *'law of common region'*, *'figure ground'*, *'Miller's law'* werden twee verschillende apps gemaakt. Deze werden beiden getest tijdens een *vergelijkende usability test* met 5 verschillende leerkrachten. Achteraf hebben de leerkrachten voor elke app een *system usability scale* ingevuld. Aan de hand van deze testen kon een finale versie van de app geprototyped worden.
 
+**Develop 3**
 
+In de develop 3 fase werd de *user experience* van Feelie geoptimaliseerd met een focus op de bakjes van de leerlingen. Deze laatste testen werden uigevoerd aan de hand van een *fly on the wall observatie*. Eerst werd een nulobservatie (ongeveer een uur) gedaan in de klas om te valideren of Feelie daadwerkelijk meerwaarde biedt. Vervolgens kregen 4 leerlingen een bakje, waarvan één zonder micro-interactie en de overige drie met verschillende micro-interacties. Op deze manier kon goed goed vastgesteld worden welk effect de micro-interacties hadden. De bakjes van de leerlingen zijn verbonden met de interface van de leerkracht. 
+Na afloop werd zowel bij de leerlingen als leerkrachten een bevraging gedaan. De leerlingen vulden daarnaast Self Assessment Manikins in voor de verschillende micro-interacties. De leerkrachten werden bevraagd en vulden aan een BERT-test in. Tot slot werd bij beide groepen ook feedback verzameld over de vorm, het materiaal en de kleurkeuze van de bakjes.
 
 
 ## 1 Discovery
@@ -615,7 +619,7 @@ Dit prototype is vergelijkbaar met het prototype met de ademende leds. Bij dit p
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Develop%202-afstand.jpeg?raw=true" width="500" />
 </p>
 
-## 5 Design requirements
+## 5 Conclusie
 |Nummer|Criteria|Bron|Datum|Toestand|
 |---|---|---|---|---|
 |0.1|Het ontwerp moet de structuur die in de klas word gebruikt ondersteunen|Interviews|12/11/2024|OK|
@@ -656,7 +660,7 @@ Dit prototype is vergelijkbaar met het prototype met de ademende leds. Bij dit p
 |3.2.2|Er is een overzicht per leerling|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een overzicht per leerling toe te voegen aan de app.</details>|
 |3.2.3|Er is een weekoverzicht beschikbaar|Interview|14/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een weekoverzicht toe te voegen aan de app.</details>|
 |3.2.4|De leerkrachten kunnen de gegevens tot op een jaar terugkijken|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door de mogelijkheid te geven om gegevens van het jaar op te vragen in de app.</details>|
-## 5 Bill of materials
+## 5 Technische beschrijving
 ### Gebruikt semester 1:
 - karton
 - papier
