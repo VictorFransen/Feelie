@@ -31,6 +31,9 @@ In dit ontwerp staat de gebruikers, waarbij de belangrijkste de leerkracht en le
 
 ## Methodologie
 In de figuur hieronder is een tijdslijn te zien van de stappen en methodologiën die doorlopen zijn. 
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/tijdslijn.png" width="100%" />
+</p>
 
 **Discovery**
 
@@ -47,9 +50,7 @@ In het tweede semester werd gestart met de eerste develop fase. Hierbij is het d
 **Develop 2**
 Na de 'develop 1' fase bleek dat de app belankrijker is dan initieel gedacht. Daarom werd in de 'develop 2' fase de gebruiksvriendelijkheid van de app geoptimaliseerd. Aan de hand van verschillende ontwerprichtlijnen zoals *'law of common region'*, *'figure ground'*, *'Miller's law'* werden twee verschillende apps gemaakt. Deze werden beiden getest tijdens een *vergelijkende usability test* met 5 verschillende leerkrachten. Achteraf hebben de leerkrachten voor elke app een *system usability scale* ingevuld. Aan de hand van deze testen kon een finale versie van de app geprototyped worden.
 
-<p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/tijdslijn.png" width="80%" />
-</p>
+
 
 
 ## 1 Discovery
