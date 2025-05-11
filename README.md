@@ -553,9 +553,9 @@ Er moet ook gelet worden op het consistente gebruik van vormelementen, zachte ra
 - Minder zwart gebruiken in combinatie met lichte kleuren want dit kan chaotisch overkomen.
 - Duidelijk overzicht op startscherm om in één oogopslag een goed zicht te krijgen op de emoties van de leerlingen.
 
-## Develop 3
-### Vooronderzoek en doelstelling
-In deze laatste develop fase, develop 3, wordt de user experience (UX) op punt gesteld. De afgelope twee develop fasen is er gefocust op de app en het regelmatig gebruik van de interface. Deze fase zal er gefocust worden op de emoties die de leerlingen voelen voor tijdens en na het gebruik. Volgende onderzoeksvraag is de overkoepelende vraag voor deze develop fase: “Hoe kan de user experience verbeterd worden?”
+## 5 Develop 3
+### 5.1 Vooronderzoek en doelstelling
+In deze laatste develop fase, develop 3, wordt de user experience (UX) op punt gesteld. De afgelopen twee develop fasen is er gefocust op de app en het regelmatig gebruik van de interface. Deze fase zal er gefocust worden op de emoties die de leerlingen en leerkrachten voelen voor tijdens en na het gebruik. Volgende onderzoeksvraag is de overkoepelende vraag voor deze develop fase: “Hoe kan de user experience verbeterd worden?”
 Deze vraag is zeer breed en kan opgedeeld worden in specifiekere onderzoeksvragen voor dit project:
 
 -	Welke micro interacties kunnen toegevoegd worden om de UX te verbeteren?
@@ -572,12 +572,12 @@ Ook zal er bevraagd worden naar het uiteindelijke ontwerp van Feelie. Hierbij wo
 -	Afwerking
 -	Textuur
 
-### Materiaal en Methode
-Aan de hand van een 'fly-on-the-wall' observatie zal een nulmeting gedaan worden. Daarna zullen bepaalde leerlingen een interface krijgen, waarbij elke interface een andere vorm van microinteraction heeft. Achteraf zal elke leerling een aantal vragen beantwoorden als ook een 'self assessment manikin' invullen om na te gaan hoe de leerlingen het gebruik van Feelie ervaarden en welke emoties dit meebracht.
+### 5.2 Materiaal en Methode
+Aan de hand van een 'fly-on-the-wall' observatie zal een nulmeting gedaan worden. Daarna zullen bepaalde leerlingen een interface krijgen, waarbij elke interface een andere vorm van microinteraction heeft. Achteraf zal elke leerling een aantal vragen beantwoorden als ook een 'self assessment manikin' invullen om na te gaan hoe de leerlingen het gebruik van Feelie ervaarden en welke emoties dit meebracht. De interfaces van de leerlingen zijn verbonden met die van de leerkracht. Ook zij worden acteraf bevraagd en vullen een BERT test invullen.
 
-Ook zal aan de hand van een korte bevraging de finale look van Feelie op punt gesteld worden. De participanten kiezen één van de 4 ontwerpen en mogen deze inkleuren. Aan de hand van een korte bevraging zal ook hier nagegegaan worden wat de negatieve en positieve punten van het ontwerp zijn. Achteraf zal er ook een bord met verschillende materialen voorgelegd worden om ook hier een keuze in te kunnen maken voor het finale ontwerp.
+Ook zal aan de hand van een korte bevraging bij leerlingen en leerkracht de finale look van Feelie op punt gesteld worden. De participanten kiezen één van de 4 ontwerpen en mogen deze inkleuren. Aan de hand van een korte bevraging zal ook hier nagegegaan worden wat de negatieve en positieve punten van het ontwerp zijn. Achteraf zal er ook een bord met verschillende materialen voorgelegd worden om ook hier een keuze in te kunnen maken voor het finale ontwerp.
 
-### Prototypes
+## Prototypes
 
 Aan de hand van volgende vier prototypes zullen verschillende microinteractions getest worden.
 
@@ -619,6 +619,14 @@ Dit prototype is vergelijkbaar met het prototype met de ademende leds. Bij dit p
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Develop%202-afstand.jpeg?raw=true" width="500" />
 </p>
 
+De interface van de leerkracht waar de emoties naar worden doorgestuurd is hieronder te zien. In de witte vakjes komen de emoties van de leerlingen die bij deze testen een bakje hebben.
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/interface_leerkracht.png" width="550" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/interfaceleerkracht.jpg" width="450" />
+</p>
+
+### 5.3 Resultaten
+### 5.4 Conclusies en implicaties
 ## 5 Conclusie
 |Nummer|Criteria|Bron|Datum|Toestand|
 |---|---|---|---|---|
