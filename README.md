@@ -626,6 +626,63 @@ De interface van de leerkracht waar de emoties naar worden doorgestuurd is hiero
 </p>
 
 ### 5.3 Resultaten
+
+**interface leerlingen**
+De leerkrachten merkten geen significante veranderingen bij de leerlingen door het gebruik van Feelie. Enerzijds is dit positief, omdat het aangeeft dat Feelie niet afleidt tijdens de les. Anderzijds is het wel de bedoeling dat leerlingen hun emoties beter leren benoemen en sneller hulp vragen, een effect dat hopelijk op langere termijn zichtbaar wordt.
+De leerlingen waren aanvankelijk nieuwsgierig en wat afgeleid door de bakjes, maar de nieuwigheid verdween snel, waarna ze hun focus weer herwonnen. Zowel kinderen uit het eerste als derde leerjaar konden goed met de bakjes omgaan, inclusief minder taalvaardige leerlingen (een belangrijk deel van de doelgroep).
+De leerlingen dachten goed na over hun emoties voordat ze een knop indrukten, wat een positief teken is en in lijn ligt met het doel van het ontwerp. 
+Tijdens de nabespreking gaven leerlingen aan Feelie leuk en nuttig te vinden. Eén leerling meldde zich opgelucht te voelen na het drukken op de knop ‘verdrietig’. Over het algemeen bevestigde de observatie dat Feelie helpt bij het reflecteren over emoties zonder al te veel afleiding te veroorzaken.
+
+**microinteractions**
+- Bij het bakje **zonder microinteraction** gaven de leerlingen aan dat ze niet goed wisten of de knopjes wel werkten. Op de SAM test die hieronder te zien is scoorde dit ontwerp echter redelijk goed.
+  <p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/SAM_geeninteractie.png" width="700" />
+</p>
+
+- De leerlingen die van het bakje met de **ademende LEDs** gebruik maakten gaven aan dat ze het leuk vonden dat er lichtjes branden.  De SAM toonde echter aan dat de leerlingen zich minder zelfdstandig voelden zijdens het gebruik. 
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/SAM_ademendeleds.png" width="700" />
+</p>
+  Deze lichtjes zijn constant aan het branden wat negatief is voor de batterijduur.
+
+- Uit de observatie van het bakje met **lichtjes die branden wanneer er iets dichtbij kwam**, werd duidelijk dat dit zeker een meerwaarde had. Het trok op bepaalde momenten de aandacht van de leerling, wat ervoor kan zorgen dat ze niet vergeten om af en toe hun emotie aan te geven.
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/SAM_afstand.png" width="700" />
+</p>
+
+- De microinteraction met **kleurverandering aan de hand van de emotie** vonden de leerlingen het best. Tijdens de observatie was duidelijk dat de leerlingen goed met het bakje overweg konden. Dit verteelde zich ook in de SAM test (zie figuur).
+  <p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/SAM_kleurvanemotie.png" width="700" />
+</p>
+
+**interface leerkracht**
+
+Beide leerkrachten gaven aan dat het gebruik van deze interface voor hun niet belastend is omdat ze voornamelijk op de rutige momenten ernaar keken. Ze zouden dan ook op een rustig moment in gesprek gaan met een leerling indien dat nodig is. Er werd aangegeven dat de leerkrachten eigenlijk enkel naar de 'niet blije' emoties kijken op het scherm.
+
+De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk dat de leerkrachten zich over het algemeen positief voelen tijdens het gebruik van Feelie. Ze vinden het ontwerp leesbaar, modern en niet saai. Ze voelden zich daarnaast ook vrolijk en onafhankelijk tijdens het gebruikt. De categorie Best in class/ ordinary scoorde iets minder omdat ze nog niet echt iets hadden om mee te vergelijken. Ook bij de categorie dependent/ independent werd een minder positieve stem gegeven. Achteraf bleek dat dit kwam omdat de leerkracht ook graag de app erbij heeft (deze werd niet geïmplementeerd tijdens deze test).
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/BERT.png" width="700" />
+</p>
+
+**materiaal, vorm en kleurkeuze**
+- Kleur
+  De leerkracht gaf aan dat het in een klasomgeving belangrijk is om een neutrale kleur te gebruiken. Bij de leerlingen daarentegen wouden 7/10 paars als kleur. De rest stemde voor blauw of groen. Aangezien        paars eerder gerelateerd wordt met kracht, mysterie zal deze kleur echter niet gebruikt worden. Dit zijn namelijk niet de waarden die met Feelie uitgestraald moeten worden.
+  De waarden die Feelie dient mee te geven komen eerder overeen met de kleur blauw namelijk betrouwbaar, vrede en stabiliteit of de kleur bruin dat staat voor warmte, comfort en betrouwbaarheid.[^4]
+
+- Vorm
+  De leerlingen waren over het algemeen tevreden met het huidige ontwerp van Feelie. De meningen over het ontwerp waren redelijk verdeeld (figuur links). De leerkracht vond de tekst "Hoe voel je je" een leuke      toevoeging, maar stelde voor om het bakje compacter te maken zodat het beter in de bank past.
+  Om de kosten laag te houden, wordt gekozen voor een eenvoudige vorm, zoals het ontwerp rechtsboven in de figuur links, maar met afgeronde hoeken, aangezien dit vaker voorkwam in het moodboard (figuur rechts).
+  <p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/vorm_resultaten.png" width="400" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/moodboard_product.png" width="500" />
+</p>
+
+- Materiaal
+  De leerlingen kozen allemaal voor het natuurhout omdat het zacht en niet koud aanvoelde. De leerkracht gaf echter aan dat eht belangrijk is dat het bakje makkelijk gekuist kan worden en dat de leerlingen er     niet op kunnen schrijven. 
+  In het finale ontwerp zal dus gekozen worden voor een eerder zachte kunsstof, zo blijft de prijs laag en kan het makkelijk gereinigd worden.
+
+Wil je dat ik nog iets aanpas of toevoeg?
+
 ### 5.4 Conclusies en implicaties
 ## 5 Conclusie
 |Nummer|Criteria|Bron|Datum|Toestand|
@@ -755,3 +812,4 @@ Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We heb
 [^1]: Cassano, M., Perry-Parrish, C., Stegall, S., Zeman, J. (April 2006). Emotion Regulation in Children and Adolescents. University of Maine.
 [^2]: Brackett, M., Simmons, D. (oktober 2015). Emotions Matter. Guilford Press.
 [^3]: Kwon, K., Hanrahan, A. R., and Kupzyk, K. A. (2017). Emotional expressivity and emotion regulation: Relation to academic functioning among elementary school children. School Psychol.
+[^4]: Katatikarn, J. (15/02/2024). What is Color Symbolism? The Meaning of Color. [08/02/2025, https://academyofanimatedart.com/color-symbolism/].
