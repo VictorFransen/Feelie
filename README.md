@@ -597,7 +597,7 @@ Tijdens deze gebruikerstesten wordt ook een soort nulmeting gedaan. Hierbij gaan
 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/GIF%20RGB.gif?raw=true" width="500" />
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Develop%202-RGB-Niks.jpeg?raw=true" width="500" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/P1030077.JPG?raw=true" width="500" />
 </p>
 
 
@@ -607,7 +607,7 @@ Deze microinteraction bestaat uit LEDs aan de voorkant van het prototype. De LED
 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/GIF%20ademende%20LED.gif?raw=true" width="500" />
-  <img src="" width="500" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/P1030079.JPG?raw=true" width="500" />
 </p>
 
 - **Afstand gestuurde LEDs**
