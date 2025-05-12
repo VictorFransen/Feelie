@@ -657,7 +657,7 @@ Tijdens de nabespreking gaven leerlingen aan Feelie leuk en nuttig te vinden. E�
 
 **interface leerkracht**
 
-Beide leerkrachten gaven aan dat het gebruik van deze interface voor hun niet belastend is omdat ze voornamelijk op de rutige momenten ernaar keken. Ze zouden dan ook op een rustig moment in gesprek gaan met een leerling indien dat nodig is. Er werd aangegeven dat de leerkrachten eigenlijk enkel naar de 'niet blije' emoties kijken op het scherm.
+Beide leerkrachten gaven aan dat het gebruik van deze interface voor hun niet belastend is omdat ze voornamelijk op de rutige momenten ernaar keken. Ze zouden dan ook op een rustig moment in gesprek gaan met een leerling indien dat nodig is. Er werd aangegeven dat de leerkrachten eigenlijk enkel naar de 'niet blije' emoties kijken op het scherm. Tijdens de observatie viel op dat de leerlingen vaak naar de interface van de leerkracht kijken en kunnen lezen wie welke emotie heeft. Maar dit is eigenlijk niet de bedoeling.
 
 De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk dat de leerkrachten zich over het algemeen positief voelen tijdens het gebruik van Feelie. Ze vinden het ontwerp leesbaar, modern en niet saai. Ze voelden zich daarnaast ook vrolijk en onafhankelijk tijdens het gebruikt. De categorie Best in class/ ordinary scoorde iets minder omdat ze nog niet echt iets hadden om mee te vergelijken. Ook bij de categorie dependent/ independent werd een minder positieve stem gegeven. Achteraf bleek dat dit kwam omdat de leerkracht ook graag de app erbij heeft (deze werd niet geïmplementeerd tijdens deze test).
 <p align="center">
@@ -684,6 +684,11 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
 Wil je dat ik nog iets aanpas of toevoeg?
 
 ### 5.4 Conclusies en implicaties
+- In het finale ontwerp zullen er zowel lichtjes in de kleur van de emotie die aangaan wanneer er geklikt wordt verwerkt worden langs de binnenkant als lichtjes die aangaan wanneer ze dichtbij komen om het gebruik te stimuleren en het bakje ‘levendiger’ te laten lijken.
+- Door eerder aangegeven redenen zal het uiteindelijke resultaat uit kunststof bestaan.
+- Het kleurgebruik zal voornamelijk bestaan uit bruin en beige met blauwe accenten.
+- Er zal een simpele vorm aangehouden worden met afgeronde hoeken. Het bakje zal kleiner zijn zodat het makkelijk in de bank past.
+- Het bakje van de leerkracht zal enkel de ‘niet blije’ emoties tonen zonder namen.
 ## 5 Conclusie
 |Nummer|Criteria|Bron|Datum|Toestand|
 |---|---|---|---|---|
