@@ -698,10 +698,10 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
 |1.1.1|Leerlingen leren actief nadenken over welke emoties ze ervaren|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes (zowel wave 1 als wave 2) door de leerlingen zelf hun emoties te laten aanduiden. Tijdens develop 3 werd deze DR bevestigd.</details>|
 |1.1.2|Het ontwerp moet regelmatig gebruik stimuleren|Literatuuronderzoek, concepttesten wave 1|14/11/2024|<details><summary>OK</summary><br>Getest in develop 1 en 3 door feedback en microinteractions toe te voegen aan de interface.</details>|
 |1.1.3|De interface leidt niet af van de les|Interview|14/11/2024|<details><summary>OK</summary><br>Getest en bevestigd in develop 3 door de fly on the wall observatie.</details>|
-|1.1.4|De interface is compact|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in de prototypes van wave 1 en wave 2 door de prototypes klein te houden. Het finale resultaat zal nog kleiner zijn dan </details>|
-|1.1.5|Robuust genoeg|Concepttesten wave 1|28/11/2024|NIET OK|
+|1.1.4|De interface is compact|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in de prototypes van wave 1 en wave 2 door de prototypes klein te houden. Het finale resultaat zal nog kleiner zijn dan de prototypes omdat de elektronica campacter gemaakt kan worden.</details>|
+|1.1.5|Robuust genoeg|Concepttesten wave 1|28/11/2024|<details><summary>In progress</summary><br>Tijdens het testen in de develop 3 fase is een bakje gevallen en was deze niet kapot. Bij het einresultaat is het belangrijk dat het materiaal niet te bros is en dat alles goed vast zit.</details>|
 |1.1.6|De leerlingen kunnen discreet hun emotie aanduiden|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in prototypes 1 en 2 van wave 1 en het prototype van wave 2 door een klepje toe te voegen. Hierdoor kunnen anderen moeilijker meekijken met wat de leerling aanduid.</details>|
-|1.1.7|Het product maakt geen storend geluid|Concepttesten wave 1|28/11/2024|NIET OK|
+|1.1.7|Het product maakt geen storend geluid|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>De prototypes uit develop 3 maakten geen geluid wanneer een emotie werd aangeklinkt. Ook dem feedback en microinteractions maken geen gebruik van geluid.</details>|
 |1.1.8|Makkelijk verplaatsbaar|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes door ze compact en draadloos te houden.</details>|
 |1.1.9|Het product is geschikt voor verschillende soorten schoolbanken|Concepttesten wave 2|12/12/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in het prototype van wave 2. Deze werd zo gevormd dat hij voor verschillende banken geschikt is. Door het afneembaar klepje kan deze zowel in als op de bank gebruikt worden.</details>|
 |1.2 Learnability|
@@ -712,21 +712,21 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
 |1.3.2|Er word geen taal gebruikt om emoties te communiceren|Interview|14/11/2024|<details><summary>OK</summary><br>In alle prototypes worden enkel iconen gebruikt om emoties af te beelden. Er wordt geen taal gebruikt.</details>|
 |**2 Leerkrachten fysieke interface**|
 |2.1 Algemeen|
-|2.1.1|Het is van de eerste keer duidelijk hoe het product werkt|Concepttesten wave 1|30/11/2024|NIET OK|
-|2.1.2|De interface nodigt uit om het frequent te blijven gebruiken|Focusgroep|14/11/2024|NIET OK|
+|2.1.1|Het is van de eerste keer duidelijk hoe het product werkt|Concepttesten wave 1|30/11/2024|<details><summary>OK</summary><br>Tijdens de develop 1 en develop 3 fase werd bevesitgd door de leerkrachten maar ook door de observatie dat ze geen moeite hadden met het lezen van deze interface.</details>|
+|2.1.2|De interface nodigt uit om het frequent te blijven gebruiken|Focusgroep|14/11/2024|<details><summary>OK</summary><br>Dit werd geïmplementeerd in develop 1. Hieruit bleek dat de verandering van kleur bij een emotie genoeg de aandacht van de leerkracht trekt.</details>|
 |2.1.3|De interface kan (makkelijk) verplaatst worden|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes (wave 1 en wave 2) door ze compact en draadloos te houden.</details>|
 |2.1.4|Aanpasbaar aan de hoeveelheid leerlingen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Wordt geïmplementeerd in prototypes 1 en 3 van wave 1 door extra stukken toe te voegen aan de interface en in het prototype van wave 2 door te werken met een scherm waar verschaald kan worden om zo meer of minder leerlingen af te beelden.</details>|
 |2.2 Visualisatie|
-|2.2.1|De leerkracht kan snel zien welke emoties de kinderen ervaren|Interview|14/11/2024|<details><summary>OK</summary><br> Wordt geïmplementeerd in prototype 2 van wave 1 en het prototype van wave 2 door een overzichtelijk overzicht te geven mat namen.</details>|
+|2.2.1|De leerkracht kan snel zien welke emoties de kinderen ervaren|Interview|14/11/2024|<details><summary>OK</summary><br> Wordt geïmplementeerd in prototype 2 van wave 1 en het prototype van wave 2 door een overzichtelijk overzicht te geven met namen. Later werd in develop 3 bevestigd dat het voor de leerkrachten zeer makkelijk is om op het prototype van deze fase de emoties van de leerlingen af te lezen.</details>|
 |2.2.2|De leerkrachten kunnen op hun gemak bekijken welke emoties de kinderen de afgelope tijd ervaarden|Interview|14/11/2024|OK|
 |**3 Leerkrachten app**|
 |3.1 Algemeen|
-|3.1.1|Er is advies beschikbaar over hoe de leerkrachten met een bepaalde emotie kunnen omgaan|Literatuuronderzoek|14/11/2024|In progress|
+|3.1.1|Er is advies beschikbaar over hoe de leerkrachten met een bepaalde emotie kunnen omgaan|Literatuuronderzoek|14/11/2024|<details><summary>In progress</summary><br>Dit was aanwezig in de apps van de define en develop 2 fase. De tips zouden wel nog moeten uitgewerkt worden door een specialist.</details>|
 |3.1.2|De leerkracht kan op een rustig moment bekijken welke emoties de leerlingen ervaarden|Interview|14/11/2024|<details><summary>OK</summary><br> Dit wordt geïmplementeerd in de app van wave 1 en wave 2 door een overzicht te geven van welke emoties welke leerling heeft. Hierdoor kan de leerkracht vanop haar GSM kijken wie welke emotie ervaart.</details>|
 |3.1.3|De app is overzichtelijk en simpel|Concepttesten wave 2|28/11/2024|<details><summary>OK</summary><br> Dit werd gevalideerd in wave 2 door het genoeg maar niet te veel informatie af te beelden.</details>|
 |3.2 Visualistatie|
-|3.2.1|Duidelijke weergave van wie wanneer welke emotie ervaarde|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een dropdown te voorzien die laat zien op welke tijden van de dag de leerling een bepaalde emotie aanduidde.</details>|
-|3.2.2|Er is een overzicht per leerling|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een overzicht per leerling toe te voegen aan de app.</details>|
+|3.2.1|Duidelijke weergave van wie wanneer welke emotie ervaarde|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een dropdown te voorzien die laat zien op welke tijden van de dag de leerling een bepaalde emotie aanduidde. In develop 2 werd dit verder uitgewerkt.</details>|
+|3.2.2|Er is een overzicht per leerling|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een overzicht per leerling toe te voegen aan de app en is aanwezig in de finale versie.</details>|
 |3.2.3|Er is een weekoverzicht beschikbaar|Interview|14/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een weekoverzicht toe te voegen aan de app.</details>|
 |3.2.4|De leerkrachten kunnen de gegevens tot op een jaar terugkijken|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door de mogelijkheid te geven om gegevens van het jaar op te vragen in de app.</details>|
 ## 5 Technische beschrijving
