@@ -681,7 +681,6 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
   De leerlingen kozen allemaal voor het natuurhout omdat het zacht en niet koud aanvoelde. De leerkracht gaf echter aan dat eht belangrijk is dat het bakje makkelijk gekuist kan worden en dat de leerlingen er     niet op kunnen schrijven. 
   In het finale ontwerp zal dus gekozen worden voor een eerder zachte kunsstof, zo blijft de prijs laag en kan het makkelijk gereinigd worden.
 
-Wil je dat ik nog iets aanpas of toevoeg?
 
 ### 5.4 Conclusies en implicaties
 - In het finale ontwerp zullen er zowel lichtjes in de kleur van de emotie die aangaan wanneer er geklikt wordt verwerkt worden langs de binnenkant als lichtjes die aangaan wanneer ze dichtbij komen om het gebruik te stimuleren en het bakje ‘levendiger’ te laten lijken.
@@ -689,17 +688,17 @@ Wil je dat ik nog iets aanpas of toevoeg?
 - Het kleurgebruik zal voornamelijk bestaan uit bruin en beige met blauwe accenten.
 - Er zal een simpele vorm aangehouden worden met afgeronde hoeken. Het bakje zal kleiner zijn zodat het makkelijk in de bank past.
 - Het bakje van de leerkracht zal enkel de ‘niet blije’ emoties tonen zonder namen.
-## 5 Conclusie
+## 6 Conclusie
 |Nummer|Criteria|Bron|Datum|Toestand|
 |---|---|---|---|---|
 |0.1|Het ontwerp moet de structuur die in de klas word gebruikt ondersteunen|Interviews|12/11/2024|OK|
-|0.2|Het kostenplaatje is zo laag mogelijk|Concepttesten wave 1|30/11/24|NIET OK|
+|0.2|Het kostenplaatje is zo laag mogelijk|Concepttesten wave 1|30/11/24|<details><summary>In Progress</summary><br>Hier werd rekening mee gehouden voor het finale resultaat, door bijvoorbeeld in kunsstof te werken maar kan nog verder onderzocht worden.|
 |**1 Interface leerlingen**|
 |1.1 Algemeen|
-|1.1.1|Leerlingen leren actief nadenken over welke emoties ze ervaren|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes (zowel wave 1 als wave 2) door de leerlingen zelf hun emoties te laten aanduiden.</details>|
-|1.1.2|Het ontwerp moet regelmatig gebruik stimuleren|Literatuuronderzoek, concepttesten wave 1|14/11/2024|NIET OK|
-|1.1.3|De interface leidt niet af van de les|Interview|14/11/2024|In progress|
-|1.1.4|De interface is compact|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in de prototypes van wave 1 en wave 2 door de prototypes klein te houden.</details>|
+|1.1.1|Leerlingen leren actief nadenken over welke emoties ze ervaren|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes (zowel wave 1 als wave 2) door de leerlingen zelf hun emoties te laten aanduiden. Tijdens develop 3 werd deze DR bevestigd.</details>|
+|1.1.2|Het ontwerp moet regelmatig gebruik stimuleren|Literatuuronderzoek, concepttesten wave 1|14/11/2024|<details><summary>OK</summary><br>Getest in develop 1 en 3 door feedback en microinteractions toe te voegen aan de interface.</details>|
+|1.1.3|De interface leidt niet af van de les|Interview|14/11/2024|<details><summary>OK</summary><br>Getest en bevestigd in develop 3 door de fly on the wall observatie.</details>|
+|1.1.4|De interface is compact|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in de prototypes van wave 1 en wave 2 door de prototypes klein te houden. Het finale resultaat zal nog kleiner zijn dan </details>|
 |1.1.5|Robuust genoeg|Concepttesten wave 1|28/11/2024|NIET OK|
 |1.1.6|De leerlingen kunnen discreet hun emotie aanduiden|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in prototypes 1 en 2 van wave 1 en het prototype van wave 2 door een klepje toe te voegen. Hierdoor kunnen anderen moeilijker meekijken met wat de leerling aanduid.</details>|
 |1.1.7|Het product maakt geen storend geluid|Concepttesten wave 1|28/11/2024|NIET OK|
