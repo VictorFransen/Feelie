@@ -584,6 +584,7 @@ Aan de hand van volgende vier prototypes zullen verschillende microinteractions 
 - **Geen microinteractions**
   
 Tijdens deze gebruikerstesten wordt ook een soort nulmeting gedaan. Hierbij gaan we kijken of er effectief een verschil zit tussen het gebruik met en zonder microinteractions. Hiervoor hebben we ook een prototype voorizien zonder microinteractions. Dit prototype is vergelijkbaar met het prototype met lampjes van develop 1.
+[code](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_3/Feelie_client_finaal)
 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/schakeling%20gif.gif?raw=true" width="500" />
@@ -594,6 +595,7 @@ Tijdens deze gebruikerstesten wordt ook een soort nulmeting gedaan. Hierbij gaan
 - **RGB LED**
   
   Dit prototype is vergelijkbaar met het eerste prototype. Hier branden de LEDs de kleur van de emotie dei ze hebben ingedrukt.
+  [code](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_3/Feelie_client_finaal1)
 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/GIF%20RGB.gif?raw=true" width="500" />
@@ -604,6 +606,7 @@ Tijdens deze gebruikerstesten wordt ook een soort nulmeting gedaan. Hierbij gaan
 - **'ademende' LEDs**
   
 Deze microinteraction bestaat uit LEDs aan de voorkant van het prototype. De LEDs gaan aan en uit aan een kalm ritme die ademen moet imiteren. Hiermee willen we laten weten aan de gebruiker dat het prototype _'(a)live'_ is en dat ze deze dus kunnen gebruiken. Hiermee wordt geprobeerd interactie te stimuleren en de user experience te vebeteren.
+[code](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_3/Feelie_client_finaal3) knopjes, [code]() => link naar code voor ademende leds toevoegen!!!
 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/GIF%20ademende%20LED.gif?raw=true" width="500" />
@@ -613,13 +616,14 @@ Deze microinteraction bestaat uit LEDs aan de voorkant van het prototype. De LED
 - **Afstand gestuurde LEDs**
   
 Dit prototype is vergelijkbaar met het prototype met de ademende leds. Bij dit prototype zullen ook led aan de voorkant van het protoype zijn. Deze zullen aangaan wanneer de leerling in de buurt van het prototype komt met zijn/haar hand. Ook hiermee willen wordt aangegeven dat de leerling een emotie kan aanduiden en wordt geprobeerd gebruik te stimuleren en UX te verbeteren.
+[code](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_3/Feelie_client_finaal2)
 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Gif%20Afstandmeter.gif?raw=true" width="500" />
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Develop%202-afstand.jpeg?raw=true" width="500" />
 </p>
 
-De interface van de leerkracht waar de emoties naar worden doorgestuurd is hieronder te zien. In de witte vakjes komen de emoties van de leerlingen die bij deze testen een bakje hebben.
+De gegevens van deze verschillende bakjes komen toe in de [acces point](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_3/Feelie_AP_finaal). Die dan te zien zijn in de interface van de leekracht zoals hieronder te zien. In de witte vakjes komen de emoties van de leerlingen die bij deze testen een bakje hebben.
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/interface_leerkracht.png" width="550" />
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/interfaceleerkracht.jpg" width="450" />
