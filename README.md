@@ -371,7 +371,10 @@ Het prototype dat zal gebruikt tijdens dit onderzoek is te zien in onderstaande 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/foto_prototype_develop1.jpg" width="500" />
 </p>
-Het scherm is op afstand bestuurbaar, waardoor de interface kan aangepast worden alsof de leerling een andere emotie heeft aangeduid. Het prototype bevat een arduino waarmee via Bleutooth een lichtje kan aangezet en een geluidje kan afgespeelt worden. Dit is de gebruikte [code](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_1/arduino_code_leerkracht_develop1).
+Het scherm is op afstand bestuurbaar, waardoor de interface kan aangepast worden alsof de leerling een andere emotie heeft aangeduid. Het prototype bevat een arduino waarmee via Bleutooth een lichtje kan aangezet en een geluidje kan afgespeelt worden. Dit is de gebruikte [code](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_1/arduino_code_leerkracht_develop1). Hieronder is de schakeling te zien.
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/schakeling_leerkracht_develop1.png" width="300" />
+</p>
 Met dit prototype wordt onderzocht hoe snel een leerkracht een emotieverandering van een leerling opmerkt. Om de reactietijd mogelijks te optimaliseren worden volgende triggers getest:
 
 - kadertje rond de emoties
