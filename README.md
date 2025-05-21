@@ -707,7 +707,7 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
 - Er zal een simpele vorm aangehouden worden met afgeronde hoeken. Het bakje zal kleiner zijn zodat het makkelijk in de bank past.
 - Het bakje van de leerkracht zal enkel de ‘niet blije’ emoties tonen.
 ## 6 Conclusie
-|Nummer|Criteria|Bron|Datum|Toestand|
+|Nummer|Criteria|Bron|Datum|Toestand + Toepassing|
 |---|---|---|---|---|
 |0.1|Het ontwerp moet de structuur die in de klas word gebruikt ondersteunen|Interviews|12/11/2024|OK|
 |0.2|Het kostenplaatje is zo laag mogelijk|Concepttesten wave 1|30/11/24|<details><summary>In Progress</summary><br>Hier werd rekening mee gehouden voor het finale resultaat, door bijvoorbeeld in kunsstof te werken maar kan nog verder onderzocht worden.|
