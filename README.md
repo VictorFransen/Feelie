@@ -760,7 +760,7 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
 
 - Interface leerlingen:
   - **Arduino NANO** -> data opslagen in EEPROM geheugen en aansturen van componenten
-  - [Drukknoppen](https://www.amazon.com.be/-/en/gp/product/B09MBQSM44/ref=ox_sc_rp_title_rp_1?smid=&pf_rd_p=b55bbefb-5c9d-4b5d-a5fe-64db492837ac&pd_rd_wg=o51W5&pd_rd_i=B09MBQSM44&pd_rd_w=NQzDL&content-id=amzn1.sym.b55bbefb-5c9d-4b5d-a5fe-64db492837ac&pd_rd_r=DSDC5RVTKADAYFY6SFTN&th=1) -> emoties aanduiden
+  - Drukknoppen -> emoties aanduiden
   - Jumper wires -> connecties tussen verschillende componenten
   - Breadboards -> Connectie + opstelling van componenten
   - weerstanden
@@ -768,20 +768,31 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
   - LEDs -> Feedback naar leerling (RGB, wit, groen)
   - Vibratiemotoren -> Feedback naar leerlingen
   - Gelasercut MDF -> Behuizing prototype
-  - Verf -> kleur geven aan prototype en knoppen
-  - Battery pack -> draadloos poweren van prototype
-  - Ultrasone sensor -> afstand meten voor activeren microinteraction
-
-
 
 - Interface leerkrachten:
   - Arduino NANO 33 IOT -> draadloze aanturing via bluetooth van componenten met GSM
   - LED -> Feedback naar leerkrachten
   - Buzzer -> Feedback naar leerkrachten
   - Tablet -> Visualisatie van interface
-  - 
   - Fotokader -> stand voor interface
 
+**Develop 2**
+- APP:
+  - Figma
+  - GSM
+ 
+**Develop 3**
+- Interface leerlingen:
+  - Arduino NANO IOT 33 -> om connectie te kunnen maken met andere arduinos en met protopie
+  - [Drukknoppen](https://www.amazon.com.be/-/en/gp/product/B09MBQSM44/ref=ox_sc_rp_title_rp_1?smid=&pf_rd_p=b55bbefb-5c9d-4b5d-a5fe-64db492837ac&pd_rd_wg=o51W5&pd_rd_i=B09MBQSM44&pd_rd_w=NQzDL&content-id=amzn1.sym.b55bbefb-5c9d-4b5d-a5fe-64db492837ac&pd_rd_r=DSDC5RVTKADAYFY6SFTN&th=1) -> emotie aanduiden
+  - PLA + 3Dprinter -> hoeken en opzetstukken van knoppen printen
+  - Gelasercutte MDF -> behuizng
+  - Verf -> kleur geven aan prototype en knoppen
+  - Battery pack -> draadloos poweren van prototype
+  - Ultrasone sensor -> afstand meten voor activeren microinteraction
+  - Weerstanden
+  - Jumperwires
+  - (RGB) LEDs -> Feedback + Microinteractions
 
 ## 6 Kritische reflectie
 Na een jaar te hebben gewerkt aan Feelie, zijn er zaken die ons zijn opgevallen en bijgebleven die we in de toekomst anders zouden doen of juist niet anders zouden doen.
