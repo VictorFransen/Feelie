@@ -793,6 +793,10 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
   - Weerstanden
   - Jumperwires
   - (RGB) LEDs -> Feedback + Microinteractions
+ 
+- Interface leerkrachten:
+  - Protopie
+  - IPad + hoes
 
 ## 6 Kritische reflectie
 Na een jaar te hebben gewerkt aan Feelie, zijn er zaken die ons zijn opgevallen en bijgebleven die we in de toekomst anders zouden doen of juist niet anders zouden doen.
