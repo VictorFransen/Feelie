@@ -11,7 +11,7 @@ Op basis van literatuuronderzoek, interviews, een focusgroep en gebruikerstesten
 De interface staat op de bank van de leerling en bevat zes knoppen die emoties weergeven. Bij een druk op een knop wordt de emotie doorgestuurd naar de interface van de leerkracht en de app. Op de interface van de leerkracht is een overzicht zichtbaar van de emoties in de klas. In de app kan de leerkracht tips, een weekoverzicht en een jaaroverzicht raadplegen. Deze oplossingen zijn ontwikkeld en verfijnd door middel van verschillende bevragingen en gebruikerstesten.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VictorFransen/Feelie/9dca4bb8d84ef7c798dabc4d0c4106eea6e13220/foto's/logo_feelie.svg" width="500" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/logo_feelie.png" width="500" />
 </p>
 
 <p align="center">
