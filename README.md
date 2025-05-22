@@ -738,7 +738,7 @@ Tijdens het tweede semester heeft de studenten van kennismaatschappij & ICT feed
   - _Gebruikersaanwijzingen voor leerkracht en leerling._
     - Het is inderdaad nodig om aan zowel de leerling als leerkracht een gebruiksaanwijzing te geven bij het gebruiken van Feelie. Aangezien dat het gebruik redelijk voor zich spreekt en het doel ook is om de leerkracht een beetje vrij te laten in het gebruik van Feelie zorgt een specifieke gebruisaanwijzing misschien voor een minder grote doelgroep. Het uitleggen aan de leerlingen welke emoji voor welke emotie staat is wel nodig. Hiervoor kan inderdaad een gebruisaanwijzing gegeven worden.
 
-- **Plitiek**
+- **Politiek**
   - _Ga na of Feelie erkend kan worden binnen bestaande onderwijs- en/of welzijnsprogramma's._
     - Met deze feedback is zeer weinig gedaan. Aangezien er een gevoel was dat dit buiten het kader van dit vak/project valt. Dit zou wel zeker interessnat zijn moest er een visie zijn om Feelie op de markt te brengen. Hiermee wordt geloofwaardigheid en vertouwen versterkt en kan dit deuren openen voor subsidies of financiele steun van overheidsinstanties.
    
@@ -748,7 +748,7 @@ Tijdens het tweede semester heeft de studenten van kennismaatschappij & ICT feed
 
   - **Wetgeving**
     - _Welke en hoeveel data mag er wttelijk opgeslagen worden?_
-      - Ook dit is een onderwerp dat een beetje over het hoofd werd gezien doorheen het project. Bij elke gebruikerstest en interview dat werd afgelegd werd een infomed consent getekend dat ons de toestemming gaf om data te verwerken in ons onderzoek. Als Feelie ooit op de markt zou komen is dit wel een belangrijk onderwerp om meer onderzoek over te doen. Aangezien die visie er momenteel niet is en ook niet dicht is bij dit stadium is ook dit iets waar nog niet direct rekening mee werd gehouden in dit onderzoek.
+      - Ook dit is een onderwerp dat een beetje over het hoofd werd gezien doorheen het project. Bij elke gebruikerstest en interview dat werd afgelegd werd een infomed consent getekend dat toestemming gaf om data te verwerken in ons onderzoek. Als Feelie ooit op de markt zou komen is dit wel een belangrijk onderwerp om meer onderzoek over te doen. Aangezien die visie er momenteel niet is en ook niet dicht bij dit stadium is, is ook dit iets waar nog niet direct rekening mee werd gehouden in dit onderzoek.
   
 
 ## 6 Conclusie
