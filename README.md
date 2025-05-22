@@ -746,9 +746,9 @@ Tijdens het tweede semester heeft de studenten van kennismaatschappij & ICT feed
   - _Waar worden deze toestellen geproduceerd, wat gebeurt er als ze kapot zijn?_
     - Aangzeien er enkel met prototypes zijn gewerkt, was het niet altijd gemakkelijk om deze zo milieuvriendelijk te maken. Als de visie er is om Feelie op de markt te brengen zijn dit zeker zaken waar naar gekeken moet worden. Omdat dit stadium van productie nog niet bereikt is is hier tot nu ook nog niet veel rekening mee gehouden.
 
-  - **Wetgeving**
-    - _Welke en hoeveel data mag er wttelijk opgeslagen worden?_
-      - Ook dit is een onderwerp dat een beetje over het hoofd werd gezien doorheen het project. Bij elke gebruikerstest en interview dat werd afgelegd werd een infomed consent getekend dat toestemming gaf om data te verwerken in ons onderzoek. Als Feelie ooit op de markt zou komen is dit wel een belangrijk onderwerp om meer onderzoek over te doen. Aangezien die visie er momenteel niet is en ook niet dicht bij dit stadium is, is ook dit iets waar nog niet direct rekening mee werd gehouden in dit onderzoek.
+- **Wetgeving**
+  - _Welke en hoeveel data mag er wttelijk opgeslagen worden?_
+    - Ook dit is een onderwerp dat een beetje over het hoofd werd gezien doorheen het project. Bij elke gebruikerstest en interview dat werd afgelegd werd een infomed consent getekend dat toestemming gaf om data te verwerken in ons onderzoek. Als Feelie ooit op de markt zou komen is dit wel een belangrijk onderwerp om meer onderzoek over te doen. Aangezien die visie er momenteel niet is en ook niet dicht bij dit stadium is, is ook dit iets waar nog niet direct rekening mee werd gehouden in dit onderzoek.
   
 
 ## 6 Conclusie
