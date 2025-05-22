@@ -719,12 +719,12 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
 - Het bakje van de leerkracht zal enkel de ‘niet blije’ emoties tonen.
 
 ## Kennismaatschappij & ICT
-Tijdens het tweede semester heeft de studenten van kennismaatschappij & ICT feedback geleverd op Feelie vanuit verschillende perspectieven van de maatschappij. Met een deel van deze feedback is ook effectief aan de slag gegaan in dit project.
+Tijdens het tweede semester hebben de studenten van kennismaatschappij & ICT feedback geleverd op Feelie vanuit verschillende perspectieven van de maatschappij. Met een deel van deze feedback is ook effectief aan de slag gegaan in dit project.
 
 - **Sociaal**
   - _Rekening houden met minderheidsgroepen (blinden/slechtzienden, neurodivergente kinderen, kinderen met 'flat affect')_
-    - Het doel van Feelie is om zo toegankelijk mogelijk te zijn voor iedereen. Echter, waren dit zaken waar nog niet concreet rekening mee werd gehouden. Omdat dit zeker een terechte opmerking was was het doel wel om hiermee aan de slag te gaan, maar aangezien deze feedback aan het einde
-    van semester twee kwam was dit nog moeilijk te realiseren. Toch is er in het finale ontwerp van feelie relief en braille toegevoegd, om ook blinden en slechtziende te faciliteren.
+    - Het doel van Feelie is om zo toegankelijk mogelijk te zijn voor iedereen. Dit waren zaken waar nog niet concreet rekening mee werd gehouden. Omdat dit zeker een terechte opmerking is, was het doel wel om hiermee aan de slag te gaan, maar aangezien deze feedback aan het einde
+    van semester twee kwam, was dit nog moeilijk te realiseren. Toch is er in het finale ontwerp van feelie relief en braille toegevoegd, om ook blinden en slechtziende te faciliteren.
     
   - _Niet te afleidend maken_
     - Hiermee werd al uitgebreid rekening gehouden doorheen de verschillende fasen van dit project. Dit was ook één van de initiele ontwerpcriteria. Deze werdt vervult en gevalideerd.
@@ -734,7 +734,7 @@ Tijdens het tweede semester heeft de studenten van kennismaatschappij & ICT feed
 
 - **Technologisch**
   - _Zorg er voor dat de UI bruikbaar is voor ouderen en tech incompetente mensen._
-    - Ook hier werd al rond getest, vooral in develop 2. Door het testen met mensen van verschillende leeftijdsgroepen en technologische skills werd ook aan dit criterium voldaan. Uit deze testen was duidelijk dat het voor sommige leerkrachten in het begin een beetje moeilijk was, maar ook deze leerkrachten baande zich uiteindelijk vlot door de inteface van de app.
+    - Ook hier werd al rond getest, vooral in develop 2. Door het testen met mensen van verschillende leeftijdsgroepen en technologische skills werd ook hieraan voldaan. Uit deze testen was duidelijk dat het voor sommige leerkrachten in het begin een beetje moeilijk was, maar ook deze leerkrachten baande zich uiteindelijk vlot door de inteface van de app.
    
   - _Gebruikersaanwijzingen voor leerkracht en leerling._
     - Het is inderdaad nodig om aan zowel de leerling als leerkracht een gebruiksaanwijzing te geven bij het gebruiken van Feelie. Aangezien dat het gebruik redelijk voor zich spreekt en het doel ook is om de leerkracht een beetje vrij te laten in het gebruik van Feelie zorgt een specifieke gebruisaanwijzing misschien voor een minder grote doelgroep. Het uitleggen aan de leerlingen welke emoji voor welke emotie staat is wel nodig. Hiervoor kan inderdaad een gebruisaanwijzing gegeven worden.
