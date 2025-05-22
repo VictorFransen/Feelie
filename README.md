@@ -15,7 +15,8 @@ De interface staat op de bank van de leerling en bevat zes knoppen die emoties w
 </p>
 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/schets_finaal.jpg" width="500" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/render%20bakje%20lln%204.jpg?raw=true" width="450" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/interface%20lrk%20render%202.jpg?raw=true" width="495" />
 </p>
 
 ## Introductie
@@ -302,7 +303,8 @@ Voor meer conclusies en implicaties zie de tabel onder 2.3 en/of de rapporten va
 Door copyright werden de gezichtjes die tot nu toe gebruikt werden veranderd naar de gezichtjes te zien in de figuur hieronder. De vormen en kleuren blijven wel gelijkaardig.
 
   <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/nieuwe_gezichtjes.png" width="500" />
+    <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/nieuwe_gezichtjes.png" width="500" />
+  </p>
   
 Tijdens de definition fase werd een oplossing, Feelie, bedacht voor het vooropgestelde probleem. Het doel van de deze eerste develop fase is om de oplossing te verfijnen en de ergonomie te optimaliseren.
 Om de belangrijkste design challanges van het product te definiëren werd gebruik gemaakt van Nir Eyel's Hook model. Uit deze analyse kwamen twee belangrijke ontwerpvraagstukken:
@@ -345,7 +347,7 @@ De prototypes zijn gemaakt met gelasercutte MDF en er wordt gebruik gemaakt van 
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/schakeling%20gif.gif?raw=true" width="500" />
 </p>
 
-De code voor dit prototype: [code lampjes](https://github.com/VictorFransen/Feelie/tree/main/Code/Prototype_leerlingen_develop1_nano)
+De code voor dit prototype: [code lampjes](https://github.com/VictorFransen/Feelie/blob/main/Code/Develop_1/Prototype_leerlingen_develop1_nano/Prototype_leerlingen_develop1_nano.ino)
 
 **Prototype trilmotoren:**
 
@@ -353,7 +355,7 @@ De code voor dit prototype: [code lampjes](https://github.com/VictorFransen/Feel
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/tril%20GIF.gif?raw=true" width="500" />
 </p>
 
-De code voor dit prototype: [code trilmotoren](https://github.com/VictorFransen/Feelie/tree/main/Code/Prototype_leerlingen_develop1_tril)
+De code voor dit prototype: [code trilmotoren](https://github.com/VictorFransen/Feelie/blob/main/Code/Develop_1/Prototype_leerlingen_develop1_tril/Prototype_leerlingen_develop1_tril.ino)
 
 **Prototype geen feedback:**
 
@@ -361,9 +363,9 @@ De code voor dit prototype: [code trilmotoren](https://github.com/VictorFransen/
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Schakeling_Geen%20feedback.png?raw=true" width="500" />
 </p>
 
-De code voor dit prototype: [code geen feedback](https://github.com/VictorFransen/Feelie/tree/main/Code/Prototype_leerlingen_develop1_zonder_feedback)
+De code voor dit prototype: [code geen feedback](https://github.com/VictorFransen/Feelie/blob/main/Code/Develop_1/Prototype_leerlingen_develop1_zonder_feedback/Prototype_leerlingen_develop1_zonder_feedback.ino)
 
-Code voor data ophalen: [Code Data](https://github.com/VictorFransen/Feelie/tree/main/Code/data_ophalen)
+Code voor data ophalen: [Code Data](https://github.com/VictorFransen/Feelie/blob/main/Code/Develop_1/data_ophalen/data_ophalen.ino)
 Voor het volledige protocol zie [link](https://acrobat.adobe.com/id/urn:aaid:sc:EU:a118c31f-9d20-4e50-8656-408384e52897).
 
 #### 3.2.2 Usability test: interface leerkracht + MoSCoW rewiew app (N=2)
@@ -622,7 +624,7 @@ Tijdens deze gebruikerstesten wordt ook een soort nulmeting gedaan. Hierbij gaan
 - **'ademende' LEDs**
   
 Deze microinteraction bestaat uit LEDs aan de voorkant van het prototype. De LEDs gaan aan en uit volgens een kalm ritme dat ademen moet imiteren. Hiermee willen we laten weten aan de gebruiker dat het prototype _'(a)live'_ is en dat ze deze dus kunnen gebruiken. Hiermee wordt geprobeerd interactie te stimuleren en de user experience te vebeteren.
-[code](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_3/Feelie_client_finaal3) knopjes, [code]() => link naar code voor ademende leds toevoegen!!!
+[code](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_3/Feelie_client_finaal3) knopjes, [code](https://github.com/VictorFransen/Feelie/blob/main/Code/Develop_3/breathing_leds/breathing_leds.ino).
 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/GIF%20ademende%20LED.gif?raw=true" width="500" />
@@ -714,7 +716,75 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
 - Het kleurgebruik zal voornamelijk bestaan uit bruin en beige met blauwe accenten.
 - Er zal een simpele vorm aangehouden worden met afgeronde hoeken. Het bakje zal kleiner zijn zodat het makkelijk in de bank past.
 - Het bakje van de leerkracht zal enkel de ‘niet blije’ emoties tonen.
+
+## Kennismaatschappij & ICT
+Tijdens het tweede semester heeft de studenten van kennismaatschappij & ICT feedback geleverd op Feelie vanuit verschillende perspectieven van de maatschappij. Met een deel van deze feedback is ook effectief aan de slag gegaan in dit project.
+
+- **Sociaal**
+  - _Rekening houden met minderheidsgroepen (blinden/slechtzienden, neurodivergente kinderen, kinderen met 'flat affect')_
+    Het doel van Feelie is om zo toegankelijk mogelijk te zijn voor iedereen. Echter, waren dit zaken waar nog niet concreet rekening mee werd gehouden. Omdat dit zeker een terechte opmerking was was het doel wel om hiermee aan de slag te gaan, maar aangezien deze feedback aan het einde
+    van semester twee kwam was dit nog moeilijk te realiseren. Toch is er in het finale ontwerp van feelie relief en braille toegevoegd, om ook blinden en slechtziende te faciliteren.
+    
+  - _Niet te afleidend maken_
+    - Hiermee werd al uitgebreid rekening gehouden doorheen de verschillende fasen van dit project. Dit was ook één van de initiele ontwerpcriteria. Deze werdt vervult en gevalideerd.
+
+  - _Zorgen voor privacy_
+    - Ook hier werdt uitgebreid rond getest doorheen dit project. Dit criterium werd ook volbracht.
+
+- **Technologisch**
+  - _Zorg er voor dat de UI bruikbaar is voor ouderen en tech incompetente mensen._
+    - Ook hier werd al rond getest, vooral in develop 2. Door het testen met mensen van verschillende leeftijdsgroepen en technologische skills werd ook aan dit criterium voldaan. Uit deze testen was duidelijk dat het voor sommige leerkrachten in het begin een beetje moeilijk was, maar ook deze leerkrachten baande zich uiteindelijk vlot door de inteface van de app.
+   
+  - _Gebruikersaanwijzingen voor leerkracht en leerling._
+    - Het is inderdaad nodig om aan zowel de leerling als leerkracht een gebruiksaanwijzing te geven bij het gebruiken van Feelie. Aangezien dat het gebruik redelijk voor zich spreekt en het doel ook is om de leerkracht een beetje vrij te laten in het gebruik van Feelie zorgt een specifieke gebruisaanwijzing misschien voor een minder grote doelgroep. Het uitleggen aan de leerlingen welke emoji voor welke emotie staat is wel nodig. Hiervoor kan inderdaad een gebruisaanwijzing gegeven worden.
+
+- **Plitiek**
+  - _Ga na of Feelie erkend kan worden binnen bestaande onderwijs- en/of welzijnsprogramma's._
+    - Met deze feedback is zeer weinig gedaan. Aangezien er een gevoel was dat dit buiten het kader van dit vak/project valt. Dit zou wel zeker interessnat zijn moest er een visie zijn om Feelie op de markt te brengen. Hiermee wordt geloofwaardigheid en vertouwen versterkt en kan dit deuren openen voor subsidies of financiele steun van overheidsinstanties.
+   
+- **Ecologisch**
+  - _Waar worden deze toestellen geproduceerd, wat gebeurt er als ze kapot zijn?_
+    - Aangzeien er enkel met prototypes zijn gewerkt, was het niet altijd gemakkelijk om deze zo milieuvriendelijk te maken. Als de visie er is om Feelie op de markt te brengen zijn dit zeker zaken waar naar gekeken moet worden. Omdat dit stadium van productie nog niet bereikt is is hier tot nu ook nog niet veel rekening mee gehouden.
+
+  - **Wetgeving**
+    - _Welke en hoeveel data mag er wttelijk opgeslagen worden?_
+      - Ook dit is een onderwerp dat een beetje over het hoofd werd gezien doorheen het project. Bij elke gebruikerstest en interview dat werd afgelegd werd een infomed consent getekend dat ons de toestemming gaf om data te verwerken in ons onderzoek. Als Feelie ooit op de markt zou komen is dit wel een belangrijk onderwerp om meer onderzoek over te doen. Aangezien die visie er momenteel niet is en ook niet dicht is bij dit stadium is ook dit iets waar nog niet direct rekening mee werd gehouden in dit onderzoek.
+  
+
 ## 6 Conclusie
+
+Het finale product is tot stand gekomen na twee semesters intensief werk. Tijdens deze maanden zijn verschillende fases onderzoek, gebruikerstesten, ontwerpen en uitwerking doorlopen, met als doel aan de wensen van de voorziene gebruikers te voldoen. Het resultaat hiervan is een (zo goed als) uitgewerkt eindproduct. Het eindproduct bestaat uit drie onderdelen:
+
+### Leerling
+Misschien wel het belangrijkste onderdeel van Feelie is de interface van de leerling. Aan de hand van deze interface kan de leerling tijdens de les op een laagdrempelige en veilige mannier zijn,haar of hun emoties communiceren zonder hiervoor de leerkracht aan te spreken of uit de stoel op te staan. Het originele idee van Feelie was dat elke leerling in de klas zo'n interface voor zich kreeg staan. Dit wordt nu opengelaten en ligt in de handen van de leerkracht. De leerkrachten die deelnamen aan de interviews en gebruikerstesten gaven vaak aan dat ze dit misschien enkel zouden gebruiken voor de leerlingen die moeite hebben met de taal of met hun emoties te uitten. Alhoewel dit ook zeker kan, is Feelie ontworpen met het doel om iedereen in de klas een mannier te geven om hun emotie te kunnen uiten. Ook oor zij die misschien minder moeite hebben met de taal of hun emoteis.
+
+De interface bestaat uit 6 knoppen, lampjes aan de binnen- en buitenkant van het bakje. De 6 knoppen op de interface geven allemaal een andere emotie en kleur weer. Bij het indrukken van een van deze knoppen zal de emotie op die op de knop wordt vertoond naar de leerkracht worden doorgestuurd. Wanneer één van de knoppen wordt ingedrukt zullen de lampjes binnenin aangaan met de kleur van de emotie die wordt ingedrukt. Hiermee wordt aan de leerling op een niet-storende manier aangegeven dat er iets is doorgestuurd naar de leerkracht. Door de kleur van de lampjes ziet de leerling nog eens welke emotie er werd aangeduid. De lampjes aan de buiten-/onderkant van het bakje gaan aan als de leerling dicht in de buurt komt met zijn of haar hand. Hiermee wordt de leerling gestimuleerd en lijkt het alsof het bakje 'leeft'. Door ook braille en reliëf toe te voegen aan de interface is het de bedoeling dat het ook geschikt is voor blinden en slechtziende. Door de toevoeging van een dekseltje op de interface wordt ervoor gezorgd dat de privacy van de leerling beschermd wordt en dat de leerling minder wordt afgeleid tijdens de les. De stroomvoorziening van deze interfaces wordt gedaan aan de hand van batterijen. Hierdoor blijft de interface mobiel. De bruine/beige kleur zorgt voor rust en zorgt ervoor dat de interface goed in de klas opgaat zonder te veel aandacht te trekken.
+
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/render%20bakje%20lln%204.jpg?raw=true" width="600" />
+</p>
+
+### Leerkracht
+Naast een interface voor de leerlingen is er ook een interface voor de leerkracht. De emoties die de leerlingen aanduiden op hun bakje wordt dirct naar deze interface doorgestuurd worden. Dezen worden dan afgebeeld op een scherm. Op dit scherm worden enkel de emoties vertoond va de leerlingen die niet blij zijn. Hierdoor blijft het schrm overzichtelijk.Omdat ook deze interface mobiel moet zijn, wordt hier de stroomvoorziening gedaan aan de hand van batterijen.
+
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/interface%20lrk%20render%202.jpg?raw=true" width="645" />
+</p>
+
+### App
+Tesamen met twee interfaces is er ook nog een app. In deze app kan deleerkracht een dag-, week- en jaaroverzicht bekijken of downloaden. De app dient als onderstoening en dient gebruikt te worden op rustige momenten. Hierdoor kunnen leerkrachten een gedetailleerd overzicht krijgen van de ervaren emoties. Ook biedt de app tips & tricks voor de leerkracht om te helpen omgaan met bepaalde emoties van leerlingen. Ook vindt de gebruiker de instellingen van de interfaces in deze app.
+
+<p align="center">
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/App1_weekoverzicht.png" width="150" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app1_2.png" width="150" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app1_3.png" width="150" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app1_4.png" width="150" />
+</p>
+
+### Design requirements
+
+Doorheen twee semesters van onderzoek en gebruikerstesten zijn een hoop ontwerpcriteria opgesteld om te met als doel te voldoen aan de wensen van de gebruikers. Een lijst van deze criteria staat hieronder:
+
 |Nummer|Criteria|Bron|Datum|Toestand + Toepassing|
 |---|---|---|---|---|
 |0.1|Het ontwerp moet de structuur die in de klas word gebruikt ondersteunen|Interviews|12/11/2024|OK|
