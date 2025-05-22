@@ -658,23 +658,23 @@ De volledige analyse is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:1b697
 **microinteractions**
 - Bij het bakje **zonder microinteraction** gaven de leerlingen aan dat ze niet goed wisten of de knopjes wel werkten. Op de SAM test die hieronder te zien is scoorde dit ontwerp echter redelijk goed.
   <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/SAM_geeninteractie.png" width="700" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/SAM_geeninteractie.png" width="400" />
 </p>
 
 - De leerlingen die van het bakje met de **ademende LEDs** gebruik maakten gaven aan dat ze het leuk vonden dat er lichtjes branden.  De SAM toonde echter aan dat de leerlingen zich minder zelfstandig voelden zijdens het gebruik. 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/SAM_ademendeleds.png" width="700" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/SAM_ademendeleds.png" width="400" />
 </p>
   Deze lichtjes zijn constant aan het branden wat negatief zou kunnen zijn voor de batterijduur.
 
 - Uit de observatie van het bakje met **lichtjes die branden wanneer er iets dichtbij kwam**, werd duidelijk dat dit zeker een meerwaarde had. Het trok op bepaalde momenten de aandacht van de leerling, wat ervoor kan zorgen dat ze niet vergeten om af en toe hun emotie aan te geven.
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/SAM_afstand.png" width="700" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/SAM_afstand.png" width="400" />
 </p>
 
 - De microinteraction met **kleurverandering aan de hand van de emotie** vonden de leerlingen het best. Tijdens de observatie was duidelijk dat de leerlingen goed met het bakje overweg konden. Dit vertaalde zich ook in de SAM test (zie figuur).
   <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/SAM_kleurvanemotie.png" width="700" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/SAM_kleurvanemotie.png" width="400" />
 </p>
 
 **interface leerkracht**
