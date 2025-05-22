@@ -807,27 +807,24 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
   - IPad + hoes
 
 ## 6 Kritische reflectie
-Na een jaar te hebben gewerkt aan Feelie, zijn er zaken die ons zijn opgevallen en bijgebleven die we in de toekomst anders zouden doen of juist niet anders zouden doen.
+Na een jaar werken aan Feelie zijn er heel wat inzichten opgedaan die we meenemen naar de toekomst.
 
-Uit interviews en gebruikerstesten werd al snel duidelijk dat het onderwerp en doel van dit project zeer relevant is. Door het lerarentekort worden klassen steeds groter en krijgen leerkrachten een hoge werklast. Een tool om deze werklast te verlagen was dus welgekomen. 
+Uit interviews en gebruikerstesten bleek al snel dat het onderwerp en doel van het project zeer relevant zijn. Door het lerarentekort en de toenemende klasgroottes is een tool om de werkdruk van leerkrachten te verlagen welkom. We hebben het project goed aangepakt met een duidelijke planning en evenwichtige werkverdeling.
 
-Naar ons gevoel hebben we doorheen het jaar dit project goed aangepakt. We hadden voor onszelf een planning opgesteld en ons ook effectief aan de planning gehouden. Ook het werk werd steeds gelijk verdeeld waardoor niemand opmerkelijk meer werk moest doen dan de andere.
+We hebben het project goed aangepakt met een duidelijke planning die we ook gevolgd hebben. Het werk werd evenwichtig verdeeld, waardoor niemand significant meer moest doen dan de ander.
 
-In het eerste semester hadden we bij het uitvoeren van de gebruikerstesten geen visuele data voorzien, wat jammer was. In het tweede semester hebben we hierop ingespeeld door foto- en videomateriaal vast te leggen, wat zeker een meerwaarde bood. 
+In het eerste semester misten we visuele data bij gebruikerstesten, maar dit hebben we in het tweede semester opgelost door foto- en videomateriaal toe te voegen, wat een meerwaarde bleek.
 
-Ook moet er zeker kritisch gekeken worden naar de resultaten uit de gebruikerstesten van de leerlingen uit het eerste leerjaar (definition, wave 1 en develop 3). Wat tijdens deze testen opviel was dat de leerlingen moeilijk vanzelf antwoorden gaven en dat we ze in een bepaalde richting moesten sturen om te antwoorden. Hierdoor kwamen vaak de antwoorden naar boven die wij aanhaalden en die zij dan als ‘juist’ opvatten.
+Ook moet er zeker kritisch gekeken worden naar de resultaten uit de gebruikerstesten van de leerlingen uit het eerste leerjaar (definition, wave 1 en develop 3). We merkten wel dat deze leerlingen moeilijk spontaan antwoorden gaven. Ze hadden vaak sturing nodig, waardoor hun antwoorden beïnvloed konden zijn. 
 
 Wat wel een goede zaak was, is dat we hebben afgewisseld tussen twee scholen voor de gebruikerstesten. Het was zeer duidelijk dat er een groot verschil zat in het publiek van beide scholen. De ene school was redelijk klein en had bijna uitsluitend autochtone leerlingen in tegenstelling tot de andere, die veel groter was en een grotere mix van nationaliteiten en culturen had. Dit heeft voor interessante inzichten gezorgd.
 
-Wat ons wel jammer lijkt, is dat we geen echte lampjes, schermpjes of echte knopjes hebben geïntegreerd in onze prototypes. Hiermee konden we het concept misschien meer verduidelijken voor de leerlingen. De leerkrachten konden zich vaak wel een goed idee vormen over het concept. Dit was soms nog moeilijk voor de leerlingen, zeker voor die van het 1e leerjaar.
-In het tweede semester hebben we dit wel kunnen doen, wat vooral voor de leerlingen een grote meerwaarde was.
+Jammer genoeg gebruikten we aanvankelijk geen echte lampjes, schermpjes of knopjes in onze prototypes. Hiermee konden we het concept misschien meer verduidelijken voor de leerlingen. De leerkrachten konden zich vaak wel een goed idee vormen over het concept. In het tweede semester deden we dat wel, wat vooral voor jonge leerlingen het begrip vergemakkelijkte.
 
-Mocht Feelie op de markt worden gebracht, dan moeten er belangrijke juridische aspecten in rekening worden genomen. Aangezien Feelie emoties van leerlingen registreert over een langere periode, zal waarschijnlijk toestemming van ouders nodig zijn. Daarnaast moet grondig worden onderzocht hoe de data zou moeten worden opgeslagen in overeenstemming met de GDPR-richtlijnen.
+Bij marktintroductie moeten juridische aspecten goed overwogen worden, zoals ouderlijke toestemming en GDPR-conforme dataopslag, aangezien Feelie emoties over langere tijd registreert. De keuze van batterij is cruciaal omdat het zo lang mogelijk moet meegaan voor duurzaamheid, net als een modulair ontwerp met herbruikbare materialen.
 
-De keuze van de batterij is cruciaal, het bakje moet namelijk zo lang mogelijk meegaan. Verder is een modulair ontwerp met duurzamene materialen een meerwaarde, zodat Feelie eenvoudig kan worden gerepareerd en de ecologische impact minimaal blijft.
-
-De grootste vraag die momenteel nog open staat betreft de uitwerking van de interface van de leerkracht. Tijdens de laatste develop fase werd duidelijk dat de leerkrachten vooral op rustige momenten in de app zouden kijken naar de emoties van de leerlingen. Daarnaast keken niet enkel de leerkrachten maar ook de leerlingen naar de interface wat niet de bedoeling is (design requirement 1.1.6). Op dit moment is het nog niet zeker of de interface van de leerkracht dus weldegelijk een meerwaarde biedt. Anderzijds zijn er zonder interface geen triggers aanwezig om de emoties regelmatig te bekijken. 
-Als we dan toch zouden kiezen om de interface van de leerkracht bij het ontwerp te laten is de vraag of de namen van de leerlingen onder de emoties moeten staan of niet. Als de namen eronder staan kunnen andere leerlingen namelijk lezen wie welke emotie heeft maar als ze er niet onderstaan is de interface voor de leerkracht minder duidelijk. Design requirements 2.1.5 en 2.2.1 spreken elkaar eigenlijk tegen. 
+Een openstaande vraag is de leerkrachteninterface. Tijdens de laatste develop fase werd duidelijk dat de leerkrachten vooral op rustige momenten in de app zouden kijken naar de emoties van de leerlingen. Daarnaast keken niet enkel de leerkrachten maar ook de leerlingen naar de interface wat niet de bedoeling is (design requirement 1.1.6). Op dit moment is het nog niet zeker of de interface van de leerkracht dus weldegelijk een meerwaarde biedt. Anderzijds zijn er zonder interface geen triggers aanwezig om de emoties regelmatig te bekijken. 
+Als we dan toch zouden kiezen om de interface van de leerkracht bij het ontwerp te laten is de vraag of de namen van de leerlingen onder de emoties moeten staan of niet. Als de namen eronder staan kunnen andere leerlingen namelijk lezen wie welke emotie heeft maar als ze er niet onderstaan is de interface voor de leerkracht minder duidelijk. Design requirements 2.1.5 en 2.2.1 spreken elkaar hierin tegen. 
 We wouden hieromtrent geen concrete beslissingen maken omdat deze niet meer gevalideerd kunnen worden met de leerkrachten.
 
 Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We hebben ook veel bijgeleerd en zijn blij dat zowel de leerkrachten als de leerlingen heel enthousiast reageren en aangeven dat het project een effectieve meerwaarde kan vormen in de klas.
