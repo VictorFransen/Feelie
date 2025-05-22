@@ -833,7 +833,7 @@ Doorheen deze twee semesters van onderzoek en gebruikerstesten zijn een hoop ont
 |3.2.2|Er is een overzicht per leerling|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een overzicht per leerling toe te voegen aan de app en is aanwezig in de finale versie.</details>|
 |3.2.3|Er is een weekoverzicht beschikbaar|Interview|14/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een weekoverzicht toe te voegen aan de app.</details>|
 |3.2.4|De leerkrachten kunnen de gegevens tot een jaar terugkijken|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door de mogelijkheid te geven om gegevens van het jaar op te vragen in de app.</details>|
-## 5 Technische beschrijving
+## 7 Technische beschrijving
 ### Gebruikt Semester 1:
 - karton
 - papier
@@ -883,7 +883,7 @@ Doorheen deze twee semesters van onderzoek en gebruikerstesten zijn een hoop ont
   - Protopie
   - IPad + hoes
 
-##  7 Kritische reflectie
+##  8 Kritische reflectie
 Na een jaar werken aan Feelie zijn er heel wat inzichten opgedaan die we meenemen naar de toekomst.
 
 Uit interviews en gebruikerstesten bleek al snel dat het onderwerp en doel van het project zeer relevant zijn. Door het lerarentekort en de toenemende klasgroottes is een tool om de werkdruk van leerkrachten te verlagen welkom. We hebben het project goed aangepakt met een duidelijke planning en evenwichtige werkverdeling.
@@ -902,7 +902,7 @@ Bij marktintroductie moeten juridische aspecten goed overwogen worden, zoals oud
 
 Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We hebben ook veel bijgeleerd en zijn blij dat zowel de leerkrachten als de leerlingen heel enthousiast reageren en aangeven dat het project een effectieve meerwaarde kan vormen in de klas.
 
-## 8 Bijlagen
+## 9 Bijlagen
 ### Discovery
 - **Literatuuronderzoek**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:c845fe7f-24a4-4b6a-a0fe-1af629438356)
@@ -933,7 +933,7 @@ Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We heb
 - **Develop 3**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:59ac4213-8d88-4b82-b901-f299c4641b95)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:1b69781e-e197-449b-8c80-3a6cd83a494a)
-## 9 Bronnen
+## 10 Bronnen
 [^1]: Cassano, M., Perry-Parrish, C., Stegall, S., Zeman, J. (April 2006). Emotion Regulation in Children and Adolescents. University of Maine.
 [^2]: Brackett, M., Simmons, D. (oktober 2015). Emotions Matter. Guilford Press.
 [^3]: Kwon, K., Hanrahan, A. R., and Kupzyk, K. A. (2017). Emotional expressivity and emotion regulation: Relation to academic functioning among elementary school children. School Psychol.
