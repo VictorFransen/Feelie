@@ -6,7 +6,7 @@
 5/12/2024
 
 ## Samenvatting
-Leerlingen die net de stap naar het basisonderwijs maken, hebben vaak moeite met het communiceren van hun emoties die nog volop in ontwikkeling zijn. Dit komt doordat ze hun emoties niet kunnen verwoorden of omdat ze bang zijn om deze te uiten. Hierdoor ontstaan soms moeilijke situaties in de klas.
+Leerlingen die net de stap naar het basisonderwijs maken, hebben vaak moeite met het communiceren van hun emoties die nog volop in ontwikkeling zijn. Dit komt doordat ze hun emoties nog niet goed kunnen verwoorden of omdat ze bang zijn om deze te uiten. Hierdoor ontstaan soms moeilijke situaties in de klas.
 Op basis van literatuuronderzoek, interviews, een focusgroep en gebruikerstesten hebben we dit probleem onderzocht. Ons project, Feelie, biedt een laagdrempelige manier om emoties te communiceren via twee fysieke interfaces en een app. Met één druk op de knop kan een leerling zijn emotie doorgeven. De leerkracht kan direct reageren of later alles rustig in de app bekijken.
 De interface staat op de bank van de leerling en bevat zes knoppen die emoties weergeven. Bij een druk op een knop wordt de emotie doorgestuurd naar de interface van de leerkracht en de app. Op de interface van de leerkracht is een overzicht zichtbaar van de emoties in de klas. In de app kan de leerkracht tips, een weekoverzicht en een jaaroverzicht raadplegen. Deze oplossingen zijn ontwikkeld en verfijnd door middel van verschillende bevragingen en gebruikerstesten.
 
@@ -21,16 +21,16 @@ De interface staat op de bank van de leerling en bevat zes knoppen die emoties w
 ## Introductie
 Emoties spelen een belangrijke rol in ons dagelijks leven en hebben de laatste jaren veel aandacht gekregen vanuit de wetenschap.[^1] Bij jonge kinderen zijn deze emoties nog volop in ontwikkeling, waardoor ze vaak nog moeite hebben met het herkennen, communiceren en reguleren ervan. Deze vaardigheden zijn daarentegen wel van cruciaal belang. Ze dragen niet alleen bij tot betere prestaties op school en een goede groepsdynamiek, maar kunnen op lange termijn ook een positieve invloed hebben op het mentaal welzijn en zelfs de gezondheid.[^2][^3]
 
-In dit ontwerpproces werd aan de slag gegaan om leerlingen te ondersteunen bij het ontwikkelen van deze competenties. Dit gebeurt door ze hun emoties te leren benoemen, wat de eerste stap is in emotieregulatie, en ze daarna naar de leerkracht toe te communiceren op een laagdrempelige manier. Op deze manier is de leerkracht op de hoogte van de emoties van de leerlingen en kan die hier eventueel op inspelen zonder al te veel tijd te verliezen. Samengevat werd in dit proces een antwoord gezocht op de vraag: ‘Hoe kunnen emoties van kinderen op een laagdrempelige manier gecommuniceerd worden naar de leerkracht toe in een klascontext?’. Hierbij zijn de belangrijkste randvoorwaarden:
+In dit ontwerpproces werd aan de slag gegaan om leerlingen te ondersteunen bij het ontwikkelen van deze competenties. Dit gebeurt door hen hun emoties te leren benoemen, wat de eerste stap is in emotieregulatie, en ze daarna naar de leerkracht toe te communiceren op een laagdrempelige manier. Op deze manier is de leerkracht op de hoogte van de emoties van de leerlingen en kan hij/ zij hier eventueel op inspelen zonder al te veel tijd te verliezen. Samengevat werd in dit proces een antwoord gezocht op de vraag: ‘Hoe kunnen emoties van kinderen op een laagdrempelige manier gecommuniceerd worden naar de leerkracht toe in een klascontext?’. Hierbij zijn de belangrijkste randvoorwaarden:
 -	Gebruiksvriendelijk
 -	Intuïtief
 -	Tijdsbesparend
 -	Laagdrempelig
 
-In dit ontwerp staat de gebruikers, waarbij de belangrijkste de leerkracht en leerlingen zijn, centraal. Het doel is om een ontwerp te maken dat in de eerste plaats aansluit bij hun behoeften.
+In dit ontwerp staan de gebruikers, waarbij de belangrijkste de leerkracht en de leerlingen zijn, centraal. Het doel is om een ontwerp te maken dat in de eerste plaats aansluit bij hun behoeften.
 
 ## Methodologie
-In de figuur hieronder is een tijdslijn te zien van de stappen en methodologiën die doorlopen zijn tijdens het ontwikkelen van Feelie. 
+In de figuur hieronder is een tijdslijn te zien van de stappen en methodologieën die doorlopen zijn tijdens het ontwikkelen van Feelie. 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/tijdslijn.png" width="100%" />
 </p>
@@ -39,7 +39,7 @@ In de figuur hieronder is een tijdslijn te zien van de stappen en methodologiën
 
 Tijdens de discovery fase werd de opdracht rond 'Empathic wear' onderzocht. Nadat duidelijk werd dat de focus zou liggen op kinderen in de lagere school, werd gestart met een *literatuuronderzoek*. De *5W/H methode* hielp om structuur te brengen in de verzamelde informatie. Vervolgens werd een *stakeholder analyse* uitgevoerd om betrokken partijen in kaart te brengen. Hierop volgde een *focusgroep* met kinderen, waaruit een *persona* werd opgesteld. Daarna volgden er drie *interviews* met leerkrachten, waaruit een *user model* en een *persona* opgesteld werd. Tijdens een 'sprint day' werden een *lotusbloem, innovatrix* gemaakt en aan ideation en selectie gedaan. Hierna konden de eerste *design requirements* opgesteld worden.
 
-**Defenition**
+**Definition**
 
 De definition fase richtte zich op het uitwerken en testen van het concept. Deze fase begon met een tweede sprint day waarin *quick and dirty prototyping* centraal stond. In wave 1 werd gebruik gemaakt van *storyboarding* om vragen en problemen te identificeren, waarna *concepttesten* met *prototypes* volgden. De verkregen feedback leidde tot bijgestelde design requirements. Vervolgens werden in wave 2 nieuwe prototypes ontwikkeld, gebaseerd op eerdere evaluaties. Deze werden opnieuw getest en verder verfijnd waardoor het concept al een goede basis had.
 
@@ -101,7 +101,7 @@ Samengevat kon uit deze literatuurstudie geconcludeerd worden dat het communicer
 Het volledige rapport met de analyse en bronnen is te vinden in de bijlagen.
 
 #### 1.3.2 user interviews (N=3)
-Leerkrachten ervaren dat kinderen moeite hebben met het communiceren van hun emoties. Ze gebruiken verschillende methodes zoals een dagplanning die ze samen overlopen voor structuur en rust, visuele symbolen en emoties te verduidelijken en lassen rustige momenten in voor reflectie en communicatie. Op basis van deze interviews werd een persona voor de leerkrachten opgesteld die te zien is in de figuur hieronder.
+Leerkrachten ervaren dat kinderen moeite hebben met het communiceren van hun emoties. Ze gebruiken verschillende methodes zoals een dagplanning die ze samen overlopen voor structuur en rust, visuele symbolen om emoties te verduidelijken en lassen rustige momenten in voor reflectie en communicatie. Op basis van deze interviews werd een persona voor de leerkrachten opgesteld die te zien is in de figuur hieronder.
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/persona_leerkracht_update.png" width="70%" />
 </p>
@@ -122,14 +122,14 @@ Uit de discovery fase konden volgende conclusies en implicaties voor het ontwerp
 2. Visuele representatie om emoties eenvoudig en intuïtief herkenbaar te maken zonder dat er taal voor nodig is.
 3. Het ontwerp moet kinderen bewust laten nadenken over hun emoties aangezien dit de eerste stap tot zelfregulatie is.
 4. Een monitoringtool voor leerkrachten om emoties van leerlingen te kunnen bijhouden en hier eventueel op in te spelen.
-5. Het ontwerp moet de structuur die in de klas gebruikt worden kunnen ondersteunen.
+5. Het ontwerp moet de structuur die in de klas gebruikt wordt kunnen ondersteunen.
 
 Deze implicaties werden geïmplementeerd in de design requirements.
 ## 2 Definition
 ### 2.1 Doestellingen
 In de eerste fase, discovery, werd het probleem onderzocht en concepten als oplossing bedacht. De tweede fase, definition, heeft als doel deze concepten te valideren en na te gaan of ze een effectieve oplossing bieden.
 
-Na de initiële discovery fase werden eerst nog enkele aanpassingen gedaan aan het toen gedefinieerde concept. Zo werd er een aan de app toegevoegd dat de leerkracht tips kan krijgen over hoe er met emoties kan worden omgegaan bij de leerlingen. Ook werd er ook een extra interface voorzien voor de leerkrachten zodat zij in een oogopslag kunnen zien hoe de leerlingen zich voelen zonder hun GSM te moeten bovenhalen.
+Na de initiële discovery fase werden eerst nog enkele aanpassingen gedaan aan het toen gedefinieerde concept. Zo werd er aan de app toegevoegd dat de leerkracht tips kan krijgen over hoe er met emoties kan worden omgegaan bij de leerlingen. Ook werd er een extra interface voorzien voor de leerkrachten zodat zij in een oogopslag kunnen zien hoe de leerlingen zich voelen zonder hun GSM te moeten bovenhalen.
 
 ### 2.2 Materiaal & methoden
 Om het concept te valideren, werden twee rondes (‘waves’) van gebruikerstesten uitgevoerd met eenvoudige ‘quick and dirty’ prototypes. Feedback hieruit werd gebruikt om het concept verder te verbeteren.
@@ -202,7 +202,7 @@ Een balk met namen van leerlingen en de laatst ingegeven emotie. De balk kan op 
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_leerkrachten2.1.jpg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave1_leerkrachten2.2.jpg?raw=true" width="200" />
 </p>
 
-Bij dit prototype zijn de emoties van elke leerlingen weergegeven volgens de klasopstelling in plaats van namen.
+Bij dit prototype zijn de emoties van elke leerlingen weergegeven volgens de klasopstelling in plaats van op naam.
 
 - Prototype 3
 <p align="center">
@@ -219,7 +219,7 @@ Door met deze drie prototypes te werken werd getest of aan de volgende design re
 
 Om met de app concepttesten te kunnen doen werd een prototype gemaakt met behulp van Powerpoint. De  Powerpoint is te vinden via deze [link](https://ugentbe-my.sharepoint.com/:p:/r/personal/linde_aerssens_ugent_be/Documents/semester%203/project%20gebruiksgericht%20ontwerpen/002_defenition/pwp_test.pptx?d=w1f1832b05cf0445f8539058f8e9dea3d&csf=1&web=1&e=eWel1Q).
 Door dit prototype kon gevalideerd worden of aan de volgende design requirements voldaan werd:
-- 3.1.1: Er is advies beschikbaar over hoe leerkrachten met een bepaalde emoties kunnen omgaan
+- 3.1.1: Er is advies beschikbaar over hoe leerkrachten met een bepaalde emotie kunnen omgaan
 - 3.1.2: De leerkracht kan op een rustig moment bekijken welke emoties de leerlingen ervaarden
 - 3.2.2: Er is een weekoverzicht beschikbaar
 #### 2.2.2 Gebruikerstesten wave 2 (N=5, 2 leerkrachten, 3 leerlingen)
@@ -247,12 +247,12 @@ De geteste en bevraagde prototypes waren:
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_1.jpeg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_2.jpeg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_3.jpeg?raw=true" width="200" /><img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/wave2_4.jpeg?raw=true" width="200" />
 </p>
-Dit prototype voor de leerlingen is bedoeld om zowel op als in de bank gezet te kunnen worden. Zowel tijdelijk als altijd. Daarom is het klepje ook afneembaar. Hierop kan de leerling zijn of haar emotie aanduiden en wordt dit rechtstreeks naar de leerkracht gecommuniceerd.
-Met dit prototype werd getest of aan volgende design requirements die vloeidoen uit de concepttesten van wave 1 voldaan werd:
+Dit prototype voor de leerlingen is bedoeld om zowel op als in de bank gezet te kunnen worden, zowel tijdelijk als blijvend. Daarom is het klepje ook afneembaar. Hierop kan de leerling zijn of haar emotie aanduiden en wordt dit rechtstreeks naar de leerkracht gecommuniceerd.
+Met dit prototype werd getest of aan volgende design requirements die vloeiden uit de concepttesten van wave 1 voldaan werd:
 
 - 1.1.4: De interface is compact
 - 1.1.6: De leerlingen kunnen discreet hun emotie aanduiden
-- 1.8.8: Het prosuct is makkelijk verplaatsbaar
+- 1.8.8: Het product is makkelijk verplaatsbaar
 - 1.1.9: Het product is geschikt voor verschillende schoolbanken
 
 **Interface leerkracht**
@@ -275,7 +275,7 @@ Door dit prototype kon getest worden of aan de volgende design requirements uit 
 
 - 3.2.1: Er is een duidelijke weergave van wie wanneer welke emotie ervaarde
 - 3.2.2: Er is een overzicht per leerling beschikbaar
-- 3.2.4: De leerkrachten kunnen de gegevens tot op een jaar terugkijken
+- 3.2.4: De leerkrachten kunnen de gegevens tot een jaar terugkijken
 
 ### 2.3 Resultaten
 
@@ -299,20 +299,20 @@ Voor meer conclusies en implicaties zie de tabel onder 2.3 en/of de rapporten va
 
 ## 3 Develop 1 (N=17, twee leerkrachten en 15 leerlingen)
 ### 3.1 Vooronderzoek & doelstelling
-Wegens copyright redenen werden de gezichtjes die tot nu toe gebruikt werden veranderd naar de gezichtjes te zien in de figuur hieronder. De vormen en kleuren blijven wel gelijkaardig.
+Door copyright werden de gezichtjes die tot nu toe gebruikt werden veranderd naar de gezichtjes te zien in de figuur hieronder. De vormen en kleuren blijven wel gelijkaardig.
 
   <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/nieuwe_gezichtjes.png" width="500" />
   
 Tijdens de definition fase werd een oplossing, Feelie, bedacht voor het vooropgestelde probleem. Het doel van de deze eerste develop fase is om de oplossing te verfijnen en de ergonomie te optimaliseren.
-Om de belangrijkste design challanges van het product te definiëren werd geburiuk gemaakt van Nir Eyel's Hook model. Uit deze analyse kwamen twee belangrijke ontwerpvraagstukken:
+Om de belangrijkste design challanges van het product te definiëren werd gebruik gemaakt van Nir Eyel's Hook model. Uit deze analyse kwamen twee belangrijke ontwerpvraagstukken:
 - Hoe kan ervoor gezorgd worden dat de leerkracht zo rap mogelijk actie onderneemt wanneer een leerling een bepaalde emotie ervaart? 
 - Hoe kan ervoor gezorgd worden dat de leerlingen het bakje blijven gebruiken? 
 - Wat zijn de prioritaire functies van de app? 
 ### 3.2 Materiaal & methoden
 Het volledige protocol van de eerste develop fase is te vinden via [deze link](https://acrobat.adobe.com/id/urn:aaid:sc:EU:3d8894b3-2fa3-4877-81a5-d52bf8f23af0).
 #### 3.2.1 ESM: bakje leerlingen (N=15)
-De prototypes die getest zullen worden zijn te zien in onderstaande figuur. De breedte van de knopjes is 16 mm, de berekeningen hiervoor zijn [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:3c53a3a8-18cd-45c2-ad40-d8e1163be753) te vinden.
+De prototypes die getest werden zijn te zien in onderstaande figuur. De breedte van de knopjes is 16 mm, de berekeningen hiervoor zijn [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:3c53a3a8-18cd-45c2-ad40-d8e1163be753) te vinden.
 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Prototype%20leerlingen%20develop%201.jpeg" width="500" />
@@ -337,7 +337,7 @@ Deze prototypes zullen gedurende 3 dagen in de klas gezet worden, elke dag bij e
 
 De data gecapteerd tijdens deze drie dagen wordt opgeslagen in het EEPROM geheugen van de Arduino en achteraf uitgelezen.
 
-De prototypes zijn gemaakt met gelasercutte MDF en er wordt gebruik gemaakt van Arduino Nano en bijhrende componenten (LEDs, rilmotoren, knoppen, weerstanden). De schakelingen voor de 3 prototypes zijn de volgende:
+De prototypes zijn gemaakt met gelasercutte MDF en er wordt gebruik gemaakt van Arduino Nano en bijbehorende componenten (LEDs, trilmotoren, knoppen, weerstanden). De schakelingen voor de 3 prototypes zijn de volgende:
 
 **Prototype lampjes:**
 
@@ -367,11 +367,11 @@ Code voor data ophalen: [Code Data](https://github.com/VictorFransen/Feelie/tree
 Voor het volledige protocol zie [link](https://acrobat.adobe.com/id/urn:aaid:sc:EU:a118c31f-9d20-4e50-8656-408384e52897).
 
 #### 3.2.2 Usability test: interface leerkracht + MoSCoW rewiew app (N=2)
-Het prototype dat zal gebruikt tijdens dit onderzoek is te zien in onderstaande figuur.
+Het prototype dat gebruikt werd tijdens dit onderzoek is te zien in onderstaande figuur.
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/foto_prototype_develop1.jpg" width="500" />
 </p>
-Het scherm is op afstand bestuurbaar, waardoor de interface kan aangepast worden alsof de leerling een andere emotie heeft aangeduid. Het prototype bevat een arduino waarmee via Bleutooth een lichtje kan aangezet en een geluidje kan afgespeelt worden. Dit is de gebruikte [code](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_1/arduino_code_leerkracht_develop1). Hieronder is de schakeling te zien.
+Het scherm is op afstand bestuurbaar, waardoor de interface kan aangepast worden alsof de leerling een andere emotie heeft aangeduid. Het prototype bevat een arduino waarmee via Bleutooth een lichtje kan aangezet en een geluidje kan afgespeeld worden. Dit is de gebruikte [code](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_1/arduino_code_leerkracht_develop1). Hieronder is de schakeling te zien.
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/schakeling_leerkracht_develop1.png" width="300" />
 </p>
@@ -385,7 +385,7 @@ Met dit prototype wordt onderzocht hoe snel een leerkracht een emotieverandering
 Tijdens de test zal de tijd gemeten worden die de leerkracht nodig heeft om de verandering op te merken en zal gekeken worden naar gezichtsuitdrukkingen en lichaamstaal. Op deze manier kan onderzocht worden welke verandering het beste werkt. 
 
 Met deze test worden de volgende design requirements verder onderzocht:
- - 2.1.2: 'De interface nodigt uit om frequent te blijven gebruiken' verder onderzocht
+ - 2.1.2: 'De interface nodigt uit om frequent te blijven gebruiken'
 
 Tijdens het tweede deel van de test (MoSCoW review van de app) zal aan de leerkracht gevraagd worden om de verschillende functies van de app te rangschikken in volgorde van belangrijkheid en zal gevraagd worden welke functies eventueel overbodig zijn.
 functies app:
@@ -549,18 +549,18 @@ Gebruik makend van de _System Usability Scale (SUS)_ gaven de leerkrachten hun m
 
 **Overzicht en esthetiek**
 
-Over het algemeen waren de leekrachten een grotere fan van app 1. Het grote overzicht op de startpagina vonden ze beter dan deze van app 2. Ze gaven aan dat deze overzichtelijker was en dat je in één oogopslag alle emoties van de leerlingen kon zien. Eén leerkracht gaf wel aan dat het overzicht per leerling ook een meerwaarde was. Ook de tijd bij deze overzichten kon handig van pas komen. Wat de leerkrachten het vaakste aanhaalde was dat het menu van app 1 beter was dan dat van app 2. Het hamburgermenu van app 2 zorgde voor onnodige stappen tijdens het navigeren doorheen da app. Dit maakte het minder handig in gebruik.
+Over het algemeen waren de leerkrachten een grotere fan van app 1. Het grote overzicht op de startpagina vonden ze beter dan deze van app 2. Ze gaven aan dat deze overzichtelijker was en dat je in één oogopslag alle emoties van de leerlingen kon zien. Eén leerkracht gaf wel aan dat het overzicht per leerling ook een meerwaarde was. Ook de tijd bij deze overzichten kon handig van pas komen. Wat de leerkrachten het vaakst aanhaalden was dat het menu van app 1 beter was dan dat van app 2. Het hamburgermenu van app 2 zorgde voor onnodige stappen tijdens het navigeren doorheen de app. Dit maakte het minder handig in gebruik.
 
-Ook de esthetiek van de app is zeer belangrijk. De leerkrachten geven de voorkeur aan een frisse uitstraling met lichte en frisse kleuren (zoals in app 1). Wel geven de leerkrachten aan dat app 2 meer rust uitstraalt door het gebruik van zachte randen, afgeronde hoeken en het vermeiden van de zwarte kleur.
+Ook de esthetiek van de app is zeer belangrijk. De leerkrachten geven de voorkeur aan een frisse uitstraling met lichte en frisse kleuren (zoals in app 1). Wel geven de leerkrachten aan dat app 2 meer rust uitstraalt door het gebruik van zachte randen, afgeronde hoeken en het vermijden van de zwarte kleur.
 
-#### 4.3.2 conclusies
-Uit zowel de commentaren van de leerkrachten als de SUS is duidelijk af te leiden dat de leerkrachten liever werken met app 1. Echter, uit de clicks en tijd per taak is niet altijd te herleiden dat app 1 ook effectief bij alle leerkrachten sneller werkt. Er zal dus een afweging gemaakt moeten worden tussen elementen uit app 1 en app 2. Over het algemeen navigeren de leerkrachten wel een beetje vlotter door app 1.
+#### 4.3.2 Conclusies
+Uit zowel de commentaren van de leerkrachten als de SUS is duidelijk af te leiden dat de leerkrachten liever werken met app 1. Echter, uit de clicks en tijd per taak valt niet altijd te af te leiden dat app 1 ook effectief bij alle leerkrachten sneller werkt. Er zal dus een afweging gemaakt moeten worden tussen elementen uit app 1 en app 2. Over het algemeen navigeren de leerkrachten wel een beetje vlotter door app 1.
 Beide apps waren handig en de leerkrachten zouden deze ook frequent gebruiken. Er wordt dus bevestigd dat de app een effectieve meerwaarde biedt.
-Wat zeer duidelijk was uit de commentaar van de leerkrachten was dat ze app 1 vooral verkozen wordt boven app 2 omdat het gebruik van een hamburgermenu met weinig menuopties een beetje omslachtig is.
+Wat zeer duidelijk was uit de commentaren van de leerkrachten was dat ze app 1 vooral verkiezen boven app 2 omdat het gebruik van een hamburgermenu met weinig menuopties een beetje omslachtig is.
 Er moet ook gelet worden op het consistente gebruik van vormelementen, zachte randen en frisse kleuren. 
 
 **Implicaties voor het design:**
-- Menu onderaan het scherm om overbodige stappen te vermeiden. (zoals app1, Instagram,…)
+- Menu onderaan het scherm om overbodige stappen te vermijden. (zoals app1, Instagram,…)
 - Overzicht per leerling om een duidelijk overzicht te geven en een weekoverzicht.
 - Frisse kleuren gebruiken om de app aantrekkelijk te maken.
 - Zachte randen en afgeronde hoeken gebruiken voor een rustgevender gevoel.
@@ -571,15 +571,15 @@ Er moet ook gelet worden op het consistente gebruik van vormelementen, zachte ra
 
 ## 5 Develop 3 (N=10, 2 leerkrachten en 8 leerlingen)
 ### 5.1 Vooronderzoek en doelstelling
-In deze laatste develop fase, develop 3, wordt de user experience (UX) op punt gesteld. De afgelopen twee develop fasen is er gefocust op de app en het regelmatig gebruik van de interface. Deze fase zal er gefocust worden op de emoties die de leerlingen en leerkrachten voelen voor tijdens en na het gebruik. Volgende onderzoeksvraag is de overkoepelende vraag voor deze develop fase: “Hoe kan de user experience verbeterd worden?”
+In deze laatste develop fase, develop 3, wordt de user experience (UX) op punt gesteld. In de afgelopen twee develop fasen is er gefocust op de app en het regelmatig gebruik van de interface. In deze fase zal er gefocust worden op de emoties die de leerlingen en leerkrachten voelen voor, tijdens en na het gebruik. Volgende onderzoeksvraag is de overkoepelende vraag voor deze develop fase: “Hoe kan de user experience verbeterd worden?”
 Deze vraag is zeer breed en kan opgedeeld worden in specifiekere onderzoeksvragen voor dit project:
 
 -	Welke micro interacties kunnen toegevoegd worden om de UX te verbeteren?
--	Verbeterd Feelie de les- of schoolervaring van de leerling/leerkracht?
+-	Verbetert Feelie de les- of schoolervaring van de leerling/leerkracht?
 -	Welke emoties lokt het gebruik van Feelie uit bij de leerlingen en leerkrachten?
 -	Voelen de leerlingen zich opgelucht na het aanduiden van een emotie?
 
-Ook zal er bevraagd worden naar het uiteindelijke ontwerp van Feelie. Hierbij worden verschillende visuele aspecten van de interfaces in vraag gesteld. Er zal gepeild worden naar:
+Ook zal er gevraagd worden naar het uiteindelijke ontwerp van Feelie. Hierbij worden verschillende visuele aspecten van de interfaces in vraag gesteld. Er zal gepeild worden naar:
 
 -	Vorm
 -	Kleur
@@ -589,9 +589,9 @@ Ook zal er bevraagd worden naar het uiteindelijke ontwerp van Feelie. Hierbij wo
 -	Textuur
 
 ### 5.2 Materiaal en Methode
-Aan de hand van een 'fly-on-the-wall' observatie zal een nulmeting gedaan worden. Daarna zullen bepaalde leerlingen een interface krijgen, waarbij elke interface een andere vorm van microinteraction heeft. Achteraf zal elke leerling een aantal vragen beantwoorden en een 'self assessment manikin' invullen om na te gaan hoe de leerlingen het gebruik van Feelie ervaarden en welke emoties dit meebracht. De interfaces van de leerlingen zijn verbonden met die van de leerkracht. Ook zij worden acteraf bevraagd en zullen een BERT test invullen.
+Aan de hand van een 'fly-on-the-wall' observatie zal een nulmeting gedaan worden. Daarna zullen bepaalde leerlingen een interface krijgen, waarbij elke interface een andere vorm van microinteraction heeft. Achteraf zal elke leerling een aantal vragen beantwoorden en een 'self assessment manikin' invullen om na te gaan hoe de leerlingen het gebruik van Feelie ervaarden en welke emoties dit meebracht. De interfaces van de leerlingen zijn verbonden met die van de leerkracht. Ook zij worden achteraf bevraagd en zullen een BERT test invullen.
 
-Ook zal aan de hand van een korte bevraging bij leerlingen en leerkracht de finale look van Feelie op punt gesteld worden. De participanten kiezen één van de 4 ontwerpen en mogen deze inkleuren. Aan de hand van een korte bevraging zal ook hier nagegegaan worden wat de negatieve en positieve punten van het ontwerp zijn. Achteraf zal er ook een bord met verschillende materialen voorgelegd worden om ook hier een keuze in te kunnen maken voor het finale ontwerp. Het volledige protocol is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:eu:64148651-f3eb-4ae3-96d8-b0ef31018885) te vinden.
+Ook zal aan de hand van een korte bevraging bij leerlingen en leerkracht de finale look van Feelie op punt gesteld worden. De participanten kiezen één van de 4 ontwerpen en mogen deze inkleuren. Aan de hand van een korte bevraging zal ook hier nagegaan worden wat de negatieve en positieve punten van het ontwerp zijn. Achteraf zal er ook een bord met verschillende materialen voorgelegd worden om ook hier een keuze in te kunnen maken voor het finale ontwerp. Het volledige protocol is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:eu:64148651-f3eb-4ae3-96d8-b0ef31018885) te vinden.
 
 ## Prototypes
 
@@ -610,7 +610,7 @@ Tijdens deze gebruikerstesten wordt ook een soort nulmeting gedaan. Hierbij gaan
 
 - **RGB LED**
   
-  Dit prototype is vergelijkbaar met het eerste prototype. Hier branden de LEDs de kleur van de emotie die ze hebben ingedrukt.
+  Dit prototype is vergelijkbaar met het eerste prototype. Hier branden de LEDs met de kleur van de emotie die ze hebben ingedrukt.
   [code](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_3/Feelie_client_finaal1)
 
 <p align="center">
@@ -621,7 +621,7 @@ Tijdens deze gebruikerstesten wordt ook een soort nulmeting gedaan. Hierbij gaan
 
 - **'ademende' LEDs**
   
-Deze microinteraction bestaat uit LEDs aan de voorkant van het prototype. De LEDs gaan aan en uit volgens een kalm ritme die ademen moet imiteren. Hiermee willen we laten weten aan de gebruiker dat het prototype _'(a)live'_ is en dat ze deze dus kunnen gebruiken. Hiermee wordt geprobeerd interactie te stimuleren en de user experience te vebeteren.
+Deze microinteraction bestaat uit LEDs aan de voorkant van het prototype. De LEDs gaan aan en uit volgens een kalm ritme dat ademen moet imiteren. Hiermee willen we laten weten aan de gebruiker dat het prototype _'(a)live'_ is en dat ze deze dus kunnen gebruiken. Hiermee wordt geprobeerd interactie te stimuleren en de user experience te vebeteren.
 [code](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_3/Feelie_client_finaal3) knopjes, [code]() => link naar code voor ademende leds toevoegen!!!
 
 <p align="center">
@@ -639,18 +639,20 @@ Dit prototype is vergelijkbaar met het prototype met de ademende leds. Bij dit p
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/Develop%202-afstand.jpeg?raw=true" width="500" />
 </p>
 
-De gegevens van deze verschillende bakjes komen toe in de [acces point](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_3/Feelie_AP_finaal). Die dan te zien zijn in de interface van de leekracht zoals hieronder te zien. In de witte vakjes komen de emoties van de leerlingen die bij deze testen een bakje hebben.
+De gegevens van deze verschillende bakjes komen toe in de [acces point](https://github.com/VictorFransen/Feelie/tree/main/Code/Develop_3/Feelie_AP_finaal) die dan te zien zijn in de interface van de leekracht zoals hieronder te zien. In de witte vakjes komen de emoties van de leerlingen die bij deze testen een bakje hebben.
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/interface_leerkracht.png" width="550" />
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/interfaceleerkracht.jpg" width="450" />
 </p>
 
 ### 5.3 Resultaten
-De volledige analyse is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:64148651-f3eb-4ae3-96d8-b0ef31018885) te vinden.
+
+De volledige analyse is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:1b69781e-e197-449b-8c80-3a6cd83a494a) te vinden.
+
 **interface leerlingen**
 - De leerkrachten merkten geen significante veranderingen bij de leerlingen door het gebruik van Feelie. Enerzijds is dit positief, omdat het aangeeft dat Feelie niet afleidt tijdens de les. Anderzijds is het wel de bedoeling dat leerlingen hun emoties beter leren benoemen en sneller hulp vragen, een effect dat hopelijk op langere termijn zichtbaar wordt.
-- De leerlingen waren aanvankelijk nieuwsgierig en wat afgeleid door de bakjes, maar de nieuwigheid verdween snel, waarna ze hun focus weer herwonnen. Zowel kinderen uit het eerste als derde leerjaar konden goed met de bakjes omgaan, inclusief minder taalvaardige leerlingen (een belangrijk deel van de doelgroep).
-- De leerlingen dachten goed na over hun emoties voordat ze een knop indrukten , wat een positief teken is en in lijn ligt met het doel van het ontwerp design requirement 1.1.1). 
+- De leerlingen waren aanvankelijk nieuwsgierig en wat afgeleid door de bakjes, maar de nieuwigheid verdween snel, waarna ze hun focus herwonnen. Zowel kinderen uit het eerste als derde leerjaar konden goed met de bakjes omgaan, inclusief minder taalvaardige leerlingen (een belangrijk deel van de doelgroep).
+- De leerlingen dachten goed na over hun emoties voordat ze een knop indrukten, wat een positief teken is en in lijn ligt met het doel van het ontwerp design requirement 1.1.1. 
 - Tijdens de nabespreking gaven leerlingen aan Feelie leuk en nuttig te vinden. Eén leerling meldde zich opgelucht te voelen na het drukken op de knop ‘verdrietig’. Over het algemeen bevestigde de observatie dat Feelie helpt bij het reflecteren over emoties zonder al te veel afleiding te veroorzaken.
 
 **microinteractions**
@@ -659,7 +661,7 @@ De volledige analyse is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:64148
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/SAM_geeninteractie.png" width="700" />
 </p>
 
-- De leerlingen die van het bakje met de **ademende LEDs** gebruik maakten gaven aan dat ze het leuk vonden dat er lichtjes branden.  De SAM toonde echter aan dat de leerlingen zich minder zelfdstandig voelden zijdens het gebruik. 
+- De leerlingen die van het bakje met de **ademende LEDs** gebruik maakten gaven aan dat ze het leuk vonden dat er lichtjes branden.  De SAM toonde echter aan dat de leerlingen zich minder zelfstandig voelden zijdens het gebruik. 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/SAM_ademendeleds.png" width="700" />
 </p>
@@ -677,21 +679,23 @@ De volledige analyse is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:64148
 
 **interface leerkracht**
 
-- Beide leerkrachten gaven aan dat het gebruik van deze interface voor hun niet belastend is omdat ze voornamelijk op de rustige momenten ernaar keken. Ze zouden dan ook op een rustig moment in gesprek gaan met een leerling indien dat nodig is.
+- Beide leerkrachten gaven aan dat het gebruik van deze interface voor hen niet belastend is omdat ze er voornamelijk op de rustige momenten naar keken. Ze zouden dan ook op een rustig moment in gesprek gaan met een leerling indien dat nodig is.
 - Er werd aangegeven dat de leerkrachten eigenlijk enkel naar de 'niet blije' emoties kijken op het scherm. 
 - Tijdens de observatie viel op dat de leerlingen vaak naar de interface van de leerkracht kijken en kunnen lezen wie welke emotie heeft. Maar dit is eigenlijk niet de bedoeling.
 
-De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk dat de leerkrachten zich over het algemeen positief voelen tijdens het gebruik van Feelie. Ze vinden het ontwerp leesbaar, modern en niet saai. Ze voelden zich daarnaast ook vrolijk en onafhankelijk tijdens het gebruikt. De categorie Best in class/ ordinary scoorde iets minder omdat ze nog niet echt iets hadden om mee te vergelijken. Ook bij de categorie dependent/ independent werd een minder positieve score gegeven. Achteraf bleek dat dit kwam omdat de leerkracht ook graag de app erbij heeft (deze werd niet geïmplementeerd tijdens deze test).
+De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk dat de leerkrachten zich over het algemeen positief voelen tijdens het gebruik van Feelie. Ze vinden het ontwerp leesbaar, modern en niet saai. Ze voelden zich daarnaast ook vrolijk en onafhankelijk tijdens het gebruik. De categorie Best in class/ ordinary scoorde iets minder omdat ze nog niet echt iets hadden om mee te vergelijken. Ook bij de categorie dependent/ independent werd een minder positieve score gegeven. Achteraf bleek dat dit kwam omdat de leerkracht ook graag de app erbij heeft (deze werd niet geïmplementeerd tijdens deze test).
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/BERT.png" width="700" />
 </p>
 
 **materiaal, vorm en kleurkeuze**
 - Kleur
-  De leerkracht gaf aan dat het in een klasomgeving belangrijk is om een neutrale kleur te gebruiken. Bij de leerlingen daarentegen wouden 7/10 paars als kleur. De rest stemde voor blauw of groen. Aangezien        paars eerder gerelateerd wordt met kracht, mysterie zal deze kleur echter niet gebruikt worden. Dit zijn namelijk niet de waarden die met Feelie uitgestraald moeten worden.
+  
+  De leerkracht gaf aan dat het in een klasomgeving belangrijk is om een neutrale kleur te gebruiken. Bij de leerlingen daarentegen wil 7/10 paars als kleur. De rest stemde voor blauw of groen. Aangezien        paars eerder gerelateerd wordt aan kracht en mysterie zal deze kleur echter niet gebruikt worden. Dit zijn namelijk niet de waarden die met Feelie uitgestraald moeten worden.
   De waarden die Feelie dient mee te geven komen eerder overeen met de kleur blauw namelijk betrouwbaar, vrede en stabiliteit of de kleur bruin dat staat voor warmte, comfort en betrouwbaarheid.[^4]
 
 - Vorm
+  
   De leerlingen waren over het algemeen tevreden met het huidige ontwerp van Feelie. De meningen over het ontwerp waren redelijk verdeeld (figuur links). De leerkracht vond de tekst "Hoe voel je je" een leuke      toevoeging, maar stelde voor om het bakje compacter te maken zodat het beter in de bank past.
   Om de kosten laag te houden, wordt gekozen voor een eenvoudige vorm, zoals het ontwerp rechtsboven in de figuur links, maar met afgeronde hoeken, aangezien dit vaker voorkwam in het moodboard (figuur rechts).
   <p align="center">
@@ -700,11 +704,12 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
 </p>
 
 - Materiaal
+  
   De leerlingen kozen allemaal voor het natuurhout omdat het zacht en niet koud aanvoelde. De leerkracht gaf echter aan dat het belangrijk is dat het bakje makkelijk gekuist kan worden en dat de leerlingen er     niet op kunnen schrijven. 
   In het finale ontwerp zal dus gekozen worden voor een eerder zachte kunsstof, zo blijft de prijs laag en kan het makkelijk gereinigd worden.
 
 ### 5.4 Conclusies en implicaties
-- In het finale ontwerp zullen er zowel lichtjes in de kleur van de emotie die aangaan wanneer er geklikt wordt verwerkt worden langs de binnenkant als lichtjes die aangaan wanneer ze dichtbij komen om het gebruik te stimuleren en het bakje ‘levendiger’ te laten lijken.
+- In het finale ontwerp zullen er zowel lichtjes in de kleur van de emotie die aangaan wanneer er geklikt wordt als lichtjes langs de buitenkant die aangaan wanneer ze dichtbij komen om het gebruik te stimuleren en het bakje ‘levendiger’ te laten lijken.
 - Door eerder aangegeven redenen zal het uiteindelijke resultaat uit kunststof bestaan.
 - Het kleurgebruik zal voornamelijk bestaan uit bruin en beige met blauwe accenten.
 - Er zal een simpele vorm aangehouden worden met afgeronde hoeken. Het bakje zal kleiner zijn zodat het makkelijk in de bank past.
@@ -730,17 +735,17 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
 |1.2.2|De interface is toegankelijk voor leerlingen van het 1e tot en met het 3e leerjaar|Interview|14/11/2024|<details><summary>OK</summary><br>Dit werd getest tijdens wave 1 en wave 2 waarbij testen werden gedaan bij leerlingen van het 1e en het 3e leerjaar. Hierbij werd vastgesteld dat zowel de leerlingen van het 1e als die van het 3e leerjaar het concept en gebruik begrepen.</details>|
 |1.3 Gebruiksgemak|
 |1.3.1|De interface is makkelijk te bedienen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Door minimale handelingen met de interface werd in wave 1 en 2 vastgesteld dat de interface makkelijk te gebruiken is.</details>|
-|1.3.2|Er word geen taal gebruikt om emoties te communiceren|Interview|14/11/2024|<details><summary>OK</summary><br>In alle prototypes worden enkel iconen gebruikt om emoties af te beelden. Er wordt geen taal gebruikt.</details>|
+|1.3.2|Er wordt geen taal gebruikt om emoties te communiceren|Interview|14/11/2024|<details><summary>OK</summary><br>In alle prototypes worden enkel iconen gebruikt om emoties af te beelden. Er wordt geen taal gebruikt.</details>|
 |**2 Leerkrachten fysieke interface**|
 |2.1 Algemeen|
 |2.1.1|Het is van de eerste keer duidelijk hoe het product werkt|Concepttesten wave 1|30/11/2024|<details><summary>OK</summary><br>Tijdens de develop 1 en develop 3 fase werd bevesitgd door de leerkrachten maar ook door de observatie dat ze geen moeite hadden met het lezen van deze interface.</details>|
 |2.1.2|De interface nodigt uit om het frequent te blijven gebruiken|Focusgroep|14/11/2024|<details><summary>OK</summary><br>Dit werd geïmplementeerd in develop 1. Hieruit bleek dat de verandering van kleur bij een emotie genoeg de aandacht van de leerkracht trekt.</details>|
 |2.1.3|De interface kan (makkelijk) verplaatst worden|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br>Dit wordt geïmplementeerd in alle prototypes (wave 1 en wave 2) door ze compact en draadloos te houden.</details>|
 |2.1.4|Aanpasbaar aan de hoeveelheid leerlingen|Literatuuronderzoek|14/11/2024|<details><summary>OK</summary><br>Wordt geïmplementeerd in prototypes 1 en 3 van wave 1 door extra stukken toe te voegen aan de interface en in het prototype van wave 2 door te werken met een scherm waar verschaald kan worden om zo meer of minder leerlingen af te beelden.</details>|
-|2.1.5|De interface leid de leerlingen niet af|Develop 1|25/03/2025|<details><summary>OK</summary><br>Werd verder onderzocht in develop 3 maar nog geen definitief besluit</details>|
+|2.1.5|De interface leidt de leerlingen niet af|Develop 1|25/03/2025|<details><summary>OK</summary><br>Werd verder onderzocht in develop 3 maar nog geen definitief besluit</details>|
 |2.2 Visualisatie|
 |2.2.1|De leerkracht kan snel zien welke emoties de kinderen ervaren|Interview|14/11/2024|<details><summary>OK</summary><br> Wordt geïmplementeerd in prototype 2 van wave 1 en het prototype van wave 2 door een overzichtelijk overzicht te geven met namen. Later werd in develop 3 bevestigd dat het voor de leerkrachten zeer makkelijk is om op het prototype van deze fase de emoties van de leerlingen af te lezen.</details>|
-|2.2.2|De leerkrachten kunnen op hun gemak bekijken welke emoties de kinderen de afgelope tijd ervaarden|Interview|14/11/2024|OK|
+|2.2.2|De leerkrachten kunnen op hun gemak bekijken welke emoties de kinderen de afgelopen tijd ervaarden|Interview|14/11/2024|OK|
 |**3 Leerkrachten app**|
 |3.1 Algemeen|
 |3.1.1|Er is advies beschikbaar over hoe de leerkrachten met een bepaalde emotie kunnen omgaan|Literatuuronderzoek|14/11/2024|<details><summary>In progress</summary><br>Dit was aanwezig in de apps van de define en develop 2 fase. De tips zouden wel nog moeten uitgewerkt worden door een specialist.</details>|
@@ -750,9 +755,9 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
 |3.2.1|Duidelijke weergave van wie wanneer welke emotie ervaarde|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een dropdown te voorzien die laat zien op welke tijden van de dag de leerling een bepaalde emotie aanduidde. In develop 2 werd dit verder uitgewerkt.</details>|
 |3.2.2|Er is een overzicht per leerling|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een overzicht per leerling toe te voegen aan de app en is aanwezig in de finale versie.</details>|
 |3.2.3|Er is een weekoverzicht beschikbaar|Interview|14/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door een weekoverzicht toe te voegen aan de app.</details>|
-|3.2.4|De leerkrachten kunnen de gegevens tot op een jaar terugkijken|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door de mogelijkheid te geven om gegevens van het jaar op te vragen in de app.</details>|
+|3.2.4|De leerkrachten kunnen de gegevens tot een jaar terugkijken|Concepttesten wave 1|28/11/2024|<details><summary>OK</summary><br> Dit werd geïmplementeerd in wave 2 door de mogelijkheid te geven om gegevens van het jaar op te vragen in de app.</details>|
 ## 5 Technische beschrijving
-### Gebruikt semester 1:
+### Gebruikt Semester 1:
 - karton
 - papier
 - Powerpoint
@@ -786,10 +791,10 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
  
 **Develop 3**
 - Interface leerlingen:
-  - Arduino NANO IOT 33 -> om connectie te kunnen maken met andere arduinos en met protopie
+  - Arduino NANO IOT 33 -> om connectie te kunnen maken met andere arduinos en met Protopie
   - [Drukknoppen](https://www.amazon.com.be/-/en/gp/product/B09MBQSM44/ref=ox_sc_rp_title_rp_1?smid=&pf_rd_p=b55bbefb-5c9d-4b5d-a5fe-64db492837ac&pd_rd_wg=o51W5&pd_rd_i=B09MBQSM44&pd_rd_w=NQzDL&content-id=amzn1.sym.b55bbefb-5c9d-4b5d-a5fe-64db492837ac&pd_rd_r=DSDC5RVTKADAYFY6SFTN&th=1) -> emotie aanduiden
   - PLA + 3Dprinter -> hoeken en opzetstukken van knoppen printen
-  - Gelasercutte MDF -> behuizng
+  - Gelasercutte MDF -> behuizing
   - Verf -> kleur geven aan prototype en knoppen
   - Battery pack -> draadloos poweren van prototype
   - Ultrasone sensor -> afstand meten voor activeren microinteraction
@@ -804,35 +809,35 @@ De resultaten van de BERT test zijn hieronder te vinden. Hieruit wordt duidelijk
 ## 6 Kritische reflectie
 Na een jaar te hebben gewerkt aan Feelie, zijn er zaken die ons zijn opgevallen en bijgebleven die we in de toekomst anders zouden doen of juist niet anders zouden doen.
 
-Uit interviews en gebruikerstesten werd al snel duidelijk dat het onderwerp en doel van dit project zeer relevant zijn. Door het lerarentekort worden klassen steeds groter en krijgen leerkrachten een hoge werklast. Een tool om deze werklast te verlagen was dus welgekomen. 
+Uit interviews en gebruikerstesten werd al snel duidelijk dat het onderwerp en doel van dit project zeer relevant is. Door het lerarentekort worden klassen steeds groter en krijgen leerkrachten een hoge werklast. Een tool om deze werklast te verlagen was dus welgekomen. 
 
 Naar ons gevoel hebben we doorheen het jaar dit project goed aangepakt. We hadden voor onszelf een planning opgesteld en ons ook effectief aan de planning gehouden. Ook het werk werd steeds gelijk verdeeld waardoor niemand opmerkelijk meer werk moest doen dan de andere.
 
-In het eerste semester hadden we bij het uitvoeren van de gebruikerstesten geen visuele data voorzien, wat jammer was. In het tweede semester hebben we hierop ingespeeld door foto- en videomateriaal vast te laggen, wat zeker een meerwaarde bood. 
+In het eerste semester hadden we bij het uitvoeren van de gebruikerstesten geen visuele data voorzien, wat jammer was. In het tweede semester hebben we hierop ingespeeld door foto- en videomateriaal vast te leggen, wat zeker een meerwaarde bood. 
 
-Ook moet er zeker kritisch gekeken worden naar de resultaten uit de gebruikerstesten van de leerlingen uit het eerste leerjaar (defenition, wave 1 en develop 3). Wat tijdens deze testen opviel was dat de leerlingen moeilijk vanzelf antwoorden gaven en dat we ze in een bepaalde richting moesten sturen om te antwoorden. Hierdoor kwamen vaak de antwoorden naar boven die wij aanhaalden en die zij dan als ‘juist’ opvatten.
+Ook moet er zeker kritisch gekeken worden naar de resultaten uit de gebruikerstesten van de leerlingen uit het eerste leerjaar (definition, wave 1 en develop 3). Wat tijdens deze testen opviel was dat de leerlingen moeilijk vanzelf antwoorden gaven en dat we ze in een bepaalde richting moesten sturen om te antwoorden. Hierdoor kwamen vaak de antwoorden naar boven die wij aanhaalden en die zij dan als ‘juist’ opvatten.
 
-Wat wel een goede zaak was, is dat we hebben afgewisseld tussen twee scholen voor de gebruikerstesten. Het was zeer duidelijk dat er nog een groot verschil zat in doelpubliek van de beide scholen. De ene school was redelijk kleinschalig en had bijna uitsluitend autochtone leerlingen. In tegenstelling tot de andere, die veel groter was en een grotere mix van nationaliteiten en culturen had. Dit heeft ook voor interessante inzichten gezorgd.
+Wat wel een goede zaak was, is dat we hebben afgewisseld tussen twee scholen voor de gebruikerstesten. Het was zeer duidelijk dat er een groot verschil zat in het publiek van beide scholen. De ene school was redelijk klein en had bijna uitsluitend autochtone leerlingen in tegenstelling tot de andere, die veel groter was en een grotere mix van nationaliteiten en culturen had. Dit heeft voor interessante inzichten gezorgd.
 
-Wat ons wel jammer lijkt, is dat we geen echte lampjes, schermpjes of echte knopjes hebben geïntegreerd in onze prototypes. Hiermee konden we het concept misschien meer verduidelijken voor de leerlingen. De leerkrachten konden vaak wel een goed idee scheppen over het concept. Dit was soms nog moeilijk voor de leerlingen, zeker voor die van het 1e leerjaar.
-In het tweede semester hebben we dit wel kunnen doen, wat vooral voor de leerlingen was dit een grote meerwaarde.
+Wat ons wel jammer lijkt, is dat we geen echte lampjes, schermpjes of echte knopjes hebben geïntegreerd in onze prototypes. Hiermee konden we het concept misschien meer verduidelijken voor de leerlingen. De leerkrachten konden zich vaak wel een goed idee vormen over het concept. Dit was soms nog moeilijk voor de leerlingen, zeker voor die van het 1e leerjaar.
+In het tweede semester hebben we dit wel kunnen doen, wat vooral voor de leerlingen een grote meerwaarde was.
 
 Mocht Feelie op de markt worden gebracht, dan moeten er belangrijke juridische aspecten in rekening worden genomen. Aangezien Feelie emoties van leerlingen registreert over een langere periode, zal waarschijnlijk toestemming van ouders nodig zijn. Daarnaast moet grondig worden onderzocht hoe de data zou moeten worden opgeslagen in overeenstemming met de GDPR-richtlijnen.
 
-De keuze van de batterij is cruciaal, het bakje moet namelijk zo lang mogelijk meegaan. Verder is een modulair ontwerp met duurzamen material een meerwaarde, zodat Feelie eenvoudig kan worden gerepareerd en de ecologische impact minimaal blijft.
+De keuze van de batterij is cruciaal, het bakje moet namelijk zo lang mogelijk meegaan. Verder is een modulair ontwerp met duurzamene materialen een meerwaarde, zodat Feelie eenvoudig kan worden gerepareerd en de ecologische impact minimaal blijft.
 
-De grootste vraag die momenteel nog open staat betreft de uitwerking van de interface van de leerkracht. Tijdens de laatste develop fase werd duidelijk dat de leerkrachten vooral op rustige momenten in de app zouden kijken naar de emoties van de leerlingen. Daarnaast keken niet enkel de leerkrachten maar ook de leerlingen naar de interface wat niet de bedoeling is (design requirement 1.1.6). Op dit moment is het nog niet zeker of de interface van de leerkracht dus weldegelijk een meerwaarde biedt. Zonder zijn er wel geen triggers aanwezig om de emoties regelmatig eens te bekijken. 
+De grootste vraag die momenteel nog open staat betreft de uitwerking van de interface van de leerkracht. Tijdens de laatste develop fase werd duidelijk dat de leerkrachten vooral op rustige momenten in de app zouden kijken naar de emoties van de leerlingen. Daarnaast keken niet enkel de leerkrachten maar ook de leerlingen naar de interface wat niet de bedoeling is (design requirement 1.1.6). Op dit moment is het nog niet zeker of de interface van de leerkracht dus weldegelijk een meerwaarde biedt. Anderzijds zijn er zonder interface geen triggers aanwezig om de emoties regelmatig te bekijken. 
 Als we dan toch zouden kiezen om de interface van de leerkracht bij het ontwerp te laten is de vraag of de namen van de leerlingen onder de emoties moeten staan of niet. Als de namen eronder staan kunnen andere leerlingen namelijk lezen wie welke emotie heeft maar als ze er niet onderstaan is de interface voor de leerkracht minder duidelijk. Design requirements 2.1.5 en 2.2.1 spreken elkaar eigenlijk tegen. 
 We wouden hieromtrent geen concrete beslissingen maken omdat deze niet meer gevalideerd kunnen worden met de leerkrachten.
 
-Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We hebben ook veel bijgeleerd en zijn blij dat zowel de leerkrachten als leerlingen heel enthousiast reageren en aangeven dat het project een effectieve meerwaarde kan vormen in de klas.
+Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We hebben ook veel bijgeleerd en zijn blij dat zowel de leerkrachten als de leerlingen heel enthousiast reageren en aangeven dat het project een effectieve meerwaarde kan vormen in de klas.
 
 ## Bijlagen
 ### Discovery
 - **Literatuuronderzoek**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:c845fe7f-24a4-4b6a-a0fe-1af629438356)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:cd1d0bf1-15b4-4a6f-bd34-006992754987)
-- **interview**
+- **Interview**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:4b6db281-ad43-4667-8b5c-be15bfe0595c)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:fff1cd1f-7df0-4306-a81d-5dae30df3dcd)
 - **Focusgroep**
@@ -857,7 +862,7 @@ Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We heb
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f622fa05-ea8e-42d4-928a-e0e3f7c42d79)
 - **Develop 3**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:59ac4213-8d88-4b82-b901-f299c4641b95)
-  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:eu:64148651-f3eb-4ae3-96d8-b0ef31018885)
+  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:1b69781e-e197-449b-8c80-3a6cd83a494a)
 ## 5 Bronnen
 [^1]: Cassano, M., Perry-Parrish, C., Stegall, S., Zeman, J. (April 2006). Emotion Regulation in Children and Adolescents. University of Maine.
 [^2]: Brackett, M., Simmons, D. (oktober 2015). Emotions Matter. Guilford Press.
