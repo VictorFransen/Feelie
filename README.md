@@ -15,8 +15,9 @@ De interface staat op de bank van de leerling en bevat zes knoppen die emoties w
 </p>
 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/render%20bakje%20lln%204.jpg?raw=true" width="450" />
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/interface%20lrk%20render%202.jpg?raw=true" width="495" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/render%20bakje%20lln%204.jpg?raw=true" width="386" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/interface%20lrk%20render%202.jpg?raw=true" width="425" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/finale_app1.png" width="145" />
 </p>
 
 ## Introductie
@@ -753,37 +754,43 @@ Tijdens het tweede semester heeft de studenten van kennismaatschappij & ICT feed
 
 ## 6 Conclusie
 
-Het finale product is tot stand gekomen na twee semesters intensief werk. Tijdens deze maanden zijn verschillende fases onderzoek, gebruikerstesten, ontwerpen en uitwerking doorlopen, met als doel aan de wensen van de voorziene gebruikers te voldoen. Het resultaat hiervan is een (zo goed als) uitgewerkt eindproduct. Het eindproduct bestaat uit drie onderdelen:
+Het finale product is tot stand gekomen na twee semesters intensief werk. Tijdens deze maanden zijn verschillende fases onderzoek, gebruikerstesten, ontwerpen en uitwerkingen doorlopen, met als doel aan de wensen van de voorziene gebruikers te voldoen. Het resultaat hiervan is een (zo goed als) uitgewerkt eindproduct. Het eindproduct bestaat uit drie onderdelen:
 
 ### Leerling
-Misschien wel het belangrijkste onderdeel van Feelie is de interface van de leerling. Aan de hand van deze interface kan de leerling tijdens de les op een laagdrempelige en veilige mannier zijn,haar of hun emoties communiceren zonder hiervoor de leerkracht aan te spreken of uit de stoel op te staan. Het originele idee van Feelie was dat elke leerling in de klas zo'n interface voor zich kreeg staan. Dit wordt nu opengelaten en ligt in de handen van de leerkracht. De leerkrachten die deelnamen aan de interviews en gebruikerstesten gaven vaak aan dat ze dit misschien enkel zouden gebruiken voor de leerlingen die moeite hebben met de taal of met hun emoties te uitten. Alhoewel dit ook zeker kan, is Feelie ontworpen met het doel om iedereen in de klas een mannier te geven om hun emotie te kunnen uiten. Ook oor zij die misschien minder moeite hebben met de taal of hun emoteis.
+Misschien wel het belangrijkste onderdeel van Feelie is de interface van de leerling. Aan de hand van deze interface kan de leerling tijdens de les op een laagdrempelige en veilige mannier zijn,haar of hun emoties communiceren zonder hiervoor de leerkracht aan te spreken of uit de stoel op te staan. Het originele idee van Feelie was dat elke leerling in de klas zo'n interface voor zich kreeg staan. Dit wordt nu opengelaten en ligt in de handen van de leerkracht. De leerkrachten die deelnamen aan de interviews en gebruikerstesten gaven vaak aan dat ze dit misschien enkel zouden gebruiken voor de leerlingen die moeite hebben met de taal of met hun emoties te uiten. Alhoewel dit ook zeker kan, is Feelie ontworpen met het doel om iedereen in de klas een mannier te geven om hun emotie te kunnen uiten. Ook voor zij die misschien minder moeite hebben met de taal of hun emoteis.
 
-De interface bestaat uit 6 knoppen, lampjes aan de binnen- en buitenkant van het bakje. De 6 knoppen op de interface geven allemaal een andere emotie en kleur weer. Bij het indrukken van een van deze knoppen zal de emotie op die op de knop wordt vertoond naar de leerkracht worden doorgestuurd. Wanneer één van de knoppen wordt ingedrukt zullen de lampjes binnenin aangaan met de kleur van de emotie die wordt ingedrukt. Hiermee wordt aan de leerling op een niet-storende manier aangegeven dat er iets is doorgestuurd naar de leerkracht. Door de kleur van de lampjes ziet de leerling nog eens welke emotie er werd aangeduid. De lampjes aan de buiten-/onderkant van het bakje gaan aan als de leerling dicht in de buurt komt met zijn of haar hand. Hiermee wordt de leerling gestimuleerd en lijkt het alsof het bakje 'leeft'. Door ook braille en reliëf toe te voegen aan de interface is het de bedoeling dat het ook geschikt is voor blinden en slechtziende. Door de toevoeging van een dekseltje op de interface wordt ervoor gezorgd dat de privacy van de leerling beschermd wordt en dat de leerling minder wordt afgeleid tijdens de les. De stroomvoorziening van deze interfaces wordt gedaan aan de hand van batterijen. Hierdoor blijft de interface mobiel. De bruine/beige kleur zorgt voor rust en zorgt ervoor dat de interface goed in de klas opgaat zonder te veel aandacht te trekken.
+De interface bestaat uit 6 knoppen en lampjes aan de binnen- en buitenkant van het bakje. De 6 knoppen op de interface geven allemaal een andere emotie en kleur weer. Bij het indrukken van een van deze knoppen zal die emotie naar de leerkracht worden doorgestuurd. Wanneer één van de knoppen wordt ingedrukt zullen de lampjes binnenin aangaan met de kleur van de emotie die wordt ingedrukt. Hiermee wordt aan de leerling op een niet-storende manier aangegeven dat er iets is doorgestuurd naar de leerkracht. Door de kleur van de lampjes ziet de leerling nog eens welke emotie er werd aangeduid. De lampjes aan de buiten-/onderkant van het bakje gaan aan als de leerling dicht in de buurt komt met zijn of haar hand. Hiermee wordt de leerling gestimuleerd en lijkt het alsof het bakje 'leeft'. Door ook braille en reliëf toe te voegen aan de interface is het de bedoeling dat het ook geschikt is voor blinden en slechtzienden. Door de toevoeging van een dekseltje op de interface wordt ervoor gezorgd dat de privacy van de leerling beschermd wordt en dat de leerling minder wordt afgeleid tijdens de les. De stroomvoorziening van deze interfaces wordt gedaan aan de hand van batterijen. Hierdoor blijft de interface mobiel. De bruine/beige kleur zorgt voor rust en zorgt ervoor dat de interface goed in de klas opgaat zonder te veel aandacht te trekken.
 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/render%20bakje%20lln%204.jpg?raw=true" width="600" />
 </p>
 
 ### Leerkracht
-Naast een interface voor de leerlingen is er ook een interface voor de leerkracht. De emoties die de leerlingen aanduiden op hun bakje wordt dirct naar deze interface doorgestuurd worden. Dezen worden dan afgebeeld op een scherm. Op dit scherm worden enkel de emoties vertoond va de leerlingen die niet blij zijn. Hierdoor blijft het schrm overzichtelijk.Omdat ook deze interface mobiel moet zijn, wordt hier de stroomvoorziening gedaan aan de hand van batterijen.
+Naast een interface voor de leerlingen is er ook een interface voor de leerkracht. De emoties die de leerlingen aanduiden op hun bakje wordt dirct naar deze interface doorgestuurd worden. Dezen worden dan afgebeeld op een scherm. Op dit scherm worden enkel de emoties vertoond van de leerlingen die niet blij zijn. Hierdoor blijft het scherm overzichtelijk. Om ervoor te zorgen dat de leerlingen niet afgeleid zouden raken door deze interface kan die gelijk waar geplaatst of opgehangen worden.
+
+Rond deze interface is nog een openstaande vraag. Tijdens de laatste develop fase werd duidelijk dat de leerkrachten vooral op rustige momenten in de app zouden kijken naar de emoties van de leerlingen. Daarnaast keken niet enkel de leerkrachten maar ook de leerlingen naar de interface wat niet de bedoeling is (design requirement 1.1.6). Op dit moment is het nog niet zeker of de interface van de leerkracht dus weldegelijk een meerwaarde biedt. Anderzijds zijn er zonder interface geen triggers aanwezig om de emoties regelmatig te bekijken. 
+Als we dan toch zouden kiezen om de interface van de leerkracht bij het ontwerp te laten is de vraag of de namen van de leerlingen onder de emoties moeten staan of niet. Als de namen eronder staan kunnen andere leerlingen namelijk lezen wie welke emotie heeft maar als ze er niet onderstaan is de interface voor de leerkracht minder duidelijk. Design requirements 2.1.5 en 2.2.1 spreken elkaar hierin tegen. 
+We wouden hieromtrent geen concrete beslissingen maken omdat deze niet meer gevalideerd kunnen worden met de leerkrachten.
+Omdat ook deze interface mobiel moet zijn, wordt hier de stroomvoorziening gedaan aan de hand van batterijen.
 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/interface%20lrk%20render%202.jpg?raw=true" width="645" />
 </p>
 
-### App
-Tesamen met twee interfaces is er ook nog een app. In deze app kan deleerkracht een dag-, week- en jaaroverzicht bekijken of downloaden. De app dient als onderstoening en dient gebruikt te worden op rustige momenten. Hierdoor kunnen leerkrachten een gedetailleerd overzicht krijgen van de ervaren emoties. Ook biedt de app tips & tricks voor de leerkracht om te helpen omgaan met bepaalde emoties van leerlingen. Ook vindt de gebruiker de instellingen van de interfaces in deze app.
+### App [link](https://www.figma.com/proto/wEshOaTTDDkKxwav1qaNoc/App-defenition-2?node-id=267-562&starting-point-node-id=38%3A456&t=UMYGxRW09KrBSyWj-1)
+Naast de interface voor de leerkracht is er ook nog een app. In deze app kan de leerkracht een dag-, week- en jaaroverzicht bekijken of downloaden. De app dient als onderstoening en dient gebruikt te worden op rustige momenten. Hierdoor kunnen leerkrachten een gedetailleerd overzicht krijgen van de ervaren emoties. Ook biedt de app tips & tricks voor de leerkracht om te helpen omgaan met bepaalde emoties van leerlingen. Ook vindt de gebruiker de instellingen van de interfaces in deze app. De app zal meldingen zoals 'Lisa is al drie dagen verdrietig', 'Een groot deel van de klas heeft vandaag stress',... om een externe trigger voor de leerkracht te voorzien.
 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/App1_weekoverzicht.png" width="150" />
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app1_2.png" width="150" />
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app1_3.png" width="150" />
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app1_4.png" width="150" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/finale_app1.png" width="175" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/finale_app3.png" width="175" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/finale_app4.png" width="175" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/finale_app2.png" width="175" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/meldingen.png" width="170" />
 </p>
 
 ### Design requirements
 
-Doorheen twee semesters van onderzoek en gebruikerstesten zijn een hoop ontwerpcriteria opgesteld om te met als doel te voldoen aan de wensen van de gebruikers. Een lijst van deze criteria staat hieronder:
+Doorheen deze twee semesters van onderzoek en gebruikerstesten zijn een hoop ontwerpcriteria opgesteld met als doel te voldoen aan de wensen van de gebruikers. Een lijst van deze criteria staat hieronder:
 
 |Nummer|Criteria|Bron|Datum|Toestand + Toepassing|
 |---|---|---|---|---|
@@ -892,10 +899,6 @@ Wat wel een goede zaak was, is dat we hebben afgewisseld tussen twee scholen voo
 Jammer genoeg gebruikten we aanvankelijk geen echte lampjes, schermpjes of knopjes in onze prototypes. Hiermee konden we het concept misschien meer verduidelijken voor de leerlingen. De leerkrachten konden zich vaak wel een goed idee vormen over het concept. In het tweede semester deden we dat wel, wat vooral voor jonge leerlingen het begrip vergemakkelijkte.
 
 Bij marktintroductie moeten juridische aspecten goed overwogen worden, zoals ouderlijke toestemming en GDPR-conforme dataopslag, aangezien Feelie emoties over langere tijd registreert. De keuze van batterij is cruciaal omdat het zo lang mogelijk moet meegaan voor duurzaamheid, net als een modulair ontwerp met herbruikbare materialen.
-
-Een openstaande vraag is de leerkrachteninterface. Tijdens de laatste develop fase werd duidelijk dat de leerkrachten vooral op rustige momenten in de app zouden kijken naar de emoties van de leerlingen. Daarnaast keken niet enkel de leerkrachten maar ook de leerlingen naar de interface wat niet de bedoeling is (design requirement 1.1.6). Op dit moment is het nog niet zeker of de interface van de leerkracht dus weldegelijk een meerwaarde biedt. Anderzijds zijn er zonder interface geen triggers aanwezig om de emoties regelmatig te bekijken. 
-Als we dan toch zouden kiezen om de interface van de leerkracht bij het ontwerp te laten is de vraag of de namen van de leerlingen onder de emoties moeten staan of niet. Als de namen eronder staan kunnen andere leerlingen namelijk lezen wie welke emotie heeft maar als ze er niet onderstaan is de interface voor de leerkracht minder duidelijk. Design requirements 2.1.5 en 2.2.1 spreken elkaar hierin tegen. 
-We wouden hieromtrent geen concrete beslissingen maken omdat deze niet meer gevalideerd kunnen worden met de leerkrachten.
 
 Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We hebben ook veel bijgeleerd en zijn blij dat zowel de leerkrachten als de leerlingen heel enthousiast reageren en aangeven dat het project een effectieve meerwaarde kan vormen in de klas.
 
