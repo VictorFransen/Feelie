@@ -722,7 +722,7 @@ Tijdens het tweede semester heeft de studenten van kennismaatschappij & ICT feed
 
 - **Sociaal**
   - _Rekening houden met minderheidsgroepen (blinden/slechtzienden, neurodivergente kinderen, kinderen met 'flat affect')_
-    Het doel van Feelie is om zo toegankelijk mogelijk te zijn voor iedereen. Echter, waren dit zaken waar nog niet concreet rekening mee werd gehouden. Omdat dit zeker een terechte opmerking was was het doel wel om hiermee aan de slag te gaan, maar aangezien deze feedback aan het einde
+    - Het doel van Feelie is om zo toegankelijk mogelijk te zijn voor iedereen. Echter, waren dit zaken waar nog niet concreet rekening mee werd gehouden. Omdat dit zeker een terechte opmerking was was het doel wel om hiermee aan de slag te gaan, maar aangezien deze feedback aan het einde
     van semester twee kwam was dit nog moeilijk te realiseren. Toch is er in het finale ontwerp van feelie relief en braille toegevoegd, om ook blinden en slechtziende te faciliteren.
     
   - _Niet te afleidend maken_
