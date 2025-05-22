@@ -741,15 +741,15 @@ Tijdens het tweede semester hebben de studenten van kennismaatschappij & ICT fee
 
 - **Politiek**
   - _Ga na of Feelie erkend kan worden binnen bestaande onderwijs- en/of welzijnsprogramma's._
-    - Met deze feedback is zeer weinig gedaan. Aangezien er een gevoel was dat dit buiten het kader van dit vak/project valt. Dit zou wel zeker interessnat zijn moest er een visie zijn om Feelie op de markt te brengen. Hiermee wordt geloofwaardigheid en vertouwen versterkt en kan dit deuren openen voor subsidies of financiele steun van overheidsinstanties.
+    - Met deze feedback is zeer weinig gedaan. Aangezien er een gevoel was dat dit buiten het kader van dit vak/project valt. Dit zou zeker interessnat zijn moest er een visie zijn om Feelie op de markt te brengen. Hiermee wordt geloofwaardigheid en vertouwen versterkt en kan dit deuren openen voor subsidies of financiele steun van overheidsinstanties.
    
 - **Ecologisch**
   - _Waar worden deze toestellen geproduceerd, wat gebeurt er als ze kapot zijn?_
-    - Aangzeien er enkel met prototypes zijn gewerkt, was het niet altijd gemakkelijk om deze zo milieuvriendelijk te maken. Als de visie er is om Feelie op de markt te brengen zijn dit zeker zaken waar naar gekeken moet worden. Omdat dit stadium van productie nog niet bereikt is is hier tot nu ook nog niet veel rekening mee gehouden.
+    - Aangzeien er enkel met prototypes is gewerkt, was het niet altijd gemakkelijk om deze zo milieuvriendelijk mogelijk te maken. Als de visie er is om Feelie op de markt te brengen zijn dit zeker zaken waar naar gekeken moet worden. Omdat het stadium van productie nog niet bereikt is, is hier tot nu ook nog niet veel rekening mee gehouden.
 
 - **Wetgeving**
   - _Welke en hoeveel data mag er wttelijk opgeslagen worden?_
-    - Ook dit is een onderwerp dat een beetje over het hoofd werd gezien doorheen het project. Bij elke gebruikerstest en interview dat werd afgelegd werd een infomed consent getekend dat toestemming gaf om data te verwerken in ons onderzoek. Als Feelie ooit op de markt zou komen is dit wel een belangrijk onderwerp om meer onderzoek over te doen. Aangezien die visie er momenteel niet is en ook niet dicht bij dit stadium is, is ook dit iets waar nog niet direct rekening mee werd gehouden in dit onderzoek.
+    - Ook dit is een onderwerp dat een beetje over het hoofd werd gezien doorheen het project. Bij elke gebruikerstest en interview dat werd afgelegd werd een infomed consent getekend dat toestemming gaf om data te verwerken in ons onderzoek. Als Feelie ooit op de markt zou komen is dit wel een belangrijk onderwerp om meer onderzoek over te doen. Aangezien die visie er momenteel niet is, is ook dit iets waar nog niet direct rekening mee werd gehouden tijdens dit project.
   
 
 ## 6 Conclusie
