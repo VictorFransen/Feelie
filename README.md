@@ -478,6 +478,7 @@ Tijdens dit onderzoek zal gefocust worden op volgende zaken:
 - Efficiëntie
 - Leerbaarheid
 - Herinnerbaarheid
+
 Effectiviteit en leerbaarheid zijn hierbij de belangrijkste aangezien leerkrachten vaak beperkt zijn in tijd.
 ### 4.2 Materiaal & methoden
 Om een antwoord te vinden op de vragen zal een vergelijkende usability test uitgevoerd worden. Hierbij zullen 2 apps gemaakt worden met dezelfde inhoud maar met een andere indeling.  De 2 apps worden vervolgens aan 5 leerkrachten voorgesteld. Hierbij zal een context gespecifieerd en taken gegeven worden. Terwijl de taken worden uitgevoerd zal een schermopname gemaakt worden en notities worden genomen. Hiermee wordt volgende date gecapteerd:
