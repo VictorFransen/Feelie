@@ -492,6 +492,7 @@ Om een antwoord te vinden op de vragen zal een vergelijkende usability test uitg
 -	Commentaren leerkrachten
 -	Gezichtsuitdrukkingen/ lichaamsexpressie leerkracht
 -	Moeilijkheden
+  
 Achteraf zal voor elke app gevraagd worden om een SUS (system usability scale) in te vullen. Daarna volgt nog een korte nabespreking. De volledige discussiegids, contexten, taken en bijlagen zijn te vinden in [dit protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:6c1cd126-1186-45f6-988a-8b8abc4c5aa8).
 
 
