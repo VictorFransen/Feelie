@@ -34,7 +34,7 @@ In dit ontwerp staan de gebruikers, waarbij de belangrijkste de leerkracht en de
 ## Methodologie
 In de figuur hieronder is een tijdslijn te zien van de stappen en methodologieën die doorlopen zijn tijdens het ontwikkelen van Feelie. 
 <p align="center">
-  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/tijdslijn.png" width="100%" />
+  <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/tijdslijn1.png" width="100%" />
 </p>
 
 **Discovery**
