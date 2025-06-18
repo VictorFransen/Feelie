@@ -444,12 +444,16 @@ Voor een uigebreider rapport en alle data zie: [rapport](https://acrobat.adobe.c
 #### 3.3.2 Usability test: interface leerkracht + MoSCoW review app
 **Resultaten usability test:**
 - kadertje rond de emotie
+  
   Deze verandering werd telkens opgemerkt maar het duurde wel enkele minuten (1-10 min.)
 - geluid
+  
   Het geluid werd niet altijd gehoord door de leerkracht omdat het niet luid genoeg was of de frequentie te hoog. Een groot nadeel was dat de leerkracht het vaak niet hoorde maar de leerlingen wel, wat voor afleiding kan zorgen.
 - lichtje
+  
   Het lichtje was niet fel genoeg omdat het in een klas vaak heel zonnig is en werd niet opgemerkt.
 - kleurverandering
+  
   Deze trigger stond initieel niet in het protocol maar de leerkrachten gaven aan dat wanneer de emoties veranderen dit op zich al heel duidelijk en van veraf zichtbaar is door de kleur.
   
 **Conclusie usability-test:**
@@ -500,7 +504,7 @@ Hiermee word Design requirements verder onderzocht:
 -  3.1.3: 'De app is overzichtelijk en simpel'
 -  3.2.1: 'Duidelijke weergave van wie wanneer welke emotie ervaarde' verder onderzocht
 > [!IMPORTANT]
-> De tips die in de app beschikbaar zijn over hoe een leerkracht met bepaalde emoties van leerlingen kunnen omgaan zijn gegenereerd door AI en dus niet letterlijk te nemen. Deze tips zullen in dit project ook   > niet verder onderzocht worden omdat wij hier niet de juiste achtergrond voor hebben.
+> De tips die in de app beschikbaar zijn over hoe een leerkracht met bepaalde emoties van leerlingen kunnen omgaan zijn gegenereerd door AI en dus niet letterlijk te nemen. Deze tips zullen in dit project ook niet verder onderzocht worden omdat wij hier niet de juiste achtergrond voor hebben.
 
 **Prototypes**
 
