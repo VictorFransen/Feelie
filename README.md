@@ -497,7 +497,7 @@ Om een antwoord te vinden op de vragen zal een vergelijkende usability test uitg
 -	Gezichtsuitdrukkingen/ lichaamsexpressie leerkracht
 -	Moeilijkheden
   
-Achteraf zal voor elke app gevraagd worden om een SUS (system usability scale) in te vullen. Daarna volgt nog een korte nabespreking. De volledige discussiegids, contexten, taken en bijlagen zijn te vinden in [dit protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:6c1cd126-1186-45f6-988a-8b8abc4c5aa8).
+Achteraf zal voor elke app gevraagd worden om een SUS (system usability scale) in te vullen. Daarna volgt nog een korte nabespreking. De volledige discussiegids, contexten, taken en bijlagen zijn te vinden in [dit protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:d990576c-6cbf-4857-a71c-5a82bfa57e14).
 
 
 Hiermee word Design requirements verder onderzocht:
@@ -511,7 +511,7 @@ Hiermee word Design requirements verder onderzocht:
 In develop 1 werd geconcludeerd dat het overzicht per leerling en het volledig weekoverzicht kunnen samengevoegd worden. Daarom toont app 1 enkel een weekoverzicht en app 2 enkel een overzicht per leerling.
 - **App 1**
 
-De eerste app is te zien in onderstaande afbeeldingen. De volledige app is te vinden via [deze link](https://www.figma.com/design/wEshOaTTDDkKxwav1qaNoc/App-defenition-2?node-id=0-1&t=VsmjA3XAYgujL0lr-1). De reden waarom bepaalde keuzes zijn gemaakt zijn te vinden in [het protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:5daf253b-b7fe-4d91-a227-10ec8d04dac7). Deze app is ook uitgewerkt is een [laptop](https://www.figma.com/proto/mmPpQbuJKQSJKLFPVjRFJD/Untitled?node-id=1-2&starting-point-node-id=1%3A2&t=xJIWV6uHKxSTCTM1-1) variant.
+De eerste app is te zien in onderstaande afbeeldingen. De volledige app is te vinden via [deze link](https://www.figma.com/design/wEshOaTTDDkKxwav1qaNoc/App-defenition-2?node-id=0-1&t=VsmjA3XAYgujL0lr-1). De reden waarom bepaalde keuzes zijn gemaakt zijn te vinden in [het protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:d990576c-6cbf-4857-a71c-5a82bfa57e14). Deze app is ook uitgewerkt is een [laptop](https://www.figma.com/proto/mmPpQbuJKQSJKLFPVjRFJD/Untitled?node-id=1-2&starting-point-node-id=1%3A2&t=xJIWV6uHKxSTCTM1-1) variant.
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/App1_weekoverzicht.png" width="150" />
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app1_2.png" width="150" />
@@ -521,7 +521,7 @@ De eerste app is te zien in onderstaande afbeeldingen. De volledige app is te vi
 
 - **App 2**
 
-De tweede app is te zien in onderstaande afbeeldingen. De volledige app is te vinden via [deze link](https://www.figma.com/proto/1NmKLkYI1ie7w2FXsoln4x/Untitled?node-id=1-28&p=f&t=80uLAq00ATcLO2Bi-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1). Wederom is de beschrijving van de app te vinden in [het protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:5daf253b-b7fe-4d91-a227-10ec8d04dac7).
+De tweede app is te zien in onderstaande afbeeldingen. De volledige app is te vinden via [deze link](https://www.figma.com/proto/1NmKLkYI1ie7w2FXsoln4x/Untitled?node-id=1-28&p=f&t=80uLAq00ATcLO2Bi-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1). Wederom is de beschrijving van de app te vinden in [het protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:d990576c-6cbf-4857-a71c-5a82bfa57e14).
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app2_1.png" width="150" />
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/app2_2.png" width="150" />
@@ -933,7 +933,7 @@ Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We heb
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:3d8894b3-2fa3-4877-81a5-d52bf8f23af0)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:22777b34-8a17-4312-93aa-f924ec4f8e31)
 - **Develop 2**
-  - [protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:6c1cd126-1186-45f6-988a-8b8abc4c5aa8)
+  - [protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:d990576c-6cbf-4857-a71c-5a82bfa57e14)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f622fa05-ea8e-42d4-928a-e0e3f7c42d79)
 - **Develop 3**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:59ac4213-8d88-4b82-b901-f299c4641b95)
