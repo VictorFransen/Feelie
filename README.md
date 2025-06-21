@@ -79,9 +79,9 @@ Om op de bovengenoemde vragen onderbouwde antwoorden te krijgen werd eerst aan l
 #### 1.2.1 literatuuronderzoek
 In het literatuuronderzoek werden deelvragen 1 t.e.m. 5 onderzocht via stakeholdermapping en de 5W/H methode.  Het volledige uitgewerkte protocol van dit literatuuronderzoek is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:c845fe7f-24a4-4b6a-a0fe-1af629438356) te vinden.
 #### 1.2.2 interviews (N=3)
-Inteviews met twee leerkrachten en een zorgleerkracht beantwoordden deelvragen 8 t.e.m. 12 uit de doelstellingen. Het protocol voor deze interviews is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:4b6db281-ad43-4667-8b5c-be15bfe0595c) te vinden. Deze interviews werden geanalyseerd en vervolgens werd een user model en persona opgesteld.
+Inteviews met twee leerkrachten en een zorgleerkracht beantwoordden deelvragen 8 t.e.m. 12 uit de doelstellingen. Het protocol voor deze interviews is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:aad1884a-c076-48e9-a487-d8229b3c3e45) te vinden. Deze interviews werden geanalyseerd en vervolgens werd een user model en persona opgesteld.
 #### 1.2.3 focusgroep (N=4)
-Aan de hand van een focusgroep met kinderen van 8-10 jaar werden deelvragen 6 t.e.m. 9 onderzocht. Het volledige protocol van deze focusgroep is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:233cdea7-30ad-4383-bd4e-c6e02371e6ce) te vinden. De focusgroep is gehouden aan de hand van een spelbord zoals hieronder te zien om het leuk en kindvriendelijk te maken. 
+Aan de hand van een focusgroep met kinderen van 8-10 jaar werden deelvragen 6 t.e.m. 9 onderzocht. Het volledige protocol van deze focusgroep is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:1fc1c91f-84db-4f1c-a5f3-b8edb087afa5) te vinden. De focusgroep is gehouden aan de hand van een spelbord zoals hieronder te zien om het leuk en kindvriendelijk te maken. 
 <p align="center">
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/spelbord_focusgroep.jpg" width="70%" />
 </p>
@@ -287,7 +287,7 @@ Momenteel bestaat het gevalideerde concept (figuur hieronder) uit een bakje op d
   <img src="https://github.com/VictorFransen/Feelie/blob/main/foto's/schets_finaal.jpg" width="500" />
 </p>
 
-Voor een gedetailleerde analyse en rapport van de gebruikerstesten zie: [rapport wave 1](https://acrobat.adobe.com/id/urn:aaid:sc:eu:d71bb71f-ce42-4e73-b318-c8e4f45a3a2c) en [rapport wave 2](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f661a435-779b-4238-9a97-c5f221a0e30b)
+Voor een gedetailleerde analyse en rapport van de gebruikerstesten zie: [rapport wave 1](https://acrobat.adobe.com/id/urn:aaid:sc:eu:0048a198-c19c-4582-ba37-7849bdb0200b)
 
 ### 2.4 Conclusies & implicaties
 Uit deze twee waves van conceptesten werd duidelijk vastgesteld dat alle vier de leerkrachten zeer enthousiast zijn over het concept. Ze gaven aan dat dit een grote impact kan hebben in de klas en de werkdruk kan verlagen. Ook de leerlingen gaven aan dat ze nood hebben aan een laagdrempelige manier om hun emoties te communiceren.  Het is dus duidelijk dat het bedachte concept wel een effectieve en goede oplossing is voor het probleem. Ook werden nog andere belangrijke conclusies en implicaties getrokken uit deze testen:
@@ -439,7 +439,7 @@ Ook kan er gesteld worden dat het prototype met de lampjes het beste regelmatig 
 
 Door de verkregen data met elkaar te vergelijken is de keuze van feedback voor de interface van de leerlingen het gebruik van lichtjes.
 
-Voor een uigebreider rapport en alle data zie: [rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:22777b34-8a17-4312-93aa-f924ec4f8e31).
+Voor een uigebreider rapport en alle data zie: [rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:fae0cd63-12c8-4623-a189-82cb7797e7c2).
 
 #### 3.3.2 Usability test: interface leerkracht + MoSCoW review app
 **Resultaten usability test:**
@@ -555,7 +555,7 @@ De leerkrachten gaven allemaal aan dat het hamburgermenu van app 2 overbodig was
 
 **SUS**
 
-Gebruik makend van de _System Usability Scale (SUS)_ gaven de leerkrachten hun mening over 10 uitspraken omtrent de usability van de apps. Deze liepen over het algemeen redelijk gelijk. Toch was er een voorkeur te zien voor app 1. Dit gaven de leerkrachten tijdens de gebruikerstesten ook vaak aan. Voor een uitgebreid overzicht van de antwoorden op de SUS, zie [rapport develop 2](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f622fa05-ea8e-42d4-928a-e0e3f7c42d79).
+Gebruik makend van de _System Usability Scale (SUS)_ gaven de leerkrachten hun mening over 10 uitspraken omtrent de usability van de apps. Deze liepen over het algemeen redelijk gelijk. Toch was er een voorkeur te zien voor app 1. Dit gaven de leerkrachten tijdens de gebruikerstesten ook vaak aan. Voor een uitgebreid overzicht van de antwoorden op de SUS, zie [rapport develop 2](hhttps://acrobat.adobe.com/id/urn:aaid:sc:EU:cf3b3684-6c46-4d14-9cfe-f3f501c8f048).
 
 **Overzicht en esthetiek**
 
@@ -657,7 +657,7 @@ De gegevens van deze verschillende bakjes komen toe in de [acces point](https://
 
 ### 5.3 Resultaten
 
-De volledige analyse is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:1b69781e-e197-449b-8c80-3a6cd83a494a) te vinden.
+De volledige analyse is [hier](https://acrobat.adobe.com/id/urn:aaid:sc:EU:a57621b3-e0a8-4d80-8ea3-e5583fe29f2b) te vinden.
 
 **Interface leerlingen**
 - De leerkrachten merkten geen significante veranderingen bij de leerlingen door het gebruik van Feelie. Enerzijds is dit positief, omdat het aangeeft dat Feelie niet afleidt tijdens de les. Anderzijds is het wel de bedoeling dat leerlingen hun emoties beter leren benoemen en sneller hulp vragen, een effect dat hopelijk op langere termijn zichtbaar wordt.
@@ -913,10 +913,10 @@ Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We heb
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:c845fe7f-24a4-4b6a-a0fe-1af629438356)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:cd1d0bf1-15b4-4a6f-bd34-006992754987)
 - **Interview**
-  - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:4b6db281-ad43-4667-8b5c-be15bfe0595c)
+  - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:aad1884a-c076-48e9-a487-d8229b3c3e45)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:fff1cd1f-7df0-4306-a81d-5dae30df3dcd)
 - **Focusgroep**
-  - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:233cdea7-30ad-4383-bd4e-c6e02371e6ce)
+  - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:1fc1c91f-84db-4f1c-a5f3-b8edb087afa5)
   - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:01e18d2f-dbab-46d9-97d0-6a67dd119852)
 ### Definition
 - **Wave 1 gebruikerstesten**
@@ -925,19 +925,19 @@ Over het algemeen denken we dat we ons project wel goed hebben aangepakt. We heb
   - [app](https://ugentbe-my.sharepoint.com/:p:/r/personal/linde_aerssens_ugent_be/Documents/semester%203/project%20gebruiksgericht%20ontwerpen/002_defenition/pwp_test.pptx?d=w1f1832b05cf0445f8539058f8e9dea3d&csf=1&web=1&e=eWel1Q)
 - **Wave 2 gebruikerstesten**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:90d25d05-af82-4730-8d17-69c00fb9f6cb)
-  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f661a435-779b-4238-9a97-c5f221a0e30b)
+  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:b7db07a2-4258-4f3f-9ae3-c9fd6dc31479)
   - [app](https://embed.figma.com/proto/xjk2GZR6GmpDlgrpEQ6WCS/Untitled?node-id=1-2&starting-point-node-id=1%3A2&embed-host=share)
 
 ### Develop
 - **Develop 1**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:3d8894b3-2fa3-4877-81a5-d52bf8f23af0)
-  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:22777b34-8a17-4312-93aa-f924ec4f8e31)
+  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:fae0cd63-12c8-4623-a189-82cb7797e7c2)
 - **Develop 2**
   - [protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:d990576c-6cbf-4857-a71c-5a82bfa57e14)
-  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f622fa05-ea8e-42d4-928a-e0e3f7c42d79)
+  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:cf3b3684-6c46-4d14-9cfe-f3f501c8f048)
 - **Develop 3**
   - [Protocol](https://acrobat.adobe.com/id/urn:aaid:sc:EU:59ac4213-8d88-4b82-b901-f299c4641b95)
-  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:1b69781e-e197-449b-8c80-3a6cd83a494a)
+  - [Rapport](https://acrobat.adobe.com/id/urn:aaid:sc:EU:a57621b3-e0a8-4d80-8ea3-e5583fe29f2b)
 ## 10 Bronnen
 [^1]: Cassano, M., Perry-Parrish, C., Stegall, S., Zeman, J. (April 2006). Emotion Regulation in Children and Adolescents. University of Maine.
 [^2]: Brackett, M., Simmons, D. (oktober 2015). Emotions Matter. Guilford Press.
